@@ -1,0 +1,2356 @@
+Drug	MolId	MolName	Target
+Danggui	MOL000358	beta-sitosterol	Progesterone receptor
+Danggui	MOL000358	beta-sitosterol	Nuclear receptor coactivator 2
+Danggui	MOL000358	beta-sitosterol	Prostaglandin G/H synthase 1
+Danggui	MOL000358	beta-sitosterol	Prostaglandin G/H synthase 2
+Danggui	MOL000358	beta-sitosterol	Heat shock protein HSP 90
+Danggui	MOL000358	beta-sitosterol	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+Danggui	MOL000358	beta-sitosterol	Potassium voltage-gated channel subfamily H member 2
+Danggui	MOL000358	beta-sitosterol	mRNA of PKA Catalytic Subunit C-alpha
+Danggui	MOL000358	beta-sitosterol	Dopamine D1 receptor
+Danggui	MOL000358	beta-sitosterol	Muscarinic acetylcholine receptor M3
+Danggui	MOL000358	beta-sitosterol	Muscarinic acetylcholine receptor M1
+Danggui	MOL000358	beta-sitosterol	Sodium channel protein type 5 subunit alpha
+Danggui	MOL000358	beta-sitosterol	Gamma-aminobutyric-acid receptor alpha-2 subunit
+Danggui	MOL000358	beta-sitosterol	Muscarinic acetylcholine receptor M4
+Danggui	MOL000358	beta-sitosterol	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+Danggui	MOL000358	beta-sitosterol	5-hydroxytryptamine 2A receptor
+Danggui	MOL000358	beta-sitosterol	Gamma-aminobutyric-acid receptor alpha-5 subunit
+Danggui	MOL000358	beta-sitosterol	Alpha-1A adrenergic receptor
+Danggui	MOL000358	beta-sitosterol	Gamma-aminobutyric-acid receptor alpha-3 subunit
+Danggui	MOL000358	beta-sitosterol	Muscarinic acetylcholine receptor M2
+Danggui	MOL000358	beta-sitosterol	Alpha-1B adrenergic receptor
+Danggui	MOL000358	beta-sitosterol	Beta-2 adrenergic receptor
+Danggui	MOL000358	beta-sitosterol	Neuronal acetylcholine receptor subunit alpha-2
+Danggui	MOL000358	beta-sitosterol	Sodium-dependent serotonin transporter
+Danggui	MOL000358	beta-sitosterol	Mu-type opioid receptor
+Danggui	MOL000358	beta-sitosterol	Gamma-aminobutyric acid receptor subunit alpha-1
+Danggui	MOL000358	beta-sitosterol	Neuronal acetylcholine receptor protein, alpha-7 chain
+Danggui	MOL000358	beta-sitosterol	Cytochrome P450-cam
+Danggui	MOL000358	beta-sitosterol	Apoptosis regulator Bcl-2
+Danggui	MOL000358	beta-sitosterol	Apoptosis regulator BAX
+Danggui	MOL000358	beta-sitosterol	Caspase-9
+Danggui	MOL000358	beta-sitosterol	Transcription factor AP-1
+Danggui	MOL000358	beta-sitosterol	Caspase-3
+Danggui	MOL000358	beta-sitosterol	Caspase-8
+Danggui	MOL000358	beta-sitosterol	Protein kinase C alpha type
+Danggui	MOL000358	beta-sitosterol	Transforming growth factor beta-1
+Danggui	MOL000358	beta-sitosterol	Serum paraoxonase/arylesterase 1
+Danggui	MOL000358	beta-sitosterol	Microtubule-associated protein 2
+Danggui	MOL000449	Stigmasterol	Progesterone receptor
+Danggui	MOL000449	Stigmasterol	Mineralocorticoid receptor
+Danggui	MOL000449	Stigmasterol	Nuclear receptor coactivator 2
+Danggui	MOL000449	Stigmasterol	Alcohol dehydrogenase 1C
+Danggui	MOL000449	Stigmasterol	Ig gamma-1 chain C region
+Danggui	MOL000449	Stigmasterol	Retinoic acid receptor RXR-alpha
+Danggui	MOL000449	Stigmasterol	Nuclear receptor coactivator 1
+Danggui	MOL000449	Stigmasterol	Prostaglandin G/H synthase 1
+Danggui	MOL000449	Stigmasterol	Prostaglandin G/H synthase 2
+Danggui	MOL000449	Stigmasterol	Alpha-2A adrenergic receptor
+Danggui	MOL000449	Stigmasterol	Sodium-dependent noradrenaline transporter
+Danggui	MOL000449	Stigmasterol	Sodium-dependent dopamine transporter
+Danggui	MOL000449	Stigmasterol	Beta-2 adrenergic receptor
+Danggui	MOL000449	Stigmasterol	Aldose reductase
+Danggui	MOL000449	Stigmasterol	Urokinase-type plasminogen activator
+Danggui	MOL000449	Stigmasterol	Leukotriene A-4 hydrolase
+Danggui	MOL000449	Stigmasterol	Amine oxidase [flavin-containing] B
+Danggui	MOL000449	Stigmasterol	Amine oxidase [flavin-containing] A
+Danggui	MOL000449	Stigmasterol	mRNA of PKA Catalytic Subunit C-alpha
+Danggui	MOL000449	Stigmasterol	Chymotrypsinogen B
+Danggui	MOL000449	Stigmasterol	Muscarinic acetylcholine receptor M3
+Danggui	MOL000449	Stigmasterol	Muscarinic acetylcholine receptor M1
+Danggui	MOL000449	Stigmasterol	Beta-1 adrenergic receptor
+Danggui	MOL000449	Stigmasterol	Sodium channel protein type 5 subunit alpha
+Danggui	MOL000449	Stigmasterol	5-hydroxytryptamine 2A receptor
+Danggui	MOL000449	Stigmasterol	Alpha-1A adrenergic receptor
+Danggui	MOL000449	Stigmasterol	Gamma-aminobutyric-acid receptor alpha-3 subunit
+Danggui	MOL000449	Stigmasterol	Muscarinic acetylcholine receptor M2
+Danggui	MOL000449	Stigmasterol	Alpha-1B adrenergic receptor
+Danggui	MOL000449	Stigmasterol	Gamma-aminobutyric acid receptor subunit alpha-1
+Danggui	MOL000449	Stigmasterol	Neuronal acetylcholine receptor protein, alpha-7 chain
+gancao	MOL001484	Inermine	Prostaglandin G/H synthase 1
+gancao	MOL001484	Inermine	Muscarinic acetylcholine receptor M3
+gancao	MOL001484	Inermine	Sodium channel protein type 5 subunit alpha
+gancao	MOL001484	Inermine	Prostaglandin G/H synthase 2
+gancao	MOL001484	Inermine	5-hydroxytryptamine receptor 3A
+gancao	MOL001484	Inermine	Retinoic acid receptor RXR-alpha
+gancao	MOL001484	Inermine	Alpha-1B adrenergic receptor
+gancao	MOL001484	Inermine	Alpha-1D adrenergic receptor
+gancao	MOL001484	Inermine	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+gancao	MOL001484	Inermine	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL001484	Inermine	Ig gamma-1 chain C region
+gancao	MOL001484	Inermine	Trypsin-1
+gancao	MOL001484	Inermine	Calmodulin
+gancao	MOL001484	Inermine	Muscarinic acetylcholine receptor M1
+gancao	MOL001484	Inermine	Beta-2 adrenergic receptor
+gancao	MOL001484	Inermine	Mu-type opioid receptor
+gancao	MOL001484	Inermine	Heat shock protein HSP 90
+gancao	MOL001792	DFV	Prostaglandin G/H synthase 1
+gancao	MOL001792	DFV	Estrogen receptor
+gancao	MOL001792	DFV	Prostaglandin G/H synthase 2
+gancao	MOL001792	DFV	Retinoic acid receptor RXR-alpha
+gancao	MOL001792	DFV	Beta-2 adrenergic receptor
+gancao	MOL001792	DFV	Heat shock protein HSP 90
+gancao	MOL001792	DFV	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+gancao	MOL001792	DFV	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL001792	DFV	Beta-lactamase
+gancao	MOL001792	DFV	Amine oxidase [flavin-containing] B
+gancao	MOL001792	DFV	Sodium-dependent serotonin transporter
+gancao	MOL001792	DFV	cAMP-dependent protein kinase inhibitor alpha
+gancao	MOL000211	Mairin	Progesterone receptor
+gancao	MOL002311	Glycyrol	Nitric oxide synthase, inducible
+gancao	MOL002311	Glycyrol	Estrogen receptor
+gancao	MOL002311	Glycyrol	Peroxisome proliferator activated receptor gamma
+gancao	MOL002311	Glycyrol	Prostaglandin G/H synthase 2
+gancao	MOL002311	Glycyrol	Vascular endothelial growth factor receptor 2
+gancao	MOL002311	Glycyrol	Mitogen-activated protein kinase 14
+gancao	MOL002311	Glycyrol	Glycogen synthase kinase-3 beta
+gancao	MOL002311	Glycyrol	Serine/threonine-protein kinase Chk1
+gancao	MOL002311	Glycyrol	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL002311	Glycyrol	Cyclin-A2
+gancao	MOL002311	Glycyrol	Thrombin
+gancao	MOL000239	Jaranol	Nitric oxide synthase, inducible
+gancao	MOL000239	Jaranol	Prostaglandin G/H synthase 1
+gancao	MOL000239	Jaranol	Androgen receptor
+gancao	MOL000239	Jaranol	Sodium channel protein type 5 subunit alpha
+gancao	MOL000239	Jaranol	Prostaglandin G/H synthase 2
+gancao	MOL000239	Jaranol	Estrogen receptor beta
+gancao	MOL000239	Jaranol	Dipeptidyl peptidase IV
+gancao	MOL000239	Jaranol	Heat shock protein HSP 90
+gancao	MOL000239	Jaranol	Cell division protein kinase 2
+gancao	MOL000239	Jaranol	Serine/threonine-protein kinase Chk1
+gancao	MOL000239	Jaranol	Trypsin-1
+gancao	MOL000239	Jaranol	Nuclear receptor coactivator 2
+gancao	MOL000239	Jaranol	Calmodulin
+gancao	MOL002565	Medicarpin	Nitric oxide synthase, inducible
+gancao	MOL002565	Medicarpin	Prostaglandin G/H synthase 1
+gancao	MOL002565	Medicarpin	Dopamine D1 receptor
+gancao	MOL002565	Medicarpin	Muscarinic acetylcholine receptor M3
+gancao	MOL002565	Medicarpin	Muscarinic acetylcholine receptor M1
+gancao	MOL002565	Medicarpin	Estrogen receptor
+gancao	MOL002565	Medicarpin	Sodium channel protein type 5 subunit alpha
+gancao	MOL002565	Medicarpin	Muscarinic acetylcholine receptor M5
+gancao	MOL002565	Medicarpin	Prostaglandin G/H synthase 2
+gancao	MOL002565	Medicarpin	Muscarinic acetylcholine receptor M4
+gancao	MOL002565	Medicarpin	Retinoic acid receptor RXR-alpha
+gancao	MOL002565	Medicarpin	5-hydroxytryptamine 2A receptor
+gancao	MOL002565	Medicarpin	Alpha-1A adrenergic receptor
+gancao	MOL002565	Medicarpin	Muscarinic acetylcholine receptor M2
+gancao	MOL002565	Medicarpin	Alpha-1B adrenergic receptor
+gancao	MOL002565	Medicarpin	Sodium-dependent dopamine transporter
+gancao	MOL002565	Medicarpin	Beta-2 adrenergic receptor
+gancao	MOL002565	Medicarpin	Sodium-dependent serotonin transporter
+gancao	MOL002565	Medicarpin	Mu-type opioid receptor
+gancao	MOL002565	Medicarpin	Estrogen receptor beta
+gancao	MOL002565	Medicarpin	Dipeptidyl peptidase IV
+gancao	MOL002565	Medicarpin	Mitogen-activated protein kinase 10
+gancao	MOL002565	Medicarpin	Heat shock protein HSP 90
+gancao	MOL002565	Medicarpin	Cell division protein kinase 2
+gancao	MOL002565	Medicarpin	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+gancao	MOL002565	Medicarpin	Neuronal acetylcholine receptor protein, alpha-7 chain
+gancao	MOL002565	Medicarpin	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL002565	Medicarpin	Trypsin-1
+gancao	MOL002565	Medicarpin	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL002565	Medicarpin	Cyclin-A2
+gancao	MOL002565	Medicarpin	Calmodulin
+gancao	MOL002565	Medicarpin	Delta-type opioid receptor
+gancao	MOL002565	Medicarpin	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+gancao	MOL002565	Medicarpin	Alpha-1D adrenergic receptor
+gancao	MOL000354	isorhamnetin	Nitric oxide synthase, inducible
+gancao	MOL000354	isorhamnetin	Prostaglandin G/H synthase 1
+gancao	MOL000354	isorhamnetin	Estrogen receptor
+gancao	MOL000354	isorhamnetin	Androgen receptor
+gancao	MOL000354	isorhamnetin	Peroxisome proliferator activated receptor gamma
+gancao	MOL000354	isorhamnetin	Prostaglandin G/H synthase 2
+gancao	MOL000354	isorhamnetin	mRNA of Protein-tyrosine phosphatase, non-receptor type 1
+gancao	MOL000354	isorhamnetin	Estrogen receptor beta
+gancao	MOL000354	isorhamnetin	Dipeptidyl peptidase IV
+gancao	MOL000354	isorhamnetin	Mitogen-activated protein kinase 14
+gancao	MOL000354	isorhamnetin	Glycogen synthase kinase-3 beta
+gancao	MOL000354	isorhamnetin	Heat shock protein HSP 90
+gancao	MOL000354	isorhamnetin	Cell division protein kinase 2
+gancao	MOL000354	isorhamnetin	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+gancao	MOL000354	isorhamnetin	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL000354	isorhamnetin	Trypsin-1
+gancao	MOL000354	isorhamnetin	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL000354	isorhamnetin	Cyclin-A2
+gancao	MOL000354	isorhamnetin	Nuclear receptor coactivator 2
+gancao	MOL000354	isorhamnetin	Calmodulin
+gancao	MOL000354	isorhamnetin	Glycogen phosphorylase, muscle form
+gancao	MOL000354	isorhamnetin	Peroxisome proliferator activated receptor delta
+gancao	MOL000354	isorhamnetin	Serine/threonine-protein kinase Chk1
+gancao	MOL000354	isorhamnetin	Aldose reductase
+gancao	MOL000354	isorhamnetin	Nuclear receptor coactivator 1
+gancao	MOL000354	isorhamnetin	Coagulation factor VII
+gancao	MOL000354	isorhamnetin	Thrombin
+gancao	MOL000354	isorhamnetin	Nitric-oxide synthase, endothelial
+gancao	MOL000354	isorhamnetin	Acetylcholinesterase
+gancao	MOL000354	isorhamnetin	Gamma-aminobutyric acid receptor subunit alpha-1
+gancao	MOL000354	isorhamnetin	Amine oxidase [flavin-containing] B
+gancao	MOL000354	isorhamnetin	Glutamate receptor 2
+gancao	MOL000354	isorhamnetin	Cytochrome P450-cam
+gancao	MOL000354	isorhamnetin	Transcription factor p65
+gancao	MOL000354	isorhamnetin	Xanthine dehydrogenase/oxidase
+gancao	MOL000354	isorhamnetin	Neutrophil cytosol factor 1
+gancao	MOL000354	isorhamnetin	Oxidized low-density lipoprotein receptor 1
+gancao	MOL000359	sitosterol	Progesterone receptor
+gancao	MOL000359	sitosterol	Nuclear receptor coactivator 2
+gancao	MOL000359	sitosterol	Mineralocorticoid receptor
+gancao	MOL003656	Lupiwighteone	Nitric oxide synthase, inducible
+gancao	MOL003656	Lupiwighteone	Thrombin
+gancao	MOL003656	Lupiwighteone	Estrogen receptor
+gancao	MOL003656	Lupiwighteone	Androgen receptor
+gancao	MOL003656	Lupiwighteone	Sodium channel protein type 5 subunit alpha
+gancao	MOL003656	Lupiwighteone	Peroxisome proliferator activated receptor gamma
+gancao	MOL003656	Lupiwighteone	Coagulation factor Xa
+gancao	MOL003656	Lupiwighteone	Prostaglandin G/H synthase 2
+gancao	MOL003656	Lupiwighteone	DNA topoisomerase II
+gancao	MOL003656	Lupiwighteone	Estrogen receptor beta
+gancao	MOL003656	Lupiwighteone	Dipeptidyl peptidase IV
+gancao	MOL003656	Lupiwighteone	Mitogen-activated protein kinase 14
+gancao	MOL003656	Lupiwighteone	Glycogen synthase kinase-3 beta
+gancao	MOL003656	Lupiwighteone	Heat shock protein HSP 90
+gancao	MOL003656	Lupiwighteone	Cell division protein kinase 2
+gancao	MOL003656	Lupiwighteone	Serine/threonine-protein kinase Chk1
+gancao	MOL003656	Lupiwighteone	Trypsin-1
+gancao	MOL003656	Lupiwighteone	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL003656	Lupiwighteone	Cyclin-A2
+gancao	MOL003656	Lupiwighteone	Nuclear receptor coactivator 2
+gancao	MOL003656	Lupiwighteone	Calmodulin
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Nitric oxide synthase, inducible
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Prostaglandin G/H synthase 1
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Dopamine D1 receptor
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Muscarinic acetylcholine receptor M3
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Thrombin
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Muscarinic acetylcholine receptor M1
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Estrogen receptor
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Androgen receptor
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Beta-1 adrenergic receptor
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Sodium channel protein type 5 subunit alpha
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Peroxisome proliferator activated receptor gamma
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Prostaglandin G/H synthase 2
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Retinoic acid receptor RXR-alpha
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Acetylcholinesterase
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Alpha-1B adrenergic receptor
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Sodium-dependent dopamine transporter
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Beta-2 adrenergic receptor
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Alpha-1D adrenergic receptor
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Sodium-dependent serotonin transporter
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Estrogen receptor beta
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Gamma-aminobutyric acid receptor subunit alpha-1
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Dipeptidyl peptidase IV
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Mitogen-activated protein kinase 14
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Glycogen synthase kinase-3 beta
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Heat shock protein HSP 90
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Cell division protein kinase 2
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Leukotriene A-4 hydrolase
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Amine oxidase [flavin-containing] B
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Neuronal acetylcholine receptor protein, alpha-7 chain
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Serine/threonine-protein kinase Chk1
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Ig gamma-1 chain C region
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Trypsin-1
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Cyclin-A2
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Nuclear receptor coactivator 1
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	cAMP-dependent protein kinase inhibitor alpha
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Calmodulin
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Muscarinic acetylcholine receptor M5
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Nitric-oxide synthase, endothelial
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Mu-type opioid receptor
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	Nuclear receptor coactivator 2
+gancao	MOL000392	formononetin	Nitric oxide synthase, inducible
+gancao	MOL000392	formononetin	Prostaglandin G/H synthase 1
+gancao	MOL000392	formononetin	Muscarinic acetylcholine receptor M1
+gancao	MOL000392	formononetin	Estrogen receptor
+gancao	MOL000392	formononetin	Androgen receptor
+gancao	MOL000392	formononetin	Peroxisome proliferator activated receptor gamma
+gancao	MOL000392	formononetin	Prostaglandin G/H synthase 2
+gancao	MOL000392	formononetin	Retinoic acid receptor RXR-alpha
+gancao	MOL000392	formononetin	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+gancao	MOL000392	formononetin	Alpha-1A adrenergic receptor
+gancao	MOL000392	formononetin	Sodium-dependent dopamine transporter
+gancao	MOL000392	formononetin	Beta-2 adrenergic receptor
+gancao	MOL000392	formononetin	Sodium-dependent serotonin transporter
+gancao	MOL000392	formononetin	Estrogen receptor beta
+gancao	MOL000392	formononetin	Dipeptidyl peptidase IV
+gancao	MOL000392	formononetin	Mitogen-activated protein kinase 14
+gancao	MOL000392	formononetin	Glycogen synthase kinase-3 beta
+gancao	MOL000392	formononetin	Heat shock protein HSP 90
+gancao	MOL000392	formononetin	Cell division protein kinase 2
+gancao	MOL000392	formononetin	Amine oxidase [flavin-containing] B
+gancao	MOL000392	formononetin	Serine/threonine-protein kinase Chk1
+gancao	MOL000392	formononetin	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL000392	formononetin	Trypsin-1
+gancao	MOL000392	formononetin	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL000392	formononetin	Cyclin-A2
+gancao	MOL000392	formononetin	Calmodulin
+gancao	MOL000392	formononetin	cAMP-dependent protein kinase inhibitor alpha
+gancao	MOL000392	formononetin	Thrombin
+gancao	MOL000392	formononetin	Nitric-oxide synthase, endothelial
+gancao	MOL000392	formononetin	Acetylcholinesterase
+gancao	MOL000392	formononetin	Beta-lactamase
+gancao	MOL000392	formononetin	Transcription factor AP-1
+gancao	MOL000392	formononetin	Peroxisome proliferator-activated receptor gamma
+gancao	MOL000392	formononetin	Interleukin-4
+gancao	MOL000392	formononetin	NAD-dependent deacetylase sirtuin-1
+gancao	MOL000392	formononetin	ATP synthase subunit beta, mitochondrial
+gancao	MOL000392	formononetin	NADH-ubiquinone oxidoreductase chain 6
+gancao	MOL000392	formononetin	3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 2
+gancao	MOL000392	formononetin	3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 1
+gancao	MOL000417	Calycosin	Nitric oxide synthase, inducible
+gancao	MOL000417	Calycosin	Prostaglandin G/H synthase 1
+gancao	MOL000417	Calycosin	Estrogen receptor
+gancao	MOL000417	Calycosin	Androgen receptor
+gancao	MOL000417	Calycosin	Peroxisome proliferator activated receptor gamma
+gancao	MOL000417	Calycosin	Prostaglandin G/H synthase 2
+gancao	MOL000417	Calycosin	Retinoic acid receptor RXR-alpha
+gancao	MOL000417	Calycosin	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+gancao	MOL000417	Calycosin	Estrogen receptor beta
+gancao	MOL000417	Calycosin	Dipeptidyl peptidase IV
+gancao	MOL000417	Calycosin	Mitogen-activated protein kinase 14
+gancao	MOL000417	Calycosin	Glycogen synthase kinase-3 beta
+gancao	MOL000417	Calycosin	Heat shock protein HSP 90
+gancao	MOL000417	Calycosin	Cell division protein kinase 2
+gancao	MOL000417	Calycosin	Serine/threonine-protein kinase Chk1
+gancao	MOL000417	Calycosin	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL000417	Calycosin	Trypsin-1
+gancao	MOL000417	Calycosin	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL000417	Calycosin	Cyclin-A2
+gancao	MOL000417	Calycosin	Nuclear receptor coactivator 2
+gancao	MOL000417	Calycosin	Calmodulin
+gancao	MOL000417	Calycosin	Beta-2 adrenergic receptor
+gancao	MOL000422	kaempferol	Nitric oxide synthase, inducible
+gancao	MOL000422	kaempferol	Prostaglandin G/H synthase 1
+gancao	MOL000422	kaempferol	Androgen receptor
+gancao	MOL000422	kaempferol	Peroxisome proliferator activated receptor gamma
+gancao	MOL000422	kaempferol	Prostaglandin G/H synthase 2
+gancao	MOL000422	kaempferol	Heat shock protein HSP 90
+gancao	MOL000422	kaempferol	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+gancao	MOL000422	kaempferol	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL000422	kaempferol	Nuclear receptor coactivator 2
+gancao	MOL000422	kaempferol	Dipeptidyl peptidase IV
+gancao	MOL000422	kaempferol	Trypsin-1
+gancao	MOL000422	kaempferol	Progesterone receptor
+gancao	MOL000422	kaempferol	Thrombin
+gancao	MOL000422	kaempferol	Muscarinic acetylcholine receptor M1
+gancao	MOL000422	kaempferol	Nitric-oxide synthase, endothelial
+gancao	MOL000422	kaempferol	Gamma-aminobutyric-acid receptor alpha-2 subunit
+gancao	MOL000422	kaempferol	Acetylcholinesterase
+gancao	MOL000422	kaempferol	Sodium-dependent noradrenaline transporter
+gancao	MOL000422	kaempferol	Muscarinic acetylcholine receptor M2
+gancao	MOL000422	kaempferol	Alpha-1B adrenergic receptor
+gancao	MOL000422	kaempferol	Gamma-aminobutyric acid receptor subunit alpha-1
+gancao	MOL000422	kaempferol	DNA topoisomerase II
+gancao	MOL000422	kaempferol	Coagulation factor VII
+gancao	MOL000422	kaempferol	Calmodulin
+gancao	MOL000422	kaempferol	Transcription factor p65
+gancao	MOL000422	kaempferol	Inhibitor of nuclear factor kappa-B kinase subunit beta
+gancao	MOL000422	kaempferol	RAC-alpha serine/threonine-protein kinase
+gancao	MOL000422	kaempferol	Apoptosis regulator Bcl-2
+gancao	MOL000422	kaempferol	Apoptosis regulator BAX
+gancao	MOL000422	kaempferol	Tumor necrosis factor
+gancao	MOL000422	kaempferol	Transcription factor AP-1
+gancao	MOL000422	kaempferol	Activator of 90 kDa heat shock protein ATPase homolog 1
+gancao	MOL000422	kaempferol	Caspase-3
+gancao	MOL000422	kaempferol	Mitogen-activated protein kinase 8
+gancao	MOL000422	kaempferol	Xanthine dehydrogenase/oxidase
+gancao	MOL000422	kaempferol	Interstitial collagenase
+gancao	MOL000422	kaempferol	Signal transducer and activator of transcription 1-alpha/beta
+gancao	MOL000422	kaempferol	Cell division control protein 2 homolog
+gancao	MOL000422	kaempferol	Peroxisome proliferator-activated receptor gamma
+gancao	MOL000422	kaempferol	Heme oxygenase 1
+gancao	MOL000422	kaempferol	Cytochrome P450 3A4
+gancao	MOL000422	kaempferol	Cytochrome P450 1A2
+gancao	MOL000422	kaempferol	Cytochrome P450 1A1
+gancao	MOL000422	kaempferol	Intercellular adhesion molecule 1
+gancao	MOL000422	kaempferol	E-selectin
+gancao	MOL000422	kaempferol	Vascular cell adhesion protein 1
+gancao	MOL000422	kaempferol	Nuclear receptor subfamily 1 group I member 2
+gancao	MOL000422	kaempferol	Cytochrome P450 1B1
+gancao	MOL000422	kaempferol	Arachidonate 5-lipoxygenase
+gancao	MOL000422	kaempferol	Hyaluronan synthase 2
+gancao	MOL000422	kaempferol	Glutathione S-transferase P
+gancao	MOL000422	kaempferol	Aryl hydrocarbon receptor
+gancao	MOL000422	kaempferol	26S proteasome non-ATPase regulatory subunit 3
+gancao	MOL000422	kaempferol	Solute carrier family 2, facilitated glucose transporter member 4
+gancao	MOL000422	kaempferol	Nuclear receptor subfamily 1 group I member 3
+gancao	MOL000422	kaempferol	Insulin receptor
+gancao	MOL000422	kaempferol	Type I iodothyronine deiodinase
+gancao	MOL000422	kaempferol	Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform
+gancao	MOL000422	kaempferol	Peroxidase C1A
+gancao	MOL000422	kaempferol	Glutathione S-transferase Mu 1
+gancao	MOL000422	kaempferol	Glutathione S-transferase Mu 2
+gancao	MOL000422	kaempferol	Aldo-keto reductase family 1 member C3
+gancao	MOL000422	kaempferol	Antileukoproteinase
+gancao	MOL004328	naringenin	Prostaglandin G/H synthase 1
+gancao	MOL004328	naringenin	Estrogen receptor
+gancao	MOL004328	naringenin	Prostaglandin G/H synthase 2
+gancao	MOL004328	naringenin	Heat shock protein HSP 90
+gancao	MOL004328	naringenin	Beta-lactamase
+gancao	MOL004328	naringenin	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL004328	naringenin	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+gancao	MOL004328	naringenin	Transcription factor p65
+gancao	MOL004328	naringenin	RAC-alpha serine/threonine-protein kinase
+gancao	MOL004328	naringenin	Apoptosis regulator Bcl-2
+gancao	MOL004328	naringenin	Mitogen-activated protein kinase 3
+gancao	MOL004328	naringenin	Mitogen-activated protein kinase 1
+gancao	MOL004328	naringenin	Caspase-3
+gancao	MOL004328	naringenin	Fatty acid synthase
+gancao	MOL004328	naringenin	Low-density lipoprotein receptor
+gancao	MOL004328	naringenin	Bcl2 antagonist of cell death
+gancao	MOL004328	naringenin	Superoxide dismutase [Cu-Zn]
+gancao	MOL004328	naringenin	Catalase
+gancao	MOL004328	naringenin	Peroxisome proliferator-activated receptor gamma
+gancao	MOL004328	naringenin	Microsomal triglyceride transfer protein large subunit
+gancao	MOL004328	naringenin	Apolipoprotein B-100
+gancao	MOL004328	naringenin	Phospholipase B1, membrane-associated
+gancao	MOL004328	naringenin	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+gancao	MOL004328	naringenin	Cytochrome P450 19A1
+gancao	MOL004328	naringenin	Glutathione S-transferase P
+gancao	MOL004328	naringenin	UDP-glucuronosyltransferase 1-1
+gancao	MOL004328	naringenin	Peroxisome proliferator-activated receptor alpha
+gancao	MOL004328	naringenin	Sterol regulatory element-binding protein 1
+gancao	MOL004328	naringenin	Glutathione reductase, mitochondrial
+gancao	MOL004328	naringenin	Multidrug resistance-associated protein 1
+gancao	MOL004328	naringenin	Adiponectin
+gancao	MOL004328	naringenin	Sterol O-acyltransferase 2
+gancao	MOL004328	naringenin	Aldo-keto reductase family 1 member C1
+gancao	MOL004328	naringenin	Aspartate aminotransferase, cytoplasmic
+gancao	MOL004328	naringenin	4-aminobutyrate aminotransferase, mitochondrial
+gancao	MOL004328	naringenin	Liver carboxylesterase 1
+gancao	MOL004328	naringenin	Sterol O-acyltransferase 1
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	Nitric oxide synthase, inducible
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	Potassium voltage-gated channel subfamily H member 2
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	Estrogen receptor
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	Androgen receptor
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	Peroxisome proliferator activated receptor gamma
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	Coagulation factor Xa
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	Prostaglandin G/H synthase 2
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	Estrogen receptor beta
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	Mitogen-activated protein kinase 14
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	Glycogen synthase kinase-3 beta
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	Calmodulin
+gancao	MOL004806	euchrenone	Nitric oxide synthase, inducible
+gancao	MOL004806	euchrenone	Potassium voltage-gated channel subfamily H member 2
+gancao	MOL004806	euchrenone	Estrogen receptor
+gancao	MOL004806	euchrenone	Sodium channel protein type 5 subunit alpha
+gancao	MOL004806	euchrenone	Coagulation factor Xa
+gancao	MOL004806	euchrenone	Prostaglandin G/H synthase 2
+gancao	MOL004806	euchrenone	Estrogen receptor beta
+gancao	MOL004806	euchrenone	Beta-secretase
+gancao	MOL004806	euchrenone	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004806	euchrenone	Calmodulin
+gancao	MOL004808	glyasperin B	Nitric oxide synthase, inducible
+gancao	MOL004808	glyasperin B	Thrombin
+gancao	MOL004808	glyasperin B	Estrogen receptor
+gancao	MOL004808	glyasperin B	Androgen receptor
+gancao	MOL004808	glyasperin B	Peroxisome proliferator activated receptor gamma
+gancao	MOL004808	glyasperin B	Coagulation factor Xa
+gancao	MOL004808	glyasperin B	Prostaglandin G/H synthase 2
+gancao	MOL004808	glyasperin B	Coagulation factor VII
+gancao	MOL004808	glyasperin B	Vascular endothelial growth factor receptor 2
+gancao	MOL004808	glyasperin B	Acetylcholinesterase
+gancao	MOL004808	glyasperin B	DNA topoisomerase II
+gancao	MOL004808	glyasperin B	Estrogen receptor beta
+gancao	MOL004808	glyasperin B	Dipeptidyl peptidase IV
+gancao	MOL004808	glyasperin B	Glycogen synthase kinase-3 beta
+gancao	MOL004808	glyasperin B	Heat shock protein HSP 90
+gancao	MOL004808	glyasperin B	Cell division protein kinase 2
+gancao	MOL004808	glyasperin B	Trypsin-1
+gancao	MOL004808	glyasperin B	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004808	glyasperin B	Cyclin-A2
+gancao	MOL004808	glyasperin B	Nuclear receptor coactivator 2
+gancao	MOL004808	glyasperin B	Calmodulin
+gancao	MOL004810	glyasperin F	Nitric oxide synthase, inducible
+gancao	MOL004810	glyasperin F	Prostaglandin G/H synthase 1
+gancao	MOL004810	glyasperin F	Estrogen receptor
+gancao	MOL004810	glyasperin F	Androgen receptor
+gancao	MOL004810	glyasperin F	Sodium channel protein type 5 subunit alpha
+gancao	MOL004810	glyasperin F	Peroxisome proliferator activated receptor gamma
+gancao	MOL004810	glyasperin F	Coagulation factor Xa
+gancao	MOL004810	glyasperin F	Prostaglandin G/H synthase 2
+gancao	MOL004810	glyasperin F	DNA topoisomerase II
+gancao	MOL004810	glyasperin F	Estrogen receptor beta
+gancao	MOL004810	glyasperin F	Mitogen-activated protein kinase 14
+gancao	MOL004810	glyasperin F	Glycogen synthase kinase-3 beta
+gancao	MOL004810	glyasperin F	Heat shock protein HSP 90
+gancao	MOL004810	glyasperin F	Cell division protein kinase 2
+gancao	MOL004810	glyasperin F	Trypsin-1
+gancao	MOL004810	glyasperin F	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004810	glyasperin F	Cyclin-A2
+gancao	MOL004810	glyasperin F	Calmodulin
+gancao	MOL004811	Glyasperin C	Nitric oxide synthase, inducible
+gancao	MOL004811	Glyasperin C	Thrombin
+gancao	MOL004811	Glyasperin C	Potassium voltage-gated channel subfamily H member 2
+gancao	MOL004811	Glyasperin C	Estrogen receptor
+gancao	MOL004811	Glyasperin C	Androgen receptor
+gancao	MOL004811	Glyasperin C	Sodium channel protein type 5 subunit alpha
+gancao	MOL004811	Glyasperin C	Peroxisome proliferator activated receptor gamma
+gancao	MOL004811	Glyasperin C	Coagulation factor Xa
+gancao	MOL004811	Glyasperin C	Prostaglandin G/H synthase 2
+gancao	MOL004811	Glyasperin C	Retinoic acid receptor RXR-alpha
+gancao	MOL004811	Glyasperin C	Acetylcholinesterase
+gancao	MOL004811	Glyasperin C	DNA topoisomerase II
+gancao	MOL004811	Glyasperin C	Estrogen receptor beta
+gancao	MOL004811	Glyasperin C	Dipeptidyl peptidase IV
+gancao	MOL004811	Glyasperin C	Mitogen-activated protein kinase 14
+gancao	MOL004811	Glyasperin C	Glycogen synthase kinase-3 beta
+gancao	MOL004811	Glyasperin C	Heat shock protein HSP 90
+gancao	MOL004811	Glyasperin C	Cell division protein kinase 2
+gancao	MOL004811	Glyasperin C	Serine/threonine-protein kinase Chk1
+gancao	MOL004811	Glyasperin C	Trypsin-1
+gancao	MOL004811	Glyasperin C	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004811	Glyasperin C	Cyclin-A2
+gancao	MOL004811	Glyasperin C	Nuclear receptor coactivator 2
+gancao	MOL004811	Glyasperin C	Calmodulin
+gancao	MOL004814	Isotrifoliol	Nitric oxide synthase, inducible
+gancao	MOL004814	Isotrifoliol	Estrogen receptor
+gancao	MOL004814	Isotrifoliol	Androgen receptor
+gancao	MOL004814	Isotrifoliol	Prostaglandin G/H synthase 2
+gancao	MOL004814	Isotrifoliol	Estrogen receptor beta
+gancao	MOL004814	Isotrifoliol	Mitogen-activated protein kinase 14
+gancao	MOL004814	Isotrifoliol	Glycogen synthase kinase-3 beta
+gancao	MOL004814	Isotrifoliol	Heat shock protein HSP 90
+gancao	MOL004814	Isotrifoliol	Cell division protein kinase 2
+gancao	MOL004814	Isotrifoliol	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+gancao	MOL004814	Isotrifoliol	Serine/threonine-protein kinase Chk1
+gancao	MOL004814	Isotrifoliol	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL004814	Isotrifoliol	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004814	Isotrifoliol	Cyclin-A2
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	Nitric oxide synthase, inducible
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	Prostaglandin G/H synthase 1
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	Estrogen receptor
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	Androgen receptor
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	Sodium channel protein type 5 subunit alpha
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	Peroxisome proliferator activated receptor gamma
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	Coagulation factor Xa
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	Prostaglandin G/H synthase 2
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	Carbonic anhydrase II
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	Retinoic acid receptor RXR-alpha
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	Alpha-1B adrenergic receptor
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	Estrogen receptor beta
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	Mitogen-activated protein kinase 14
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	Glycogen synthase kinase-3 beta
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	Cell division protein kinase 2
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	Serine/threonine-protein kinase Chk1
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	Cyclin-A2
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	Nuclear receptor coactivator 2
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	Calmodulin
+gancao	MOL004820	kanzonols W	Nitric oxide synthase, inducible
+gancao	MOL004820	kanzonols W	Prostaglandin G/H synthase 1
+gancao	MOL004820	kanzonols W	Estrogen receptor
+gancao	MOL004820	kanzonols W	Androgen receptor
+gancao	MOL004820	kanzonols W	Sodium channel protein type 5 subunit alpha
+gancao	MOL004820	kanzonols W	Peroxisome proliferator activated receptor gamma
+gancao	MOL004820	kanzonols W	Coagulation factor Xa
+gancao	MOL004820	kanzonols W	Prostaglandin G/H synthase 2
+gancao	MOL004820	kanzonols W	Retinoic acid receptor RXR-alpha
+gancao	MOL004820	kanzonols W	DNA topoisomerase II
+gancao	MOL004820	kanzonols W	Estrogen receptor beta
+gancao	MOL004820	kanzonols W	Mitogen-activated protein kinase 14
+gancao	MOL004820	kanzonols W	Glycogen synthase kinase-3 beta
+gancao	MOL004820	kanzonols W	Cell division protein kinase 2
+gancao	MOL004820	kanzonols W	Serine/threonine-protein kinase Chk1
+gancao	MOL004820	kanzonols W	Trypsin-1
+gancao	MOL004820	kanzonols W	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004820	kanzonols W	Cyclin-A2
+gancao	MOL004820	kanzonols W	Nuclear receptor coactivator 2
+gancao	MOL004820	kanzonols W	Nuclear receptor coactivator 1
+gancao	MOL004820	kanzonols W	Calmodulin
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	Nitric oxide synthase, inducible
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	Thrombin
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	Estrogen receptor
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	Androgen receptor
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	Peroxisome proliferator activated receptor gamma
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	Coagulation factor Xa
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	Prostaglandin G/H synthase 2
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	Coagulation factor VII
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	Vascular endothelial growth factor receptor 2
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	Acetylcholinesterase
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	DNA topoisomerase II
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	Estrogen receptor beta
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	Dipeptidyl peptidase IV
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	Mitogen-activated protein kinase 14
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	Glycogen synthase kinase-3 beta
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	Cell division protein kinase 2
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	Serine/threonine-protein kinase Chk1
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	Trypsin-1
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	Cyclin-A2
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	Calmodulin
+gancao	MOL004827	Semilicoisoflavone B	Nitric oxide synthase, inducible
+gancao	MOL004827	Semilicoisoflavone B	Thrombin
+gancao	MOL004827	Semilicoisoflavone B	Estrogen receptor
+gancao	MOL004827	Semilicoisoflavone B	Androgen receptor
+gancao	MOL004827	Semilicoisoflavone B	Sodium channel protein type 5 subunit alpha
+gancao	MOL004827	Semilicoisoflavone B	Peroxisome proliferator activated receptor gamma
+gancao	MOL004827	Semilicoisoflavone B	Coagulation factor Xa
+gancao	MOL004827	Semilicoisoflavone B	Prostaglandin G/H synthase 2
+gancao	MOL004827	Semilicoisoflavone B	Coagulation factor VII
+gancao	MOL004827	Semilicoisoflavone B	Acetylcholinesterase
+gancao	MOL004827	Semilicoisoflavone B	DNA topoisomerase II
+gancao	MOL004827	Semilicoisoflavone B	Glycogen synthase kinase-3 beta
+gancao	MOL004827	Semilicoisoflavone B	Heat shock protein HSP 90
+gancao	MOL004827	Semilicoisoflavone B	Cell division protein kinase 2
+gancao	MOL004827	Semilicoisoflavone B	Serine/threonine-protein kinase Chk1
+gancao	MOL004827	Semilicoisoflavone B	Trypsin-1
+gancao	MOL004827	Semilicoisoflavone B	Calmodulin
+gancao	MOL004828	Glepidotin A	Nitric oxide synthase, inducible
+gancao	MOL004828	Glepidotin A	Prostaglandin G/H synthase 1
+gancao	MOL004828	Glepidotin A	Thrombin
+gancao	MOL004828	Glepidotin A	Estrogen receptor
+gancao	MOL004828	Glepidotin A	Androgen receptor
+gancao	MOL004828	Glepidotin A	Sodium channel protein type 5 subunit alpha
+gancao	MOL004828	Glepidotin A	Peroxisome proliferator activated receptor gamma
+gancao	MOL004828	Glepidotin A	Coagulation factor Xa
+gancao	MOL004828	Glepidotin A	Prostaglandin G/H synthase 2
+gancao	MOL004828	Glepidotin A	Nitric-oxide synthase, endothelial
+gancao	MOL004828	Glepidotin A	Coagulation factor VII
+gancao	MOL004828	Glepidotin A	Vascular endothelial growth factor receptor 2
+gancao	MOL004828	Glepidotin A	Retinoic acid receptor RXR-alpha
+gancao	MOL004828	Glepidotin A	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+gancao	MOL004828	Glepidotin A	DNA topoisomerase II
+gancao	MOL004828	Glepidotin A	Dipeptidyl peptidase IV
+gancao	MOL004828	Glepidotin A	Mitogen-activated protein kinase 14
+gancao	MOL004828	Glepidotin A	Glycogen synthase kinase-3 beta
+gancao	MOL004828	Glepidotin A	Heat shock protein HSP 90
+gancao	MOL004828	Glepidotin A	Cell division protein kinase 2
+gancao	MOL004828	Glepidotin A	Serine/threonine-protein kinase Chk1
+gancao	MOL004828	Glepidotin A	Ig gamma-1 chain C region
+gancao	MOL004828	Glepidotin A	Trypsin-1
+gancao	MOL004828	Glepidotin A	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004828	Glepidotin A	Cyclin-A2
+gancao	MOL004828	Glepidotin A	Calmodulin
+gancao	MOL004829	Glepidotin B	Prostaglandin G/H synthase 1
+gancao	MOL004829	Glepidotin B	Estrogen receptor
+gancao	MOL004829	Glepidotin B	Sodium channel protein type 5 subunit alpha
+gancao	MOL004829	Glepidotin B	Coagulation factor Xa
+gancao	MOL004829	Glepidotin B	Prostaglandin G/H synthase 2
+gancao	MOL004829	Glepidotin B	Nitric-oxide synthase, endothelial
+gancao	MOL004829	Glepidotin B	Coagulation factor VII
+gancao	MOL004829	Glepidotin B	Retinoic acid receptor RXR-alpha
+gancao	MOL004829	Glepidotin B	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+gancao	MOL004829	Glepidotin B	Alpha-1B adrenergic receptor
+gancao	MOL004829	Glepidotin B	DNA topoisomerase II
+gancao	MOL004829	Glepidotin B	Heat shock protein HSP 90
+gancao	MOL004829	Glepidotin B	Ig gamma-1 chain C region
+gancao	MOL004829	Glepidotin B	Nuclear receptor coactivator 1
+gancao	MOL004829	Glepidotin B	Calmodulin
+gancao	MOL004833	Phaseolinisoflavan	Nitric oxide synthase, inducible
+gancao	MOL004833	Phaseolinisoflavan	Muscarinic acetylcholine receptor M1
+gancao	MOL004833	Phaseolinisoflavan	Estrogen receptor
+gancao	MOL004833	Phaseolinisoflavan	Androgen receptor
+gancao	MOL004833	Phaseolinisoflavan	Sodium channel protein type 5 subunit alpha
+gancao	MOL004833	Phaseolinisoflavan	Peroxisome proliferator activated receptor gamma
+gancao	MOL004833	Phaseolinisoflavan	Coagulation factor Xa
+gancao	MOL004833	Phaseolinisoflavan	Prostaglandin G/H synthase 2
+gancao	MOL004833	Phaseolinisoflavan	Retinoic acid receptor RXR-alpha
+gancao	MOL004833	Phaseolinisoflavan	Acetylcholinesterase
+gancao	MOL004833	Phaseolinisoflavan	Alpha-1B adrenergic receptor
+gancao	MOL004833	Phaseolinisoflavan	Beta-2 adrenergic receptor
+gancao	MOL004833	Phaseolinisoflavan	Estrogen receptor beta
+gancao	MOL004833	Phaseolinisoflavan	Mitogen-activated protein kinase 14
+gancao	MOL004833	Phaseolinisoflavan	Glycogen synthase kinase-3 beta
+gancao	MOL004833	Phaseolinisoflavan	Cell division protein kinase 2
+gancao	MOL004833	Phaseolinisoflavan	Serine/threonine-protein kinase Chk1
+gancao	MOL004833	Phaseolinisoflavan	Trypsin-1
+gancao	MOL004833	Phaseolinisoflavan	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004833	Phaseolinisoflavan	Cyclin-A2
+gancao	MOL004833	Phaseolinisoflavan	Nuclear receptor coactivator 1
+gancao	MOL004833	Phaseolinisoflavan	Calmodulin
+gancao	MOL004835	Glypallichalcone	Nitric oxide synthase, inducible
+gancao	MOL004835	Glypallichalcone	Prostaglandin G/H synthase 1
+gancao	MOL004835	Glypallichalcone	Muscarinic acetylcholine receptor M1
+gancao	MOL004835	Glypallichalcone	Estrogen receptor
+gancao	MOL004835	Glypallichalcone	Androgen receptor
+gancao	MOL004835	Glypallichalcone	Sodium channel protein type 5 subunit alpha
+gancao	MOL004835	Glypallichalcone	Peroxisome proliferator activated receptor gamma
+gancao	MOL004835	Glypallichalcone	Prostaglandin G/H synthase 2
+gancao	MOL004835	Glypallichalcone	Carbonic anhydrase II
+gancao	MOL004835	Glypallichalcone	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+gancao	MOL004835	Glypallichalcone	Alpha-1B adrenergic receptor
+gancao	MOL004835	Glypallichalcone	Sodium-dependent dopamine transporter
+gancao	MOL004835	Glypallichalcone	Beta-2 adrenergic receptor
+gancao	MOL004835	Glypallichalcone	Sodium-dependent serotonin transporter
+gancao	MOL004835	Glypallichalcone	Estrogen receptor beta
+gancao	MOL004835	Glypallichalcone	Mitogen-activated protein kinase 14
+gancao	MOL004835	Glypallichalcone	Glycogen synthase kinase-3 beta
+gancao	MOL004835	Glypallichalcone	Heat shock protein HSP 90
+gancao	MOL004835	Glypallichalcone	Cell division protein kinase 2
+gancao	MOL004835	Glypallichalcone	Leukotriene A-4 hydrolase
+gancao	MOL004835	Glypallichalcone	Amine oxidase [flavin-containing] B
+gancao	MOL004835	Glypallichalcone	Serine/threonine-protein kinase Chk1
+gancao	MOL004835	Glypallichalcone	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL004835	Glypallichalcone	Cyclin-A2
+gancao	MOL004835	Glypallichalcone	Nuclear receptor coactivator 1
+gancao	MOL004835	Glypallichalcone	cAMP-dependent protein kinase inhibitor alpha
+gancao	MOL004835	Glypallichalcone	Calmodulin
+gancao	MOL004838	8-(6-hydroxy-2-benzofuranyl)-2,2-dimethyl-5-chromenol	Nitric oxide synthase, inducible
+gancao	MOL004838	8-(6-hydroxy-2-benzofuranyl)-2,2-dimethyl-5-chromenol	Estrogen receptor
+gancao	MOL004838	8-(6-hydroxy-2-benzofuranyl)-2,2-dimethyl-5-chromenol	Prostaglandin G/H synthase 2
+gancao	MOL004838	8-(6-hydroxy-2-benzofuranyl)-2,2-dimethyl-5-chromenol	Retinoic acid receptor RXR-alpha
+gancao	MOL004838	8-(6-hydroxy-2-benzofuranyl)-2,2-dimethyl-5-chromenol	Heat shock protein HSP 90
+gancao	MOL004838	8-(6-hydroxy-2-benzofuranyl)-2,2-dimethyl-5-chromenol	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+gancao	MOL004841	Licochalcone B	Nitric oxide synthase, inducible
+gancao	MOL004841	Licochalcone B	Prostaglandin G/H synthase 1
+gancao	MOL004841	Licochalcone B	Estrogen receptor
+gancao	MOL004841	Licochalcone B	Androgen receptor
+gancao	MOL004841	Licochalcone B	Peroxisome proliferator activated receptor gamma
+gancao	MOL004841	Licochalcone B	Prostaglandin G/H synthase 2
+gancao	MOL004841	Licochalcone B	Carbonic anhydrase II
+gancao	MOL004841	Licochalcone B	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+gancao	MOL004841	Licochalcone B	Beta-2 adrenergic receptor
+gancao	MOL004841	Licochalcone B	Estrogen receptor beta
+gancao	MOL004841	Licochalcone B	Mitogen-activated protein kinase 14
+gancao	MOL004841	Licochalcone B	Glycogen synthase kinase-3 beta
+gancao	MOL004841	Licochalcone B	Heat shock protein HSP 90
+gancao	MOL004841	Licochalcone B	Cell division protein kinase 2
+gancao	MOL004841	Licochalcone B	Serine/threonine-protein kinase Chk1
+gancao	MOL004841	Licochalcone B	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL004841	Licochalcone B	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004841	Licochalcone B	Cyclin-A2
+gancao	MOL004841	Licochalcone B	Calmodulin
+gancao	MOL004848	licochalcone G	Nitric oxide synthase, inducible
+gancao	MOL004848	licochalcone G	Estrogen receptor
+gancao	MOL004848	licochalcone G	Androgen receptor
+gancao	MOL004848	licochalcone G	Peroxisome proliferator activated receptor gamma
+gancao	MOL004848	licochalcone G	Coagulation factor Xa
+gancao	MOL004848	licochalcone G	Prostaglandin G/H synthase 2
+gancao	MOL004848	licochalcone G	Vascular endothelial growth factor receptor 2
+gancao	MOL004848	licochalcone G	Estrogen receptor beta
+gancao	MOL004848	licochalcone G	Mitogen-activated protein kinase 14
+gancao	MOL004848	licochalcone G	Glycogen synthase kinase-3 beta
+gancao	MOL004848	licochalcone G	Heat shock protein HSP 90
+gancao	MOL004848	licochalcone G	Cell division protein kinase 2
+gancao	MOL004848	licochalcone G	Ig gamma-1 chain C region
+gancao	MOL004848	licochalcone G	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004848	licochalcone G	Cyclin-A2
+gancao	MOL004848	licochalcone G	Nuclear receptor coactivator 2
+gancao	MOL004848	licochalcone G	Calmodulin
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Nitric oxide synthase, inducible
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Thrombin
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Potassium voltage-gated channel subfamily H member 2
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Estrogen receptor
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Androgen receptor
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Peroxisome proliferator activated receptor gamma
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Coagulation factor Xa
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Prostaglandin G/H synthase 2
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Coagulation factor VII
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Vascular endothelial growth factor receptor 2
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	DNA topoisomerase II
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Estrogen receptor beta
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Dipeptidyl peptidase IV
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Mitogen-activated protein kinase 14
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Glycogen synthase kinase-3 beta
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Heat shock protein HSP 90
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Cell division protein kinase 2
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Serine/threonine-protein kinase Chk1
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Trypsin-1
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Nuclear receptor coactivator 2
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Nuclear receptor coactivator 1
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	Calmodulin
+gancao	MOL004855	Licoricone	Nitric oxide synthase, inducible
+gancao	MOL004855	Licoricone	Thrombin
+gancao	MOL004855	Licoricone	Potassium voltage-gated channel subfamily H member 2
+gancao	MOL004855	Licoricone	Estrogen receptor
+gancao	MOL004855	Licoricone	Androgen receptor
+gancao	MOL004855	Licoricone	Peroxisome proliferator activated receptor gamma
+gancao	MOL004855	Licoricone	Coagulation factor Xa
+gancao	MOL004855	Licoricone	Prostaglandin G/H synthase 2
+gancao	MOL004855	Licoricone	Vascular endothelial growth factor receptor 2
+gancao	MOL004855	Licoricone	DNA topoisomerase II
+gancao	MOL004855	Licoricone	Serine/threonine-protein kinase Chk1
+gancao	MOL004855	Licoricone	Trypsin-1
+gancao	MOL004855	Licoricone	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004855	Licoricone	Nuclear receptor coactivator 2
+gancao	MOL004855	Licoricone	Calmodulin
+gancao	MOL004856	Gancaonin A	Nitric oxide synthase, inducible
+gancao	MOL004856	Gancaonin A	Thrombin
+gancao	MOL004856	Gancaonin A	Estrogen receptor
+gancao	MOL004856	Gancaonin A	Androgen receptor
+gancao	MOL004856	Gancaonin A	Sodium channel protein type 5 subunit alpha
+gancao	MOL004856	Gancaonin A	Peroxisome proliferator activated receptor gamma
+gancao	MOL004856	Gancaonin A	Coagulation factor Xa
+gancao	MOL004856	Gancaonin A	Prostaglandin G/H synthase 2
+gancao	MOL004856	Gancaonin A	Acetylcholinesterase
+gancao	MOL004856	Gancaonin A	DNA topoisomerase II
+gancao	MOL004856	Gancaonin A	Estrogen receptor beta
+gancao	MOL004856	Gancaonin A	Dipeptidyl peptidase IV
+gancao	MOL004856	Gancaonin A	Glycogen synthase kinase-3 beta
+gancao	MOL004856	Gancaonin A	Heat shock protein HSP 90
+gancao	MOL004856	Gancaonin A	Serine/threonine-protein kinase Chk1
+gancao	MOL004856	Gancaonin A	Trypsin-1
+gancao	MOL004856	Gancaonin A	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004856	Gancaonin A	Cyclin-A2
+gancao	MOL004856	Gancaonin A	Nuclear receptor coactivator 2
+gancao	MOL004856	Gancaonin A	Calmodulin
+gancao	MOL004857	Gancaonin B	Nitric oxide synthase, inducible
+gancao	MOL004857	Gancaonin B	Thrombin
+gancao	MOL004857	Gancaonin B	Estrogen receptor
+gancao	MOL004857	Gancaonin B	Androgen receptor
+gancao	MOL004857	Gancaonin B	Peroxisome proliferator activated receptor gamma
+gancao	MOL004857	Gancaonin B	Coagulation factor Xa
+gancao	MOL004857	Gancaonin B	Prostaglandin G/H synthase 2
+gancao	MOL004857	Gancaonin B	Coagulation factor VII
+gancao	MOL004857	Gancaonin B	Vascular endothelial growth factor receptor 2
+gancao	MOL004857	Gancaonin B	Alpha-1B adrenergic receptor
+gancao	MOL004857	Gancaonin B	Beta-2 adrenergic receptor
+gancao	MOL004857	Gancaonin B	DNA topoisomerase II
+gancao	MOL004857	Gancaonin B	Estrogen receptor beta
+gancao	MOL004857	Gancaonin B	Dipeptidyl peptidase IV
+gancao	MOL004857	Gancaonin B	Glycogen synthase kinase-3 beta
+gancao	MOL004857	Gancaonin B	Heat shock protein HSP 90
+gancao	MOL004857	Gancaonin B	Serine/threonine-protein kinase Chk1
+gancao	MOL004857	Gancaonin B	Trypsin-1
+gancao	MOL004857	Gancaonin B	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004857	Gancaonin B	Cyclin-A2
+gancao	MOL004857	Gancaonin B	Nuclear receptor coactivator 2
+gancao	MOL004857	Gancaonin B	Calmodulin
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	Nitric oxide synthase, inducible
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	Thrombin
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	Estrogen receptor
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	Androgen receptor
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	Peroxisome proliferator activated receptor gamma
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	Coagulation factor Xa
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	Prostaglandin G/H synthase 2
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	mRNA of Protein-tyrosine phosphatase, non-receptor type 1
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	Mitogen-activated protein kinase 14
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	Glycogen synthase kinase-3 beta
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	Heat shock protein HSP 90
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	Cell division protein kinase 2
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	Serine/threonine-protein kinase Chk1
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	Trypsin-1
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	Cyclin-A2
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	Nuclear receptor coactivator 2
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	Calmodulin
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	Nitric oxide synthase, inducible
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	Potassium voltage-gated channel subfamily H member 2
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	Estrogen receptor
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	Androgen receptor
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	Peroxisome proliferator activated receptor gamma
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	Coagulation factor Xa
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	Prostaglandin G/H synthase 2
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	DNA topoisomerase II
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	Estrogen receptor beta
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	Dipeptidyl peptidase IV
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	Mitogen-activated protein kinase 14
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	Glycogen synthase kinase-3 beta
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	Heat shock protein HSP 90
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	Cell division protein kinase 2
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	Serine/threonine-protein kinase Chk1
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	Trypsin-1
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	Cyclin-A2
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	Nuclear receptor coactivator 2
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	Calmodulin
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	Thrombin
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	Androgen receptor
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	Sodium channel protein type 5 subunit alpha
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	Peroxisome proliferator activated receptor gamma
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	Coagulation factor Xa
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	Prostaglandin G/H synthase 2
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	Coagulation factor VII
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	Beta-2 adrenergic receptor
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	Dipeptidyl peptidase IV
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	Heat shock protein HSP 90
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	Cell division protein kinase 2
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	Serine/threonine-protein kinase Chk1
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	Trypsin-1
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	Cyclin-A2
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	Calmodulin
+gancao	MOL004879	Glycyrin	Nitric oxide synthase, inducible
+gancao	MOL004879	Glycyrin	Thrombin
+gancao	MOL004879	Glycyrin	Potassium voltage-gated channel subfamily H member 2
+gancao	MOL004879	Glycyrin	Estrogen receptor
+gancao	MOL004879	Glycyrin	Androgen receptor
+gancao	MOL004879	Glycyrin	Peroxisome proliferator activated receptor gamma
+gancao	MOL004879	Glycyrin	Coagulation factor Xa
+gancao	MOL004879	Glycyrin	Prostaglandin G/H synthase 2
+gancao	MOL004879	Glycyrin	Vascular endothelial growth factor receptor 2
+gancao	MOL004879	Glycyrin	DNA topoisomerase II
+gancao	MOL004879	Glycyrin	Estrogen receptor beta
+gancao	MOL004879	Glycyrin	Dipeptidyl peptidase IV
+gancao	MOL004879	Glycyrin	Serine/threonine-protein kinase Chk1
+gancao	MOL004879	Glycyrin	Trypsin-1
+gancao	MOL004879	Glycyrin	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004879	Glycyrin	Nuclear receptor coactivator 2
+gancao	MOL004879	Glycyrin	Calmodulin
+gancao	MOL004882	Licocoumarone	Estrogen receptor
+gancao	MOL004882	Licocoumarone	Androgen receptor
+gancao	MOL004882	Licocoumarone	Estrogen receptor beta
+gancao	MOL004882	Licocoumarone	Glycogen synthase kinase-3 beta
+gancao	MOL004882	Licocoumarone	Heat shock protein HSP 90
+gancao	MOL004882	Licocoumarone	Cell division protein kinase 2
+gancao	MOL004882	Licocoumarone	Cyclin-A2
+gancao	MOL004883	Licoisoflavone	Nitric oxide synthase, inducible
+gancao	MOL004883	Licoisoflavone	Thrombin
+gancao	MOL004883	Licoisoflavone	Estrogen receptor
+gancao	MOL004883	Licoisoflavone	Androgen receptor
+gancao	MOL004883	Licoisoflavone	Peroxisome proliferator activated receptor gamma
+gancao	MOL004883	Licoisoflavone	Coagulation factor Xa
+gancao	MOL004883	Licoisoflavone	Prostaglandin G/H synthase 2
+gancao	MOL004883	Licoisoflavone	Vascular endothelial growth factor receptor 2
+gancao	MOL004883	Licoisoflavone	DNA topoisomerase II
+gancao	MOL004883	Licoisoflavone	Dipeptidyl peptidase IV
+gancao	MOL004883	Licoisoflavone	Mitogen-activated protein kinase 14
+gancao	MOL004883	Licoisoflavone	Heat shock protein HSP 90
+gancao	MOL004883	Licoisoflavone	Cell division protein kinase 2
+gancao	MOL004883	Licoisoflavone	Serine/threonine-protein kinase Chk1
+gancao	MOL004883	Licoisoflavone	Trypsin-1
+gancao	MOL004883	Licoisoflavone	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004883	Licoisoflavone	Cyclin-A2
+gancao	MOL004883	Licoisoflavone	Nuclear receptor coactivator 2
+gancao	MOL004883	Licoisoflavone	Calmodulin
+gancao	MOL004884	Licoisoflavone B	Nitric oxide synthase, inducible
+gancao	MOL004884	Licoisoflavone B	Thrombin
+gancao	MOL004884	Licoisoflavone B	Estrogen receptor
+gancao	MOL004884	Licoisoflavone B	Androgen receptor
+gancao	MOL004884	Licoisoflavone B	Peroxisome proliferator activated receptor gamma
+gancao	MOL004884	Licoisoflavone B	Coagulation factor Xa
+gancao	MOL004884	Licoisoflavone B	Prostaglandin G/H synthase 2
+gancao	MOL004884	Licoisoflavone B	Acetylcholinesterase
+gancao	MOL004884	Licoisoflavone B	DNA topoisomerase II
+gancao	MOL004884	Licoisoflavone B	Estrogen receptor beta
+gancao	MOL004884	Licoisoflavone B	Glycogen synthase kinase-3 beta
+gancao	MOL004884	Licoisoflavone B	Cell division protein kinase 2
+gancao	MOL004884	Licoisoflavone B	Serine/threonine-protein kinase Chk1
+gancao	MOL004884	Licoisoflavone B	Trypsin-1
+gancao	MOL004884	Licoisoflavone B	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004884	Licoisoflavone B	Cyclin-A2
+gancao	MOL004884	Licoisoflavone B	Calmodulin
+gancao	MOL004885	licoisoflavanone	Nitric oxide synthase, inducible
+gancao	MOL004885	licoisoflavanone	Prostaglandin G/H synthase 1
+gancao	MOL004885	licoisoflavanone	Estrogen receptor
+gancao	MOL004885	licoisoflavanone	Androgen receptor
+gancao	MOL004885	licoisoflavanone	Sodium channel protein type 5 subunit alpha
+gancao	MOL004885	licoisoflavanone	Peroxisome proliferator activated receptor gamma
+gancao	MOL004885	licoisoflavanone	Coagulation factor Xa
+gancao	MOL004885	licoisoflavanone	Prostaglandin G/H synthase 2
+gancao	MOL004885	licoisoflavanone	Coagulation factor VII
+gancao	MOL004885	licoisoflavanone	Acetylcholinesterase
+gancao	MOL004885	licoisoflavanone	DNA topoisomerase II
+gancao	MOL004885	licoisoflavanone	Estrogen receptor beta
+gancao	MOL004885	licoisoflavanone	Glycogen synthase kinase-3 beta
+gancao	MOL004885	licoisoflavanone	Heat shock protein HSP 90
+gancao	MOL004885	licoisoflavanone	Cell division protein kinase 2
+gancao	MOL004885	licoisoflavanone	Trypsin-1
+gancao	MOL004885	licoisoflavanone	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004885	licoisoflavanone	Cyclin-A2
+gancao	MOL004885	licoisoflavanone	Nuclear receptor coactivator 1
+gancao	MOL004885	licoisoflavanone	Calmodulin
+gancao	MOL004891	shinpterocarpin	Nitric oxide synthase, inducible
+gancao	MOL004891	shinpterocarpin	Prostaglandin G/H synthase 1
+gancao	MOL004891	shinpterocarpin	Muscarinic acetylcholine receptor M3
+gancao	MOL004891	shinpterocarpin	Potassium voltage-gated channel subfamily H member 2
+gancao	MOL004891	shinpterocarpin	Muscarinic acetylcholine receptor M1
+gancao	MOL004891	shinpterocarpin	Estrogen receptor
+gancao	MOL004891	shinpterocarpin	Androgen receptor
+gancao	MOL004891	shinpterocarpin	Sodium channel protein type 5 subunit alpha
+gancao	MOL004891	shinpterocarpin	Peroxisome proliferator activated receptor gamma
+gancao	MOL004891	shinpterocarpin	Prostaglandin G/H synthase 2
+gancao	MOL004891	shinpterocarpin	5-hydroxytryptamine receptor 3A
+gancao	MOL004891	shinpterocarpin	Retinoic acid receptor RXR-alpha
+gancao	MOL004891	shinpterocarpin	Delta-type opioid receptor
+gancao	MOL004891	shinpterocarpin	Alpha-1B adrenergic receptor
+gancao	MOL004891	shinpterocarpin	Beta-2 adrenergic receptor
+gancao	MOL004891	shinpterocarpin	Alpha-1D adrenergic receptor
+gancao	MOL004891	shinpterocarpin	Mu-type opioid receptor
+gancao	MOL004891	shinpterocarpin	Estrogen receptor beta
+gancao	MOL004891	shinpterocarpin	Mitogen-activated protein kinase 14
+gancao	MOL004891	shinpterocarpin	Glycogen synthase kinase-3 beta
+gancao	MOL004891	shinpterocarpin	Cell division protein kinase 2
+gancao	MOL004891	shinpterocarpin	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+gancao	MOL004891	shinpterocarpin	Neuronal acetylcholine receptor protein, alpha-7 chain
+gancao	MOL004891	shinpterocarpin	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL004891	shinpterocarpin	Retinoic acid receptor RXR-beta
+gancao	MOL004891	shinpterocarpin	Trypsin-1
+gancao	MOL004891	shinpterocarpin	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004891	shinpterocarpin	Cyclin-A2
+gancao	MOL004891	shinpterocarpin	Nuclear receptor coactivator 1
+gancao	MOL004891	shinpterocarpin	Calmodulin
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	Estrogen receptor
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	Androgen receptor
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	Peroxisome proliferator activated receptor gamma
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	Prostaglandin G/H synthase 2
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	Mitogen-activated protein kinase 14
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	Glycogen synthase kinase-3 beta
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	Heat shock protein HSP 90
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	Cell division protein kinase 2
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	Cyclin-A2
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	Nuclear receptor coactivator 2
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	Calmodulin
+gancao	MOL004903	liquiritin	Coagulation factor Xa
+gancao	MOL004903	liquiritin	Coagulation factor VII
+gancao	MOL004903	liquiritin	Calmodulin
+gancao	MOL004903	liquiritin	Prostaglandin G/H synthase 2
+gancao	MOL004903	liquiritin	Vascular endothelial growth factor receptor 2
+gancao	MOL004903	liquiritin	Superoxide dismutase [Cu-Zn]
+gancao	MOL004904	licopyranocoumarin	Nitric oxide synthase, inducible
+gancao	MOL004904	licopyranocoumarin	Thrombin
+gancao	MOL004904	licopyranocoumarin	Estrogen receptor
+gancao	MOL004904	licopyranocoumarin	Androgen receptor
+gancao	MOL004904	licopyranocoumarin	Peroxisome proliferator activated receptor gamma
+gancao	MOL004904	licopyranocoumarin	Coagulation factor Xa
+gancao	MOL004904	licopyranocoumarin	Prostaglandin G/H synthase 2
+gancao	MOL004904	licopyranocoumarin	Coagulation factor VII
+gancao	MOL004904	licopyranocoumarin	Vascular endothelial growth factor receptor 2
+gancao	MOL004904	licopyranocoumarin	Acetylcholinesterase
+gancao	MOL004904	licopyranocoumarin	DNA topoisomerase II
+gancao	MOL004904	licopyranocoumarin	Cell division protein kinase 2
+gancao	MOL004904	licopyranocoumarin	Trypsin-1
+gancao	MOL004904	licopyranocoumarin	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004904	licopyranocoumarin	Cyclin-A2
+gancao	MOL004904	licopyranocoumarin	Calmodulin
+gancao	MOL004907	Glyzaglabrin	Nitric oxide synthase, inducible
+gancao	MOL004907	Glyzaglabrin	Prostaglandin G/H synthase 1
+gancao	MOL004907	Glyzaglabrin	Estrogen receptor
+gancao	MOL004907	Glyzaglabrin	Androgen receptor
+gancao	MOL004907	Glyzaglabrin	Peroxisome proliferator activated receptor gamma
+gancao	MOL004907	Glyzaglabrin	Prostaglandin G/H synthase 2
+gancao	MOL004907	Glyzaglabrin	Estrogen receptor beta
+gancao	MOL004907	Glyzaglabrin	Dipeptidyl peptidase IV
+gancao	MOL004907	Glyzaglabrin	Mitogen-activated protein kinase 14
+gancao	MOL004907	Glyzaglabrin	Glycogen synthase kinase-3 beta
+gancao	MOL004907	Glyzaglabrin	Heat shock protein HSP 90
+gancao	MOL004907	Glyzaglabrin	Cell division protein kinase 2
+gancao	MOL004907	Glyzaglabrin	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+gancao	MOL004907	Glyzaglabrin	Serine/threonine-protein kinase Chk1
+gancao	MOL004907	Glyzaglabrin	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL004907	Glyzaglabrin	Trypsin-1
+gancao	MOL004907	Glyzaglabrin	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004907	Glyzaglabrin	Cyclin-A2
+gancao	MOL004908	Glabridin	Nitric oxide synthase, inducible
+gancao	MOL004908	Glabridin	Muscarinic acetylcholine receptor M1
+gancao	MOL004908	Glabridin	Estrogen receptor
+gancao	MOL004908	Glabridin	Androgen receptor
+gancao	MOL004908	Glabridin	Sodium channel protein type 5 subunit alpha
+gancao	MOL004908	Glabridin	Peroxisome proliferator activated receptor gamma
+gancao	MOL004908	Glabridin	Prostaglandin G/H synthase 2
+gancao	MOL004908	Glabridin	Retinoic acid receptor RXR-alpha
+gancao	MOL004908	Glabridin	Acetylcholinesterase
+gancao	MOL004908	Glabridin	Alpha-1B adrenergic receptor
+gancao	MOL004908	Glabridin	Beta-2 adrenergic receptor
+gancao	MOL004908	Glabridin	Estrogen receptor beta
+gancao	MOL004908	Glabridin	Mitogen-activated protein kinase 14
+gancao	MOL004908	Glabridin	Glycogen synthase kinase-3 beta
+gancao	MOL004908	Glabridin	Cell division protein kinase 2
+gancao	MOL004908	Glabridin	Serine/threonine-protein kinase Chk1
+gancao	MOL004908	Glabridin	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL004908	Glabridin	Retinoic acid receptor RXR-beta
+gancao	MOL004908	Glabridin	Ig gamma-1 chain C region
+gancao	MOL004908	Glabridin	Trypsin-1
+gancao	MOL004908	Glabridin	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004908	Glabridin	Cyclin-A2
+gancao	MOL004908	Glabridin	Nuclear receptor coactivator 2
+gancao	MOL004908	Glabridin	Nuclear receptor coactivator 1
+gancao	MOL004908	Glabridin	Calmodulin
+gancao	MOL004910	Glabranin	Nitric oxide synthase, inducible
+gancao	MOL004910	Glabranin	Prostaglandin G/H synthase 1
+gancao	MOL004910	Glabranin	Estrogen receptor
+gancao	MOL004910	Glabranin	Sodium channel protein type 5 subunit alpha
+gancao	MOL004910	Glabranin	Coagulation factor Xa
+gancao	MOL004910	Glabranin	Prostaglandin G/H synthase 2
+gancao	MOL004910	Glabranin	Nitric-oxide synthase, endothelial
+gancao	MOL004910	Glabranin	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+gancao	MOL004910	Glabranin	Heat shock protein HSP 90
+gancao	MOL004910	Glabranin	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL004910	Glabranin	Calmodulin
+gancao	MOL004911	Glabrene	Nitric oxide synthase, inducible
+gancao	MOL004911	Glabrene	Prostaglandin G/H synthase 1
+gancao	MOL004911	Glabrene	Estrogen receptor
+gancao	MOL004911	Glabrene	Androgen receptor
+gancao	MOL004911	Glabrene	Sodium channel protein type 5 subunit alpha
+gancao	MOL004911	Glabrene	Peroxisome proliferator activated receptor gamma
+gancao	MOL004911	Glabrene	Coagulation factor Xa
+gancao	MOL004911	Glabrene	Prostaglandin G/H synthase 2
+gancao	MOL004911	Glabrene	Retinoic acid receptor RXR-alpha
+gancao	MOL004911	Glabrene	Beta-2 adrenergic receptor
+gancao	MOL004911	Glabrene	Estrogen receptor beta
+gancao	MOL004911	Glabrene	Mitogen-activated protein kinase 14
+gancao	MOL004911	Glabrene	Glycogen synthase kinase-3 beta
+gancao	MOL004911	Glabrene	Heat shock protein HSP 90
+gancao	MOL004911	Glabrene	Cell division protein kinase 2
+gancao	MOL004911	Glabrene	Trypsin-1
+gancao	MOL004911	Glabrene	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004911	Glabrene	Nuclear receptor coactivator 2
+gancao	MOL004911	Glabrene	Calmodulin
+gancao	MOL004912	Glabrone	Nitric oxide synthase, inducible
+gancao	MOL004912	Glabrone	Prostaglandin G/H synthase 1
+gancao	MOL004912	Glabrone	Thrombin
+gancao	MOL004912	Glabrone	Estrogen receptor
+gancao	MOL004912	Glabrone	Androgen receptor
+gancao	MOL004912	Glabrone	Sodium channel protein type 5 subunit alpha
+gancao	MOL004912	Glabrone	Peroxisome proliferator activated receptor gamma
+gancao	MOL004912	Glabrone	Coagulation factor Xa
+gancao	MOL004912	Glabrone	Prostaglandin G/H synthase 2
+gancao	MOL004912	Glabrone	Retinoic acid receptor RXR-alpha
+gancao	MOL004912	Glabrone	Acetylcholinesterase
+gancao	MOL004912	Glabrone	Estrogen receptor beta
+gancao	MOL004912	Glabrone	Dipeptidyl peptidase IV
+gancao	MOL004912	Glabrone	Mitogen-activated protein kinase 14
+gancao	MOL004912	Glabrone	Glycogen synthase kinase-3 beta
+gancao	MOL004912	Glabrone	Cell division protein kinase 2
+gancao	MOL004912	Glabrone	Serine/threonine-protein kinase Chk1
+gancao	MOL004912	Glabrone	Trypsin-1
+gancao	MOL004912	Glabrone	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004912	Glabrone	Cyclin-A2
+gancao	MOL004912	Glabrone	Calmodulin
+gancao	MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	Estrogen receptor
+gancao	MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	Peroxisome proliferator activated receptor gamma
+gancao	MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	Estrogen receptor beta
+gancao	MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	Mitogen-activated protein kinase 14
+gancao	MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	Glycogen synthase kinase-3 beta
+gancao	MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	Heat shock protein HSP 90
+gancao	MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	Cell division protein kinase 2
+gancao	MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	Serine/threonine-protein kinase Chk1
+gancao	MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	Cyclin-A2
+gancao	MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	Estrogen receptor
+gancao	MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	Androgen receptor
+gancao	MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	Peroxisome proliferator activated receptor gamma
+gancao	MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	Mitogen-activated protein kinase 14
+gancao	MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	Glycogen synthase kinase-3 beta
+gancao	MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	Heat shock protein HSP 90
+gancao	MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	Cell division protein kinase 2
+gancao	MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	Serine/threonine-protein kinase Chk1
+gancao	MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL004915	Eurycarpin A	Nitric oxide synthase, inducible
+gancao	MOL004915	Eurycarpin A	Thrombin
+gancao	MOL004915	Eurycarpin A	Estrogen receptor
+gancao	MOL004915	Eurycarpin A	Androgen receptor
+gancao	MOL004915	Eurycarpin A	Sodium channel protein type 5 subunit alpha
+gancao	MOL004915	Eurycarpin A	Peroxisome proliferator activated receptor gamma
+gancao	MOL004915	Eurycarpin A	Coagulation factor Xa
+gancao	MOL004915	Eurycarpin A	Prostaglandin G/H synthase 2
+gancao	MOL004915	Eurycarpin A	Estrogen receptor beta
+gancao	MOL004915	Eurycarpin A	Dipeptidyl peptidase IV
+gancao	MOL004915	Eurycarpin A	Mitogen-activated protein kinase 14
+gancao	MOL004915	Eurycarpin A	Glycogen synthase kinase-3 beta
+gancao	MOL004915	Eurycarpin A	Heat shock protein HSP 90
+gancao	MOL004915	Eurycarpin A	Cell division protein kinase 2
+gancao	MOL004915	Eurycarpin A	Serine/threonine-protein kinase Chk1
+gancao	MOL004915	Eurycarpin A	Trypsin-1
+gancao	MOL004915	Eurycarpin A	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004915	Eurycarpin A	Cyclin-A2
+gancao	MOL004915	Eurycarpin A	Calmodulin
+gancao	MOL004924	(-)-Medicocarpin	Prostaglandin G/H synthase 2
+gancao	MOL004924	(-)-Medicocarpin	Acetylcholinesterase
+gancao	MOL004935	Sigmoidin-B	Estrogen receptor
+gancao	MOL004935	Sigmoidin-B	Coagulation factor Xa
+gancao	MOL004935	Sigmoidin-B	Prostaglandin G/H synthase 2
+gancao	MOL004935	Sigmoidin-B	Vascular endothelial growth factor receptor 2
+gancao	MOL004935	Sigmoidin-B	Heat shock protein HSP 90
+gancao	MOL004935	Sigmoidin-B	Calmodulin
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	Prostaglandin G/H synthase 1
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	Estrogen receptor
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	Prostaglandin G/H synthase 2
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	Retinoic acid receptor RXR-alpha
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	Beta-2 adrenergic receptor
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	Heat shock protein HSP 90
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	Beta-lactamase
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	Amine oxidase [flavin-containing] B
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	cAMP-dependent protein kinase inhibitor alpha
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	Calmodulin
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	Gamma-aminobutyric acid receptor subunit alpha-1
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	Sodium-dependent serotonin transporter
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	Nitric oxide synthase, inducible
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	Prostaglandin G/H synthase 1
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	Estrogen receptor
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	Sodium channel protein type 5 subunit alpha
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	Coagulation factor Xa
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	Prostaglandin G/H synthase 2
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	Alpha-1B adrenergic receptor
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	Beta-2 adrenergic receptor
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	Estrogen receptor beta
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	Heat shock protein HSP 90
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	Calmodulin
+gancao	MOL004948	Isoglycyrol	Nitric oxide synthase, inducible
+gancao	MOL004948	Isoglycyrol	Estrogen receptor
+gancao	MOL004948	Isoglycyrol	Androgen receptor
+gancao	MOL004948	Isoglycyrol	Prostaglandin G/H synthase 2
+gancao	MOL004948	Isoglycyrol	Dipeptidyl peptidase IV
+gancao	MOL004948	Isoglycyrol	Glycogen synthase kinase-3 beta
+gancao	MOL004948	Isoglycyrol	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004949	Isolicoflavonol	Nitric oxide synthase, inducible
+gancao	MOL004949	Isolicoflavonol	Thrombin
+gancao	MOL004949	Isolicoflavonol	Estrogen receptor
+gancao	MOL004949	Isolicoflavonol	Androgen receptor
+gancao	MOL004949	Isolicoflavonol	Peroxisome proliferator activated receptor gamma
+gancao	MOL004949	Isolicoflavonol	Coagulation factor Xa
+gancao	MOL004949	Isolicoflavonol	Prostaglandin G/H synthase 2
+gancao	MOL004949	Isolicoflavonol	Glycogen synthase kinase-3 beta
+gancao	MOL004949	Isolicoflavonol	Heat shock protein HSP 90
+gancao	MOL004949	Isolicoflavonol	Cell division protein kinase 2
+gancao	MOL004949	Isolicoflavonol	Trypsin-1
+gancao	MOL004949	Isolicoflavonol	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004949	Isolicoflavonol	Cyclin-A2
+gancao	MOL004949	Isolicoflavonol	Nuclear receptor coactivator 2
+gancao	MOL004949	Isolicoflavonol	Calmodulin
+gancao	MOL004957	HMO	Nitric oxide synthase, inducible
+gancao	MOL004957	HMO	Prostaglandin G/H synthase 1
+gancao	MOL004957	HMO	Muscarinic acetylcholine receptor M1
+gancao	MOL004957	HMO	Estrogen receptor
+gancao	MOL004957	HMO	Androgen receptor
+gancao	MOL004957	HMO	Sodium channel protein type 5 subunit alpha
+gancao	MOL004957	HMO	Peroxisome proliferator activated receptor gamma
+gancao	MOL004957	HMO	Prostaglandin G/H synthase 2
+gancao	MOL004957	HMO	Retinoic acid receptor RXR-alpha
+gancao	MOL004957	HMO	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+gancao	MOL004957	HMO	Sodium-dependent dopamine transporter
+gancao	MOL004957	HMO	Beta-2 adrenergic receptor
+gancao	MOL004957	HMO	Sodium-dependent serotonin transporter
+gancao	MOL004957	HMO	Estrogen receptor beta
+gancao	MOL004957	HMO	Dipeptidyl peptidase IV
+gancao	MOL004957	HMO	Mitogen-activated protein kinase 14
+gancao	MOL004957	HMO	Glycogen synthase kinase-3 beta
+gancao	MOL004957	HMO	Cell division protein kinase 2
+gancao	MOL004957	HMO	Amine oxidase [flavin-containing] B
+gancao	MOL004957	HMO	Serine/threonine-protein kinase Chk1
+gancao	MOL004957	HMO	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL004957	HMO	Ig gamma-1 chain C region
+gancao	MOL004957	HMO	Trypsin-1
+gancao	MOL004957	HMO	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004957	HMO	Cyclin-A2
+gancao	MOL004957	HMO	cAMP-dependent protein kinase inhibitor alpha
+gancao	MOL004957	HMO	Calmodulin
+gancao	MOL004959	1-Methoxyphaseollidin	Nitric oxide synthase, inducible
+gancao	MOL004959	1-Methoxyphaseollidin	Prostaglandin G/H synthase 1
+gancao	MOL004959	1-Methoxyphaseollidin	Thrombin
+gancao	MOL004959	1-Methoxyphaseollidin	Potassium voltage-gated channel subfamily H member 2
+gancao	MOL004959	1-Methoxyphaseollidin	Estrogen receptor
+gancao	MOL004959	1-Methoxyphaseollidin	Androgen receptor
+gancao	MOL004959	1-Methoxyphaseollidin	Sodium channel protein type 5 subunit alpha
+gancao	MOL004959	1-Methoxyphaseollidin	Peroxisome proliferator activated receptor gamma
+gancao	MOL004959	1-Methoxyphaseollidin	Coagulation factor Xa
+gancao	MOL004959	1-Methoxyphaseollidin	Prostaglandin G/H synthase 2
+gancao	MOL004959	1-Methoxyphaseollidin	Nitric-oxide synthase, endothelial
+gancao	MOL004959	1-Methoxyphaseollidin	Vascular endothelial growth factor receptor 2
+gancao	MOL004959	1-Methoxyphaseollidin	Retinoic acid receptor RXR-alpha
+gancao	MOL004959	1-Methoxyphaseollidin	Alpha-1B adrenergic receptor
+gancao	MOL004959	1-Methoxyphaseollidin	Beta-2 adrenergic receptor
+gancao	MOL004959	1-Methoxyphaseollidin	Alpha-1D adrenergic receptor
+gancao	MOL004959	1-Methoxyphaseollidin	DNA topoisomerase II
+gancao	MOL004959	1-Methoxyphaseollidin	Estrogen receptor beta
+gancao	MOL004959	1-Methoxyphaseollidin	Mitogen-activated protein kinase 14
+gancao	MOL004959	1-Methoxyphaseollidin	Glycogen synthase kinase-3 beta
+gancao	MOL004959	1-Methoxyphaseollidin	Heat shock protein HSP 90
+gancao	MOL004959	1-Methoxyphaseollidin	Cell division protein kinase 2
+gancao	MOL004959	1-Methoxyphaseollidin	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+gancao	MOL004959	1-Methoxyphaseollidin	Trypsin-1
+gancao	MOL004959	1-Methoxyphaseollidin	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004959	1-Methoxyphaseollidin	Cyclin-A2
+gancao	MOL004959	1-Methoxyphaseollidin	Nuclear receptor coactivator 2
+gancao	MOL004959	1-Methoxyphaseollidin	Nuclear receptor coactivator 1
+gancao	MOL004959	1-Methoxyphaseollidin	Calmodulin
+gancao	MOL004961	Quercetin der.	Nitric oxide synthase, inducible
+gancao	MOL004961	Quercetin der.	Prostaglandin G/H synthase 1
+gancao	MOL004961	Quercetin der.	Estrogen receptor
+gancao	MOL004961	Quercetin der.	Androgen receptor
+gancao	MOL004961	Quercetin der.	Sodium channel protein type 5 subunit alpha
+gancao	MOL004961	Quercetin der.	Peroxisome proliferator activated receptor gamma
+gancao	MOL004961	Quercetin der.	Prostaglandin G/H synthase 2
+gancao	MOL004961	Quercetin der.	mRNA of Protein-tyrosine phosphatase, non-receptor type 1
+gancao	MOL004961	Quercetin der.	Estrogen receptor beta
+gancao	MOL004961	Quercetin der.	Dipeptidyl peptidase IV
+gancao	MOL004961	Quercetin der.	Mitogen-activated protein kinase 14
+gancao	MOL004961	Quercetin der.	Glycogen synthase kinase-3 beta
+gancao	MOL004961	Quercetin der.	Heat shock protein HSP 90
+gancao	MOL004961	Quercetin der.	Cell division protein kinase 2
+gancao	MOL004961	Quercetin der.	Trypsin-1
+gancao	MOL004961	Quercetin der.	Nuclear receptor coactivator 2
+gancao	MOL004961	Quercetin der.	Calmodulin
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Nitric oxide synthase, inducible
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Prostaglandin G/H synthase 1
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Potassium voltage-gated channel subfamily H member 2
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Estrogen receptor
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Androgen receptor
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Sodium channel protein type 5 subunit alpha
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Peroxisome proliferator activated receptor gamma
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Coagulation factor Xa
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Prostaglandin G/H synthase 2
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Coagulation factor VII
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Vascular endothelial growth factor receptor 2
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Alpha-1B adrenergic receptor
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Beta-2 adrenergic receptor
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	DNA topoisomerase II
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Estrogen receptor beta
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Mitogen-activated protein kinase 14
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Glycogen synthase kinase-3 beta
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Heat shock protein HSP 90
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Cell division protein kinase 2
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Serine/threonine-protein kinase Chk1
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Trypsin-1
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Cyclin-A2
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Nuclear receptor coactivator 2
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Nuclear receptor coactivator 1
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Calcium-activated potassium channel subunit alpha 1
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	Calmodulin
+gancao	MOL000497	licochalcone a	Nitric oxide synthase, inducible
+gancao	MOL000497	licochalcone a	Prostaglandin G/H synthase 1
+gancao	MOL000497	licochalcone a	Muscarinic acetylcholine receptor M1
+gancao	MOL000497	licochalcone a	Estrogen receptor
+gancao	MOL000497	licochalcone a	Androgen receptor
+gancao	MOL000497	licochalcone a	Sodium channel protein type 5 subunit alpha
+gancao	MOL000497	licochalcone a	Peroxisome proliferator activated receptor gamma
+gancao	MOL000497	licochalcone a	Coagulation factor Xa
+gancao	MOL000497	licochalcone a	Prostaglandin G/H synthase 2
+gancao	MOL000497	licochalcone a	Carbonic anhydrase II
+gancao	MOL000497	licochalcone a	Alpha-1B adrenergic receptor
+gancao	MOL000497	licochalcone a	Sodium-dependent dopamine transporter
+gancao	MOL000497	licochalcone a	Estrogen receptor beta
+gancao	MOL000497	licochalcone a	Mitogen-activated protein kinase 14
+gancao	MOL000497	licochalcone a	Glycogen synthase kinase-3 beta
+gancao	MOL000497	licochalcone a	Heat shock protein HSP 90
+gancao	MOL000497	licochalcone a	Cell division protein kinase 2
+gancao	MOL000497	licochalcone a	Serine/threonine-protein kinase Chk1
+gancao	MOL000497	licochalcone a	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL000497	licochalcone a	Cyclin-A2
+gancao	MOL000497	licochalcone a	Calmodulin
+gancao	MOL000497	licochalcone a	Beta-2 adrenergic receptor
+gancao	MOL000497	licochalcone a	Nuclear receptor coactivator 2
+gancao	MOL000497	licochalcone a	Transcription factor p65
+gancao	MOL000497	licochalcone a	Signal transducer and activator of transcription 3
+gancao	MOL000497	licochalcone a	G1/S-specific cyclin-D1
+gancao	MOL000497	licochalcone a	Apoptosis regulator Bcl-2
+gancao	MOL000497	licochalcone a	Eukaryotic translation initiation factor 6
+gancao	MOL000497	licochalcone a	Mitogen-activated protein kinase 1
+gancao	MOL000497	licochalcone a	Retinoblastoma-associated protein
+gancao	MOL000497	licochalcone a	Cell division protein kinase 4
+gancao	MOL000497	licochalcone a	Fos-related antigen 2
+gancao	MOL004974	3'-Methoxyglabridin	Nitric oxide synthase, inducible
+gancao	MOL004974	3'-Methoxyglabridin	Prostaglandin G/H synthase 1
+gancao	MOL004974	3'-Methoxyglabridin	Potassium voltage-gated channel subfamily H member 2
+gancao	MOL004974	3'-Methoxyglabridin	Estrogen receptor
+gancao	MOL004974	3'-Methoxyglabridin	Androgen receptor
+gancao	MOL004974	3'-Methoxyglabridin	Sodium channel protein type 5 subunit alpha
+gancao	MOL004974	3'-Methoxyglabridin	Peroxisome proliferator activated receptor gamma
+gancao	MOL004974	3'-Methoxyglabridin	Coagulation factor Xa
+gancao	MOL004974	3'-Methoxyglabridin	Prostaglandin G/H synthase 2
+gancao	MOL004974	3'-Methoxyglabridin	Coagulation factor VII
+gancao	MOL004974	3'-Methoxyglabridin	Retinoic acid receptor RXR-alpha
+gancao	MOL004974	3'-Methoxyglabridin	Acetylcholinesterase
+gancao	MOL004974	3'-Methoxyglabridin	Alpha-1B adrenergic receptor
+gancao	MOL004974	3'-Methoxyglabridin	Beta-2 adrenergic receptor
+gancao	MOL004974	3'-Methoxyglabridin	DNA topoisomerase II
+gancao	MOL004974	3'-Methoxyglabridin	Estrogen receptor beta
+gancao	MOL004974	3'-Methoxyglabridin	Mitogen-activated protein kinase 14
+gancao	MOL004974	3'-Methoxyglabridin	Glycogen synthase kinase-3 beta
+gancao	MOL004974	3'-Methoxyglabridin	Heat shock protein HSP 90
+gancao	MOL004974	3'-Methoxyglabridin	Cell division protein kinase 2
+gancao	MOL004974	3'-Methoxyglabridin	Serine/threonine-protein kinase Chk1
+gancao	MOL004974	3'-Methoxyglabridin	Trypsin-1
+gancao	MOL004974	3'-Methoxyglabridin	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004974	3'-Methoxyglabridin	Cyclin-A2
+gancao	MOL004974	3'-Methoxyglabridin	Nuclear receptor coactivator 2
+gancao	MOL004974	3'-Methoxyglabridin	Nuclear receptor coactivator 1
+gancao	MOL004974	3'-Methoxyglabridin	Calcium-activated potassium channel subunit alpha 1
+gancao	MOL004974	3'-Methoxyglabridin	Calmodulin
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Nitric oxide synthase, inducible
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Prostaglandin G/H synthase 1
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Muscarinic acetylcholine receptor M3
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Potassium voltage-gated channel subfamily H member 2
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Muscarinic acetylcholine receptor M1
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Estrogen receptor
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Androgen receptor
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Sodium channel protein type 5 subunit alpha
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Peroxisome proliferator activated receptor gamma
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Coagulation factor Xa
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Prostaglandin G/H synthase 2
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Nitric-oxide synthase, endothelial
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Retinoic acid receptor RXR-alpha
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Acetylcholinesterase
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Alpha-1B adrenergic receptor
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Sodium-dependent dopamine transporter
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Beta-2 adrenergic receptor
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Estrogen receptor beta
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Mitogen-activated protein kinase 14
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Glycogen synthase kinase-3 beta
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Cell division protein kinase 2
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Serine/threonine-protein kinase Chk1
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Retinoic acid receptor RXR-beta
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Trypsin-1
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Cyclin-A2
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Nuclear receptor coactivator 2
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Nuclear receptor coactivator 1
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Calcium-activated potassium channel subunit alpha 1
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Calmodulin
+gancao	MOL004980	Inflacoumarin A	Thrombin
+gancao	MOL004980	Inflacoumarin A	Estrogen receptor
+gancao	MOL004980	Inflacoumarin A	Androgen receptor
+gancao	MOL004980	Inflacoumarin A	Peroxisome proliferator activated receptor gamma
+gancao	MOL004980	Inflacoumarin A	Coagulation factor Xa
+gancao	MOL004980	Inflacoumarin A	Prostaglandin G/H synthase 2
+gancao	MOL004980	Inflacoumarin A	Beta-2 adrenergic receptor
+gancao	MOL004980	Inflacoumarin A	Dipeptidyl peptidase IV
+gancao	MOL004980	Inflacoumarin A	Heat shock protein HSP 90
+gancao	MOL004980	Inflacoumarin A	Trypsin-1
+gancao	MOL004980	Inflacoumarin A	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004980	Inflacoumarin A	Nuclear receptor coactivator 2
+gancao	MOL004980	Inflacoumarin A	Calmodulin
+gancao	MOL004980	Inflacoumarin A	Prostaglandin G/H synthase 1
+gancao	MOL004980	Inflacoumarin A	Sodium channel protein type 5 subunit alpha
+gancao	MOL004985	icos-5-enoic acid	Nuclear receptor coactivator 2
+gancao	MOL004988	Kanzonol F	Estrogen receptor
+gancao	MOL004988	Kanzonol F	Androgen receptor
+gancao	MOL004988	Kanzonol F	Coagulation factor Xa
+gancao	MOL004988	Kanzonol F	Prostaglandin G/H synthase 2
+gancao	MOL004988	Kanzonol F	Estrogen receptor beta
+gancao	MOL004988	Kanzonol F	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004988	Kanzonol F	Nuclear receptor coactivator 2
+gancao	MOL004988	Kanzonol F	Calmodulin
+gancao	MOL004989	6-prenylated eriodictyol	Nitric oxide synthase, inducible
+gancao	MOL004989	6-prenylated eriodictyol	Estrogen receptor
+gancao	MOL004989	6-prenylated eriodictyol	Sodium channel protein type 5 subunit alpha
+gancao	MOL004989	6-prenylated eriodictyol	Coagulation factor Xa
+gancao	MOL004989	6-prenylated eriodictyol	Prostaglandin G/H synthase 2
+gancao	MOL004989	6-prenylated eriodictyol	Coagulation factor VII
+gancao	MOL004989	6-prenylated eriodictyol	Heat shock protein HSP 90
+gancao	MOL004989	6-prenylated eriodictyol	Calmodulin
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	Nitric oxide synthase, inducible
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	Prostaglandin G/H synthase 1
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	Estrogen receptor
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	Androgen receptor
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	Peroxisome proliferator activated receptor gamma
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	Prostaglandin G/H synthase 2
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	Estrogen receptor beta
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	Dipeptidyl peptidase IV
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	Mitogen-activated protein kinase 14
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	Glycogen synthase kinase-3 beta
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	Heat shock protein HSP 90
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	Cell division protein kinase 2
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	Serine/threonine-protein kinase Chk1
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Nitric oxide synthase, inducible
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Prostaglandin G/H synthase 1
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Thrombin
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Estrogen receptor
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Androgen receptor
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Sodium channel protein type 5 subunit alpha
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Peroxisome proliferator activated receptor gamma
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Prostaglandin G/H synthase 2
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Nitric-oxide synthase, endothelial
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Retinoic acid receptor RXR-alpha
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Acetylcholinesterase
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Alpha-1B adrenergic receptor
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Beta-2 adrenergic receptor
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Alpha-1D adrenergic receptor
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Gamma-aminobutyric acid receptor subunit alpha-1
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Dipeptidyl peptidase IV
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Mitogen-activated protein kinase 14
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Glycogen synthase kinase-3 beta
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Heat shock protein HSP 90
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Cell division protein kinase 2
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Serine/threonine-protein kinase Chk1
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Trypsin-1
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Nuclear receptor coactivator 2
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	Calmodulin
+gancao	MOL004993	8-prenylated eriodictyol	Estrogen receptor
+gancao	MOL004993	8-prenylated eriodictyol	Sodium channel protein type 5 subunit alpha
+gancao	MOL004993	8-prenylated eriodictyol	Coagulation factor Xa
+gancao	MOL004993	8-prenylated eriodictyol	Prostaglandin G/H synthase 2
+gancao	MOL004993	8-prenylated eriodictyol	Coagulation factor VII
+gancao	MOL004993	8-prenylated eriodictyol	Heat shock protein HSP 90
+gancao	MOL004993	8-prenylated eriodictyol	Nuclear receptor coactivator 1
+gancao	MOL004993	8-prenylated eriodictyol	Calmodulin
+gancao	MOL004996	gadelaidic acid	Nuclear receptor coactivator 2
+gancao	MOL000500	Vestitol	Nitric oxide synthase, inducible
+gancao	MOL000500	Vestitol	Prostaglandin G/H synthase 1
+gancao	MOL000500	Vestitol	Muscarinic acetylcholine receptor M1
+gancao	MOL000500	Vestitol	Estrogen receptor
+gancao	MOL000500	Vestitol	Androgen receptor
+gancao	MOL000500	Vestitol	Sodium channel protein type 5 subunit alpha
+gancao	MOL000500	Vestitol	Peroxisome proliferator activated receptor gamma
+gancao	MOL000500	Vestitol	Prostaglandin G/H synthase 2
+gancao	MOL000500	Vestitol	Muscarinic acetylcholine receptor M4
+gancao	MOL000500	Vestitol	Retinoic acid receptor RXR-alpha
+gancao	MOL000500	Vestitol	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+gancao	MOL000500	Vestitol	5-hydroxytryptamine 2A receptor
+gancao	MOL000500	Vestitol	Alpha-1A adrenergic receptor
+gancao	MOL000500	Vestitol	Alpha-1B adrenergic receptor
+gancao	MOL000500	Vestitol	Sodium-dependent dopamine transporter
+gancao	MOL000500	Vestitol	Beta-2 adrenergic receptor
+gancao	MOL000500	Vestitol	Sodium-dependent serotonin transporter
+gancao	MOL000500	Vestitol	Estrogen receptor beta
+gancao	MOL000500	Vestitol	Dipeptidyl peptidase IV
+gancao	MOL000500	Vestitol	Mitogen-activated protein kinase 14
+gancao	MOL000500	Vestitol	Glycogen synthase kinase-3 beta
+gancao	MOL000500	Vestitol	Heat shock protein HSP 90
+gancao	MOL000500	Vestitol	Cell division protein kinase 2
+gancao	MOL000500	Vestitol	Serine/threonine-protein kinase Chk1
+gancao	MOL000500	Vestitol	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL000500	Vestitol	Trypsin-1
+gancao	MOL000500	Vestitol	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL000500	Vestitol	Cyclin-A2
+gancao	MOL000500	Vestitol	cAMP-dependent protein kinase inhibitor alpha
+gancao	MOL000500	Vestitol	Calmodulin
+gancao	MOL005000	Gancaonin G	Nitric oxide synthase, inducible
+gancao	MOL005000	Gancaonin G	Thrombin
+gancao	MOL005000	Gancaonin G	Estrogen receptor
+gancao	MOL005000	Gancaonin G	Androgen receptor
+gancao	MOL005000	Gancaonin G	Peroxisome proliferator activated receptor gamma
+gancao	MOL005000	Gancaonin G	Coagulation factor Xa
+gancao	MOL005000	Gancaonin G	Prostaglandin G/H synthase 2
+gancao	MOL005000	Gancaonin G	Nitric-oxide synthase, endothelial
+gancao	MOL005000	Gancaonin G	DNA topoisomerase II
+gancao	MOL005000	Gancaonin G	Estrogen receptor beta
+gancao	MOL005000	Gancaonin G	Dipeptidyl peptidase IV
+gancao	MOL005000	Gancaonin G	Mitogen-activated protein kinase 14
+gancao	MOL005000	Gancaonin G	Glycogen synthase kinase-3 beta
+gancao	MOL005000	Gancaonin G	Heat shock protein HSP 90
+gancao	MOL005000	Gancaonin G	Serine/threonine-protein kinase Chk1
+gancao	MOL005000	Gancaonin G	Trypsin-1
+gancao	MOL005000	Gancaonin G	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL005000	Gancaonin G	Cyclin-A2
+gancao	MOL005000	Gancaonin G	Nuclear receptor coactivator 2
+gancao	MOL005000	Gancaonin G	Calmodulin
+gancao	MOL005001	Gancaonin H	Estrogen receptor
+gancao	MOL005001	Gancaonin H	Androgen receptor
+gancao	MOL005001	Gancaonin H	Coagulation factor Xa
+gancao	MOL005001	Gancaonin H	Prostaglandin G/H synthase 2
+gancao	MOL005001	Gancaonin H	Vascular endothelial growth factor receptor 2
+gancao	MOL005001	Gancaonin H	DNA topoisomerase II
+gancao	MOL005001	Gancaonin H	Heat shock protein HSP 90
+gancao	MOL005001	Gancaonin H	Trypsin-1
+gancao	MOL005001	Gancaonin H	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL005001	Gancaonin H	Cyclin-A2
+gancao	MOL005001	Gancaonin H	Nuclear receptor coactivator 2
+gancao	MOL005001	Gancaonin H	Calmodulin
+gancao	MOL005003	Licoagrocarpin	Nitric oxide synthase, inducible
+gancao	MOL005003	Licoagrocarpin	Prostaglandin G/H synthase 1
+gancao	MOL005003	Licoagrocarpin	Muscarinic acetylcholine receptor M3
+gancao	MOL005003	Licoagrocarpin	Thrombin
+gancao	MOL005003	Licoagrocarpin	Potassium voltage-gated channel subfamily H member 2
+gancao	MOL005003	Licoagrocarpin	Muscarinic acetylcholine receptor M1
+gancao	MOL005003	Licoagrocarpin	Estrogen receptor
+gancao	MOL005003	Licoagrocarpin	Androgen receptor
+gancao	MOL005003	Licoagrocarpin	Sodium channel protein type 5 subunit alpha
+gancao	MOL005003	Licoagrocarpin	Peroxisome proliferator activated receptor gamma
+gancao	MOL005003	Licoagrocarpin	Coagulation factor Xa
+gancao	MOL005003	Licoagrocarpin	Muscarinic acetylcholine receptor M5
+gancao	MOL005003	Licoagrocarpin	Prostaglandin G/H synthase 2
+gancao	MOL005003	Licoagrocarpin	Nitric-oxide synthase, endothelial
+gancao	MOL005003	Licoagrocarpin	Retinoic acid receptor RXR-alpha
+gancao	MOL005003	Licoagrocarpin	Acetylcholinesterase
+gancao	MOL005003	Licoagrocarpin	Alpha-1B adrenergic receptor
+gancao	MOL005003	Licoagrocarpin	Beta-2 adrenergic receptor
+gancao	MOL005003	Licoagrocarpin	Estrogen receptor beta
+gancao	MOL005003	Licoagrocarpin	Mitogen-activated protein kinase 14
+gancao	MOL005003	Licoagrocarpin	Glycogen synthase kinase-3 beta
+gancao	MOL005003	Licoagrocarpin	Heat shock protein HSP 90
+gancao	MOL005003	Licoagrocarpin	Cell division protein kinase 2
+gancao	MOL005003	Licoagrocarpin	Retinoic acid receptor RXR-beta
+gancao	MOL005003	Licoagrocarpin	Trypsin-1
+gancao	MOL005003	Licoagrocarpin	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL005003	Licoagrocarpin	Cyclin-A2
+gancao	MOL005003	Licoagrocarpin	Nuclear receptor coactivator 2
+gancao	MOL005003	Licoagrocarpin	Calmodulin
+gancao	MOL005007	Glyasperins M	Nitric oxide synthase, inducible
+gancao	MOL005007	Glyasperins M	Prostaglandin G/H synthase 1
+gancao	MOL005007	Glyasperins M	Potassium voltage-gated channel subfamily H member 2
+gancao	MOL005007	Glyasperins M	Estrogen receptor
+gancao	MOL005007	Glyasperins M	Androgen receptor
+gancao	MOL005007	Glyasperins M	Sodium channel protein type 5 subunit alpha
+gancao	MOL005007	Glyasperins M	Peroxisome proliferator activated receptor gamma
+gancao	MOL005007	Glyasperins M	Coagulation factor Xa
+gancao	MOL005007	Glyasperins M	Prostaglandin G/H synthase 2
+gancao	MOL005007	Glyasperins M	Coagulation factor VII
+gancao	MOL005007	Glyasperins M	Vascular endothelial growth factor receptor 2
+gancao	MOL005007	Glyasperins M	Acetylcholinesterase
+gancao	MOL005007	Glyasperins M	DNA topoisomerase II
+gancao	MOL005007	Glyasperins M	Estrogen receptor beta
+gancao	MOL005007	Glyasperins M	Peroxisome proliferator activated receptor delta
+gancao	MOL005007	Glyasperins M	Glycogen synthase kinase-3 beta
+gancao	MOL005007	Glyasperins M	Heat shock protein HSP 90
+gancao	MOL005007	Glyasperins M	Cell division protein kinase 2
+gancao	MOL005007	Glyasperins M	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL005007	Glyasperins M	Trypsin-1
+gancao	MOL005007	Glyasperins M	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL005007	Glyasperins M	Cyclin-A2
+gancao	MOL005007	Glyasperins M	Nuclear receptor coactivator 2
+gancao	MOL005007	Glyasperins M	Nuclear receptor coactivator 1
+gancao	MOL005007	Glyasperins M	Calcium-activated potassium channel subunit alpha 1
+gancao	MOL005007	Glyasperins M	Calmodulin
+gancao	MOL005008	Glycyrrhiza flavonol A	Nitric oxide synthase, inducible
+gancao	MOL005008	Glycyrrhiza flavonol A	Estrogen receptor
+gancao	MOL005008	Glycyrrhiza flavonol A	Androgen receptor
+gancao	MOL005008	Glycyrrhiza flavonol A	Coagulation factor Xa
+gancao	MOL005008	Glycyrrhiza flavonol A	Prostaglandin G/H synthase 2
+gancao	MOL005008	Glycyrrhiza flavonol A	Coagulation factor VII
+gancao	MOL005008	Glycyrrhiza flavonol A	Acetylcholinesterase
+gancao	MOL005008	Glycyrrhiza flavonol A	DNA topoisomerase II
+gancao	MOL005008	Glycyrrhiza flavonol A	Estrogen receptor beta
+gancao	MOL005008	Glycyrrhiza flavonol A	Dipeptidyl peptidase IV
+gancao	MOL005008	Glycyrrhiza flavonol A	Glycogen synthase kinase-3 beta
+gancao	MOL005008	Glycyrrhiza flavonol A	Heat shock protein HSP 90
+gancao	MOL005008	Glycyrrhiza flavonol A	Cell division protein kinase 2
+gancao	MOL005008	Glycyrrhiza flavonol A	Trypsin-1
+gancao	MOL005008	Glycyrrhiza flavonol A	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL005008	Glycyrrhiza flavonol A	Cyclin-A2
+gancao	MOL005008	Glycyrrhiza flavonol A	Calmodulin
+gancao	MOL005012	Licoagroisoflavone	Nitric oxide synthase, inducible
+gancao	MOL005012	Licoagroisoflavone	Thrombin
+gancao	MOL005012	Licoagroisoflavone	Estrogen receptor
+gancao	MOL005012	Licoagroisoflavone	Androgen receptor
+gancao	MOL005012	Licoagroisoflavone	Sodium channel protein type 5 subunit alpha
+gancao	MOL005012	Licoagroisoflavone	Peroxisome proliferator activated receptor gamma
+gancao	MOL005012	Licoagroisoflavone	Coagulation factor Xa
+gancao	MOL005012	Licoagroisoflavone	Prostaglandin G/H synthase 2
+gancao	MOL005012	Licoagroisoflavone	Estrogen receptor beta
+gancao	MOL005012	Licoagroisoflavone	Dipeptidyl peptidase IV
+gancao	MOL005012	Licoagroisoflavone	Mitogen-activated protein kinase 14
+gancao	MOL005012	Licoagroisoflavone	Glycogen synthase kinase-3 beta
+gancao	MOL005012	Licoagroisoflavone	Cell division protein kinase 2
+gancao	MOL005012	Licoagroisoflavone	Serine/threonine-protein kinase Chk1
+gancao	MOL005012	Licoagroisoflavone	Trypsin-1
+gancao	MOL005012	Licoagroisoflavone	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL005012	Licoagroisoflavone	Cyclin-A2
+gancao	MOL005012	Licoagroisoflavone	Calmodulin
+gancao	MOL005016	Odoratin	Nitric oxide synthase, inducible
+gancao	MOL005016	Odoratin	Prostaglandin G/H synthase 1
+gancao	MOL005016	Odoratin	Estrogen receptor
+gancao	MOL005016	Odoratin	Androgen receptor
+gancao	MOL005016	Odoratin	Sodium channel protein type 5 subunit alpha
+gancao	MOL005016	Odoratin	Peroxisome proliferator activated receptor gamma
+gancao	MOL005016	Odoratin	Prostaglandin G/H synthase 2
+gancao	MOL005016	Odoratin	Retinoic acid receptor RXR-alpha
+gancao	MOL005016	Odoratin	Estrogen receptor beta
+gancao	MOL005016	Odoratin	Dipeptidyl peptidase IV
+gancao	MOL005016	Odoratin	Mitogen-activated protein kinase 14
+gancao	MOL005016	Odoratin	Glycogen synthase kinase-3 beta
+gancao	MOL005016	Odoratin	Heat shock protein HSP 90
+gancao	MOL005016	Odoratin	Cell division protein kinase 2
+gancao	MOL005016	Odoratin	Serine/threonine-protein kinase Chk1
+gancao	MOL005016	Odoratin	Trypsin-1
+gancao	MOL005016	Odoratin	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL005016	Odoratin	Cyclin-A2
+gancao	MOL005016	Odoratin	Nuclear receptor coactivator 2
+gancao	MOL005016	Odoratin	Calmodulin
+gancao	MOL005017	Phaseol	Thrombin
+gancao	MOL005017	Phaseol	Estrogen receptor
+gancao	MOL005017	Phaseol	Androgen receptor
+gancao	MOL005017	Phaseol	Peroxisome proliferator activated receptor gamma
+gancao	MOL005017	Phaseol	Prostaglandin G/H synthase 2
+gancao	MOL005017	Phaseol	Vascular endothelial growth factor receptor 2
+gancao	MOL005017	Phaseol	Mitogen-activated protein kinase 14
+gancao	MOL005017	Phaseol	Glycogen synthase kinase-3 beta
+gancao	MOL005017	Phaseol	Heat shock protein HSP 90
+gancao	MOL005017	Phaseol	Cell division protein kinase 2
+gancao	MOL005017	Phaseol	Serine/threonine-protein kinase Chk1
+gancao	MOL005017	Phaseol	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL005017	Phaseol	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL005017	Phaseol	Cyclin-A2
+gancao	MOL005018	Xambioona	Nitric oxide synthase, inducible
+gancao	MOL005018	Xambioona	Estrogen receptor
+gancao	MOL005018	Xambioona	Coagulation factor Xa
+gancao	MOL005018	Xambioona	Prostaglandin G/H synthase 2
+gancao	MOL005018	Xambioona	Estrogen receptor beta
+gancao	MOL005018	Xambioona	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL005018	Xambioona	Nuclear receptor coactivator 2
+gancao	MOL005018	Xambioona	Calmodulin
+gancao	MOL005020	dehydroglyasperins C	Nitric oxide synthase, inducible
+gancao	MOL005020	dehydroglyasperins C	Estrogen receptor
+gancao	MOL005020	dehydroglyasperins C	Androgen receptor
+gancao	MOL005020	dehydroglyasperins C	Sodium channel protein type 5 subunit alpha
+gancao	MOL005020	dehydroglyasperins C	Peroxisome proliferator activated receptor gamma
+gancao	MOL005020	dehydroglyasperins C	Coagulation factor Xa
+gancao	MOL005020	dehydroglyasperins C	Prostaglandin G/H synthase 2
+gancao	MOL005020	dehydroglyasperins C	Beta-2 adrenergic receptor
+gancao	MOL005020	dehydroglyasperins C	Estrogen receptor beta
+gancao	MOL005020	dehydroglyasperins C	Mitogen-activated protein kinase 14
+gancao	MOL005020	dehydroglyasperins C	Heat shock protein HSP 90
+gancao	MOL005020	dehydroglyasperins C	Cell division protein kinase 2
+gancao	MOL005020	dehydroglyasperins C	Serine/threonine-protein kinase Chk1
+gancao	MOL005020	dehydroglyasperins C	Trypsin-1
+gancao	MOL005020	dehydroglyasperins C	Proto-oncogene serine/threonine-protein kinase Pim-1
+gancao	MOL005020	dehydroglyasperins C	Cyclin-A2
+gancao	MOL005020	dehydroglyasperins C	Nuclear receptor coactivator 2
+gancao	MOL005020	dehydroglyasperins C	Calmodulin
+gancao	MOL000098	quercetin	Prostaglandin G/H synthase 1
+gancao	MOL000098	quercetin	Androgen receptor
+gancao	MOL000098	quercetin	Peroxisome proliferator activated receptor gamma
+gancao	MOL000098	quercetin	Prostaglandin G/H synthase 2
+gancao	MOL000098	quercetin	Heat shock protein HSP 90
+gancao	MOL000098	quercetin	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+gancao	MOL000098	quercetin	Nuclear receptor coactivator 2
+gancao	MOL000098	quercetin	Dipeptidyl peptidase IV
+gancao	MOL000098	quercetin	Aldose reductase
+gancao	MOL000098	quercetin	Trypsin-1
+gancao	MOL000098	quercetin	DNA topoisomerase II
+gancao	MOL000098	quercetin	Thrombin
+gancao	MOL000098	quercetin	Potassium voltage-gated channel subfamily H member 2
+gancao	MOL000098	quercetin	Sodium channel protein type 5 subunit alpha
+gancao	MOL000098	quercetin	Coagulation factor Xa
+gancao	MOL000098	quercetin	Beta-2 adrenergic receptor
+gancao	MOL000098	quercetin	Stromelysin-1
+gancao	MOL000098	quercetin	mRNA of PKA Catalytic Subunit C-alpha
+gancao	MOL000098	quercetin	Coagulation factor VII
+gancao	MOL000098	quercetin	Nitric-oxide synthase, endothelial
+gancao	MOL000098	quercetin	Retinoic acid receptor RXR-alpha
+gancao	MOL000098	quercetin	Acetylcholinesterase
+gancao	MOL000098	quercetin	Gamma-aminobutyric acid receptor subunit alpha-1
+gancao	MOL000098	quercetin	Amine oxidase [flavin-containing] B
+gancao	MOL000098	quercetin	Transcription factor p65
+gancao	MOL000098	quercetin	Epidermal growth factor receptor
+gancao	MOL000098	quercetin	RAC-alpha serine/threonine-protein kinase
+gancao	MOL000098	quercetin	Vascular endothelial growth factor A
+gancao	MOL000098	quercetin	G1/S-specific cyclin-D1
+gancao	MOL000098	quercetin	Apoptosis regulator Bcl-2
+gancao	MOL000098	quercetin	Bcl-2-like protein 1
+gancao	MOL000098	quercetin	Proto-oncogene c-Fos
+gancao	MOL000098	quercetin	Cyclin-dependent kinase inhibitor 1
+gancao	MOL000098	quercetin	Eukaryotic translation initiation factor 6
+gancao	MOL000098	quercetin	Apoptosis regulator BAX
+gancao	MOL000098	quercetin	Caspase-9
+gancao	MOL000098	quercetin	Urokinase-type plasminogen activator
+gancao	MOL000098	quercetin	72 kDa type IV collagenase
+gancao	MOL000098	quercetin	Matrix metalloproteinase-9
+gancao	MOL000098	quercetin	Mitogen-activated protein kinase 1
+gancao	MOL000098	quercetin	Interleukin-10
+gancao	MOL000098	quercetin	Pro-epidermal growth factor
+gancao	MOL000098	quercetin	Retinoblastoma-associated protein
+gancao	MOL000098	quercetin	Tumor necrosis factor
+gancao	MOL000098	quercetin	Transcription factor AP-1
+gancao	MOL000098	quercetin	Interleukin-6
+gancao	MOL000098	quercetin	Cyclin-dependent kinase inhibitor 2A, isoforms 1/2/3
+gancao	MOL000098	quercetin	Activator of 90 kDa heat shock protein ATPase homolog 1
+gancao	MOL000098	quercetin	Caspase-3
+gancao	MOL000098	quercetin	Cellular tumor antigen p53
+gancao	MOL000098	quercetin	ETS domain-containing protein Elk-1
+gancao	MOL000098	quercetin	NF-kappa-B inhibitor alpha
+gancao	MOL000098	quercetin	NADPH--cytochrome P450 reductase
+gancao	MOL000098	quercetin	Ornithine decarboxylase
+gancao	MOL000098	quercetin	Xanthine dehydrogenase/oxidase
+gancao	MOL000098	quercetin	Caspase-8
+gancao	MOL000098	quercetin	DNA topoisomerase 1
+gancao	MOL000098	quercetin	RAF proto-oncogene serine/threonine-protein kinase
+gancao	MOL000098	quercetin	Superoxide dismutase [Cu-Zn]
+gancao	MOL000098	quercetin	Protein kinase C alpha type
+gancao	MOL000098	quercetin	Interstitial collagenase
+gancao	MOL000098	quercetin	Hypoxia-inducible factor 1-alpha
+gancao	MOL000098	quercetin	Signal transducer and activator of transcription 1-alpha/beta
+gancao	MOL000098	quercetin	Protein CBFA2T1
+gancao	MOL000098	quercetin	Probable E3 ubiquitin-protein ligase HERC5
+gancao	MOL000098	quercetin	Cell division control protein 2 homolog
+gancao	MOL000098	quercetin	78 kDa glucose-regulated protein
+gancao	MOL000098	quercetin	Receptor tyrosine-protein kinase erbB-2
+gancao	MOL000098	quercetin	Peroxisome proliferator-activated receptor gamma
+gancao	MOL000098	quercetin	Acetyl-CoA carboxylase 1
+gancao	MOL000098	quercetin	Heme oxygenase 1
+gancao	MOL000098	quercetin	Cytochrome P450 3A4
+gancao	MOL000098	quercetin	Cytochrome P450 1A2
+gancao	MOL000098	quercetin	Caveolin-1
+gancao	MOL000098	quercetin	Myc proto-oncogene protein
+gancao	MOL000098	quercetin	Tissue factor
+gancao	MOL000098	quercetin	Gap junction alpha-1 protein
+gancao	MOL000098	quercetin	Cytochrome P450 1A1
+gancao	MOL000098	quercetin	Intercellular adhesion molecule 1
+gancao	MOL000098	quercetin	Interleukin-1 beta
+gancao	MOL000098	quercetin	C-C motif chemokine 2
+gancao	MOL000098	quercetin	E-selectin
+gancao	MOL000098	quercetin	Vascular cell adhesion protein 1
+gancao	MOL000098	quercetin	Prostaglandin E2 receptor EP3 subtype
+gancao	MOL000098	quercetin	Interleukin-8
+gancao	MOL000098	quercetin	Protein kinase C beta type
+gancao	MOL000098	quercetin	Baculoviral IAP repeat-containing protein 5
+gancao	MOL000098	quercetin	Dual oxidase 2
+gancao	MOL000098	quercetin	Nitric oxide synthase, endothelial
+gancao	MOL000098	quercetin	Heat shock protein beta-1
+gancao	MOL000098	quercetin	Transforming growth factor beta-1
+gancao	MOL000098	quercetin	Estrogen sulfotransferase
+gancao	MOL000098	quercetin	Maltase-glucoamylase, intestinal
+gancao	MOL000098	quercetin	Interleukin-2
+gancao	MOL000098	quercetin	Nuclear receptor subfamily 1 group I member 2
+gancao	MOL000098	quercetin	Cytochrome P450 1B1
+gancao	MOL000098	quercetin	G2/mitotic-specific cyclin-B1
+gancao	MOL000098	quercetin	Tissue-type plasminogen activator
+gancao	MOL000098	quercetin	Thrombomodulin
+gancao	MOL000098	quercetin	Plasminogen activator inhibitor 1
+gancao	MOL000098	quercetin	Collagen alpha-1(I) chain
+gancao	MOL000098	quercetin	Interferon gamma
+gancao	MOL000098	quercetin	Arachidonate 5-lipoxygenase
+gancao	MOL000098	quercetin	Phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN
+gancao	MOL000098	quercetin	Interleukin-1 alpha
+gancao	MOL000098	quercetin	Myeloperoxidase
+gancao	MOL000098	quercetin	DNA topoisomerase 2-alpha
+gancao	MOL000098	quercetin	Neutrophil cytosol factor 1
+gancao	MOL000098	quercetin	ATP-binding cassette sub-family G member 2
+gancao	MOL000098	quercetin	Hyaluronan synthase 2
+gancao	MOL000098	quercetin	Glutathione S-transferase P
+gancao	MOL000098	quercetin	Nuclear factor erythroid 2-related factor 2
+gancao	MOL000098	quercetin	NAD(P)H dehydrogenase [quinone] 1
+gancao	MOL000098	quercetin	Poly [ADP-ribose] polymerase 1
+gancao	MOL000098	quercetin	Aryl hydrocarbon receptor
+gancao	MOL000098	quercetin	26S proteasome non-ATPase regulatory subunit 3
+gancao	MOL000098	quercetin	Solute carrier family 2, facilitated glucose transporter member 4
+gancao	MOL000098	quercetin	Collagen alpha-1(III) chain
+gancao	MOL000098	quercetin	DNA gyrase subunit B
+gancao	MOL000098	quercetin	C-X-C motif chemokine 11
+gancao	MOL000098	quercetin	C-X-C motif chemokine 2
+gancao	MOL000098	quercetin	DDB1- and CUL4-associated factor 5
+gancao	MOL000098	quercetin	Nuclear receptor subfamily 1 group I member 3
+gancao	MOL000098	quercetin	Serine/threonine-protein kinase Chk2
+gancao	MOL000098	quercetin	Insulin receptor
+gancao	MOL000098	quercetin	Claudin-4
+gancao	MOL000098	quercetin	Peroxisome proliferator-activated receptor alpha
+gancao	MOL000098	quercetin	Peroxisome proliferator-activated receptor delta
+gancao	MOL000098	quercetin	Heat shock factor protein 1
+gancao	MOL000098	quercetin	C-reactive protein
+gancao	MOL000098	quercetin	C-X-C motif chemokine 10
+gancao	MOL000098	quercetin	Inhibitor of nuclear factor kappa-B kinase subunit alpha
+gancao	MOL000098	quercetin	Osteopontin
+gancao	MOL000098	quercetin	Runt-related transcription factor 2
+gancao	MOL000098	quercetin	Ras association domain-containing protein 1
+gancao	MOL000098	quercetin	Transcription factor E2F1
+gancao	MOL000098	quercetin	Transcription factor E2F2
+gancao	MOL000098	quercetin	Prostatic acid phosphatase
+gancao	MOL000098	quercetin	Cathepsin D
+gancao	MOL000098	quercetin	Insulin-like growth factor-binding protein 3
+gancao	MOL000098	quercetin	Insulin-like growth factor II
+gancao	MOL000098	quercetin	CD40 ligand
+gancao	MOL000098	quercetin	Interferon regulatory factor 1
+gancao	MOL000098	quercetin	Receptor tyrosine-protein kinase erbB-3
+gancao	MOL000098	quercetin	Serum paraoxonase/arylesterase 1
+gancao	MOL000098	quercetin	Type I iodothyronine deiodinase
+gancao	MOL000098	quercetin	Procollagen C-endopeptidase enhancer 1
+gancao	MOL000098	quercetin	Puromycin-sensitive aminopeptidase
+gancao	MOL000098	quercetin	Hexokinase-2
+gancao	MOL000098	quercetin	Homeobox protein Nkx-3.1
+gancao	MOL000098	quercetin	Ras GTPase-activating protein 1
+gancao	MOL000098	quercetin	Peroxidase C1A
+gancao	MOL000098	quercetin	Glutathione S-transferase Mu 1
+gancao	MOL000098	quercetin	Glutathione S-transferase Mu 2
+jinyinhua	MOL001494	Mandenol	Prostaglandin G/H synthase 1
+jinyinhua	MOL001494	Mandenol	Prostaglandin G/H synthase 2
+jinyinhua	MOL001494	Mandenol	Nuclear receptor coactivator 2
+jinyinhua	MOL001495	Ethyl linolenate	Prostaglandin G/H synthase 1
+jinyinhua	MOL001495	Ethyl linolenate	Nuclear receptor coactivator 2
+jinyinhua	MOL002914	Eriodyctiol (flavanone)	Prostaglandin G/H synthase 1
+jinyinhua	MOL002914	Eriodyctiol (flavanone)	Prostaglandin G/H synthase 2
+jinyinhua	MOL002914	Eriodyctiol (flavanone)	Heat shock protein HSP 90
+jinyinhua	MOL002914	Eriodyctiol (flavanone)	mRNA of PKA Catalytic Subunit C-alpha
+jinyinhua	MOL002914	Eriodyctiol (flavanone)	Nuclear receptor coactivator 2
+jinyinhua	MOL002914	Eriodyctiol (flavanone)	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+jinyinhua	MOL002914	Eriodyctiol (flavanone)	Glycogen phosphorylase, muscle form
+jinyinhua	MOL002914	Eriodyctiol (flavanone)	Calmodulin
+jinyinhua	MOL003006	(-)-(3R,8S,9R,9aS,10aS)-9-ethenyl-8-(beta-D-glucopyranosyloxy)-2,3,9,9a,10,10a-hexahydro-5-oxo-5H,8H-pyrano[4,3-d]oxazolo[3,2-a]pyridine-3-carboxylic acid_qt	Prostaglandin G/H synthase 2
+jinyinhua	MOL003006	(-)-(3R,8S,9R,9aS,10aS)-9-ethenyl-8-(beta-D-glucopyranosyloxy)-2,3,9,9a,10,10a-hexahydro-5-oxo-5H,8H-pyrano[4,3-d]oxazolo[3,2-a]pyridine-3-carboxylic acid_qt	Carbonic anhydrase II
+jinyinhua	MOL003006	(-)-(3R,8S,9R,9aS,10aS)-9-ethenyl-8-(beta-D-glucopyranosyloxy)-2,3,9,9a,10,10a-hexahydro-5-oxo-5H,8H-pyrano[4,3-d]oxazolo[3,2-a]pyridine-3-carboxylic acid_qt	Gamma-aminobutyric acid receptor subunit alpha-1
+jinyinhua	MOL003006	(-)-(3R,8S,9R,9aS,10aS)-9-ethenyl-8-(beta-D-glucopyranosyloxy)-2,3,9,9a,10,10a-hexahydro-5-oxo-5H,8H-pyrano[4,3-d]oxazolo[3,2-a]pyridine-3-carboxylic acid_qt	Dipeptidyl peptidase IV
+jinyinhua	MOL003014	secologanic dibutylacetal_qt	Thrombin
+jinyinhua	MOL003014	secologanic dibutylacetal_qt	Estrogen receptor
+jinyinhua	MOL003014	secologanic dibutylacetal_qt	Prostaglandin G/H synthase 2
+jinyinhua	MOL002773	beta-carotene	RAC-alpha serine/threonine-protein kinase
+jinyinhua	MOL002773	beta-carotene	Vascular endothelial growth factor A
+jinyinhua	MOL002773	beta-carotene	Apoptosis regulator Bcl-2
+jinyinhua	MOL002773	beta-carotene	Caspase-9
+jinyinhua	MOL002773	beta-carotene	72 kDa type IV collagenase
+jinyinhua	MOL002773	beta-carotene	Transcription factor AP-1
+jinyinhua	MOL002773	beta-carotene	Caspase-3
+jinyinhua	MOL002773	beta-carotene	Prostaglandin G/H synthase 2
+jinyinhua	MOL002773	beta-carotene	Caspase-8
+jinyinhua	MOL002773	beta-carotene	Interstitial collagenase
+jinyinhua	MOL002773	beta-carotene	Heme oxygenase 1
+jinyinhua	MOL002773	beta-carotene	Cytochrome P450 3A4
+jinyinhua	MOL002773	beta-carotene	Cytochrome P450 2B1
+jinyinhua	MOL002773	beta-carotene	Cytochrome P450 1A2
+jinyinhua	MOL002773	beta-carotene	Serum albumin
+jinyinhua	MOL002773	beta-carotene	Caveolin-1
+jinyinhua	MOL002773	beta-carotene	Catenin beta-1
+jinyinhua	MOL002773	beta-carotene	Myc proto-oncogene protein
+jinyinhua	MOL002773	beta-carotene	Caspase-7
+jinyinhua	MOL002773	beta-carotene	Tissue factor
+jinyinhua	MOL002773	beta-carotene	Gap junction alpha-1 protein
+jinyinhua	MOL002773	beta-carotene	Stromelysin-2
+jinyinhua	MOL003036	ZINC03978781	Progesterone receptor
+jinyinhua	MOL003036	ZINC03978781	Nuclear receptor coactivator 2
+jinyinhua	MOL003036	ZINC03978781	Mineralocorticoid receptor
+jinyinhua	MOL003044	Chryseriol	Nitric oxide synthase, inducible
+jinyinhua	MOL003044	Chryseriol	Prostaglandin G/H synthase 1
+jinyinhua	MOL003044	Chryseriol	Estrogen receptor
+jinyinhua	MOL003044	Chryseriol	Androgen receptor
+jinyinhua	MOL003044	Chryseriol	Peroxisome proliferator activated receptor gamma
+jinyinhua	MOL003044	Chryseriol	Prostaglandin G/H synthase 2
+jinyinhua	MOL003044	Chryseriol	Dipeptidyl peptidase IV
+jinyinhua	MOL003044	Chryseriol	Mitogen-activated protein kinase 14
+jinyinhua	MOL003044	Chryseriol	Glycogen synthase kinase-3 beta
+jinyinhua	MOL003044	Chryseriol	Heat shock protein HSP 90
+jinyinhua	MOL003044	Chryseriol	Cell division protein kinase 2
+jinyinhua	MOL003044	Chryseriol	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+jinyinhua	MOL003044	Chryseriol	Serine/threonine-protein kinase Chk1
+jinyinhua	MOL003044	Chryseriol	mRNA of PKA Catalytic Subunit C-alpha
+jinyinhua	MOL003044	Chryseriol	Trypsin-1
+jinyinhua	MOL003044	Chryseriol	Nuclear receptor coactivator 2
+jinyinhua	MOL003044	Chryseriol	Nuclear receptor coactivator 1
+jinyinhua	MOL003044	Chryseriol	Calmodulin
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Nitric oxide synthase, inducible
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Prostaglandin G/H synthase 1
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Thrombin
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Potassium voltage-gated channel subfamily H member 2
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Estrogen receptor
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Androgen receptor
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Sodium channel protein type 5 subunit alpha
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Peroxisome proliferator activated receptor gamma
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Coagulation factor Xa
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Prostaglandin G/H synthase 2
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Nitric-oxide synthase, endothelial
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Voltage-dependent calcium channel subunit alpha-2/delta-1
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	DNA topoisomerase II
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Estrogen receptor beta
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Dipeptidyl peptidase IV
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Mitogen-activated protein kinase 14
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Glycogen synthase kinase-3 beta
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Heat shock protein HSP 90
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Serine/threonine-protein kinase Chk1
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Trypsin-1
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Nuclear receptor coactivator 2
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Nuclear receptor coactivator 1
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Calcium-activated potassium channel subunit alpha 1
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Calmodulin
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Beta-2 adrenergic receptor
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Beta-secretase
+jinyinhua	MOL003111	Centauroside_qt	Thrombin
+jinyinhua	MOL003111	Centauroside_qt	Estrogen receptor
+jinyinhua	MOL003111	Centauroside_qt	Androgen receptor
+jinyinhua	MOL003111	Centauroside_qt	Carbonic anhydrase II
+jinyinhua	MOL003111	Centauroside_qt	Dipeptidyl peptidase IV
+jinyinhua	MOL003111	Centauroside_qt	Heat shock protein HSP 90
+jinyinhua	MOL003111	Centauroside_qt	Trypsin-1
+jinyinhua	MOL003111	Centauroside_qt	Nuclear receptor coactivator 2
+jinyinhua	MOL003111	Centauroside_qt	Nuclear receptor coactivator 1
+jinyinhua	MOL003117	Ioniceracetalides B_qt	Nitric oxide synthase, inducible
+jinyinhua	MOL003117	Ioniceracetalides B_qt	Thrombin
+jinyinhua	MOL003117	Ioniceracetalides B_qt	Prostaglandin G/H synthase 2
+jinyinhua	MOL003117	Ioniceracetalides B_qt	Gamma-aminobutyric acid receptor subunit alpha-1
+jinyinhua	MOL003117	Ioniceracetalides B_qt	Dipeptidyl peptidase IV
+jinyinhua	MOL003117	Ioniceracetalides B_qt	Beta-lactamase
+jinyinhua	MOL003128	dinethylsecologanoside	Androgen receptor
+jinyinhua	MOL003128	dinethylsecologanoside	Carbonic anhydrase II
+jinyinhua	MOL000358	beta-sitosterol	Progesterone receptor
+jinyinhua	MOL000358	beta-sitosterol	Nuclear receptor coactivator 2
+jinyinhua	MOL000358	beta-sitosterol	Prostaglandin G/H synthase 1
+jinyinhua	MOL000358	beta-sitosterol	Prostaglandin G/H synthase 2
+jinyinhua	MOL000358	beta-sitosterol	Heat shock protein HSP 90
+jinyinhua	MOL000358	beta-sitosterol	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+jinyinhua	MOL000358	beta-sitosterol	Potassium voltage-gated channel subfamily H member 2
+jinyinhua	MOL000358	beta-sitosterol	mRNA of PKA Catalytic Subunit C-alpha
+jinyinhua	MOL000358	beta-sitosterol	Dopamine D1 receptor
+jinyinhua	MOL000358	beta-sitosterol	Muscarinic acetylcholine receptor M3
+jinyinhua	MOL000358	beta-sitosterol	Muscarinic acetylcholine receptor M1
+jinyinhua	MOL000358	beta-sitosterol	Sodium channel protein type 5 subunit alpha
+jinyinhua	MOL000358	beta-sitosterol	Gamma-aminobutyric-acid receptor alpha-2 subunit
+jinyinhua	MOL000358	beta-sitosterol	Muscarinic acetylcholine receptor M4
+jinyinhua	MOL000358	beta-sitosterol	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+jinyinhua	MOL000358	beta-sitosterol	5-hydroxytryptamine 2A receptor
+jinyinhua	MOL000358	beta-sitosterol	Gamma-aminobutyric-acid receptor alpha-5 subunit
+jinyinhua	MOL000358	beta-sitosterol	Alpha-1A adrenergic receptor
+jinyinhua	MOL000358	beta-sitosterol	Gamma-aminobutyric-acid receptor alpha-3 subunit
+jinyinhua	MOL000358	beta-sitosterol	Muscarinic acetylcholine receptor M2
+jinyinhua	MOL000358	beta-sitosterol	Alpha-1B adrenergic receptor
+jinyinhua	MOL000358	beta-sitosterol	Beta-2 adrenergic receptor
+jinyinhua	MOL000358	beta-sitosterol	Neuronal acetylcholine receptor subunit alpha-2
+jinyinhua	MOL000358	beta-sitosterol	Sodium-dependent serotonin transporter
+jinyinhua	MOL000358	beta-sitosterol	Mu-type opioid receptor
+jinyinhua	MOL000358	beta-sitosterol	Gamma-aminobutyric acid receptor subunit alpha-1
+jinyinhua	MOL000358	beta-sitosterol	Neuronal acetylcholine receptor protein, alpha-7 chain
+jinyinhua	MOL000358	beta-sitosterol	Cytochrome P450-cam
+jinyinhua	MOL000358	beta-sitosterol	Apoptosis regulator Bcl-2
+jinyinhua	MOL000358	beta-sitosterol	Apoptosis regulator BAX
+jinyinhua	MOL000358	beta-sitosterol	Caspase-9
+jinyinhua	MOL000358	beta-sitosterol	Transcription factor AP-1
+jinyinhua	MOL000358	beta-sitosterol	Caspase-3
+jinyinhua	MOL000358	beta-sitosterol	Caspase-8
+jinyinhua	MOL000358	beta-sitosterol	Protein kinase C alpha type
+jinyinhua	MOL000358	beta-sitosterol	Transforming growth factor beta-1
+jinyinhua	MOL000358	beta-sitosterol	Serum paraoxonase/arylesterase 1
+jinyinhua	MOL000358	beta-sitosterol	Microtubule-associated protein 2
+jinyinhua	MOL000422	kaempferol	Nitric oxide synthase, inducible
+jinyinhua	MOL000422	kaempferol	Prostaglandin G/H synthase 1
+jinyinhua	MOL000422	kaempferol	Androgen receptor
+jinyinhua	MOL000422	kaempferol	Peroxisome proliferator activated receptor gamma
+jinyinhua	MOL000422	kaempferol	Prostaglandin G/H synthase 2
+jinyinhua	MOL000422	kaempferol	Heat shock protein HSP 90
+jinyinhua	MOL000422	kaempferol	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+jinyinhua	MOL000422	kaempferol	mRNA of PKA Catalytic Subunit C-alpha
+jinyinhua	MOL000422	kaempferol	Nuclear receptor coactivator 2
+jinyinhua	MOL000422	kaempferol	Dipeptidyl peptidase IV
+jinyinhua	MOL000422	kaempferol	Trypsin-1
+jinyinhua	MOL000422	kaempferol	Progesterone receptor
+jinyinhua	MOL000422	kaempferol	Thrombin
+jinyinhua	MOL000422	kaempferol	Muscarinic acetylcholine receptor M1
+jinyinhua	MOL000422	kaempferol	Nitric-oxide synthase, endothelial
+jinyinhua	MOL000422	kaempferol	Gamma-aminobutyric-acid receptor alpha-2 subunit
+jinyinhua	MOL000422	kaempferol	Acetylcholinesterase
+jinyinhua	MOL000422	kaempferol	Sodium-dependent noradrenaline transporter
+jinyinhua	MOL000422	kaempferol	Muscarinic acetylcholine receptor M2
+jinyinhua	MOL000422	kaempferol	Alpha-1B adrenergic receptor
+jinyinhua	MOL000422	kaempferol	Gamma-aminobutyric acid receptor subunit alpha-1
+jinyinhua	MOL000422	kaempferol	DNA topoisomerase II
+jinyinhua	MOL000422	kaempferol	Coagulation factor VII
+jinyinhua	MOL000422	kaempferol	Calmodulin
+jinyinhua	MOL000422	kaempferol	Transcription factor p65
+jinyinhua	MOL000422	kaempferol	Inhibitor of nuclear factor kappa-B kinase subunit beta
+jinyinhua	MOL000422	kaempferol	RAC-alpha serine/threonine-protein kinase
+jinyinhua	MOL000422	kaempferol	Apoptosis regulator Bcl-2
+jinyinhua	MOL000422	kaempferol	Apoptosis regulator BAX
+jinyinhua	MOL000422	kaempferol	Tumor necrosis factor
+jinyinhua	MOL000422	kaempferol	Transcription factor AP-1
+jinyinhua	MOL000422	kaempferol	Activator of 90 kDa heat shock protein ATPase homolog 1
+jinyinhua	MOL000422	kaempferol	Caspase-3
+jinyinhua	MOL000422	kaempferol	Mitogen-activated protein kinase 8
+jinyinhua	MOL000422	kaempferol	Xanthine dehydrogenase/oxidase
+jinyinhua	MOL000422	kaempferol	Interstitial collagenase
+jinyinhua	MOL000422	kaempferol	Signal transducer and activator of transcription 1-alpha/beta
+jinyinhua	MOL000422	kaempferol	Cell division control protein 2 homolog
+jinyinhua	MOL000422	kaempferol	Peroxisome proliferator-activated receptor gamma
+jinyinhua	MOL000422	kaempferol	Heme oxygenase 1
+jinyinhua	MOL000422	kaempferol	Cytochrome P450 3A4
+jinyinhua	MOL000422	kaempferol	Cytochrome P450 1A2
+jinyinhua	MOL000422	kaempferol	Cytochrome P450 1A1
+jinyinhua	MOL000422	kaempferol	Intercellular adhesion molecule 1
+jinyinhua	MOL000422	kaempferol	E-selectin
+jinyinhua	MOL000422	kaempferol	Vascular cell adhesion protein 1
+jinyinhua	MOL000422	kaempferol	Nuclear receptor subfamily 1 group I member 2
+jinyinhua	MOL000422	kaempferol	Cytochrome P450 1B1
+jinyinhua	MOL000422	kaempferol	Arachidonate 5-lipoxygenase
+jinyinhua	MOL000422	kaempferol	Hyaluronan synthase 2
+jinyinhua	MOL000422	kaempferol	Glutathione S-transferase P
+jinyinhua	MOL000422	kaempferol	Aryl hydrocarbon receptor
+jinyinhua	MOL000422	kaempferol	26S proteasome non-ATPase regulatory subunit 3
+jinyinhua	MOL000422	kaempferol	Solute carrier family 2, facilitated glucose transporter member 4
+jinyinhua	MOL000422	kaempferol	Nuclear receptor subfamily 1 group I member 3
+jinyinhua	MOL000422	kaempferol	Insulin receptor
+jinyinhua	MOL000422	kaempferol	Type I iodothyronine deiodinase
+jinyinhua	MOL000422	kaempferol	Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform
+jinyinhua	MOL000422	kaempferol	Peroxidase C1A
+jinyinhua	MOL000422	kaempferol	Glutathione S-transferase Mu 1
+jinyinhua	MOL000422	kaempferol	Glutathione S-transferase Mu 2
+jinyinhua	MOL000422	kaempferol	Aldo-keto reductase family 1 member C3
+jinyinhua	MOL000422	kaempferol	Antileukoproteinase
+jinyinhua	MOL000449	Stigmasterol	Progesterone receptor
+jinyinhua	MOL000449	Stigmasterol	Mineralocorticoid receptor
+jinyinhua	MOL000449	Stigmasterol	Nuclear receptor coactivator 2
+jinyinhua	MOL000449	Stigmasterol	Alcohol dehydrogenase 1C
+jinyinhua	MOL000449	Stigmasterol	Ig gamma-1 chain C region
+jinyinhua	MOL000449	Stigmasterol	Retinoic acid receptor RXR-alpha
+jinyinhua	MOL000449	Stigmasterol	Nuclear receptor coactivator 1
+jinyinhua	MOL000449	Stigmasterol	Prostaglandin G/H synthase 1
+jinyinhua	MOL000449	Stigmasterol	Prostaglandin G/H synthase 2
+jinyinhua	MOL000449	Stigmasterol	Alpha-2A adrenergic receptor
+jinyinhua	MOL000449	Stigmasterol	Sodium-dependent noradrenaline transporter
+jinyinhua	MOL000449	Stigmasterol	Sodium-dependent dopamine transporter
+jinyinhua	MOL000449	Stigmasterol	Beta-2 adrenergic receptor
+jinyinhua	MOL000449	Stigmasterol	Aldose reductase
+jinyinhua	MOL000449	Stigmasterol	Urokinase-type plasminogen activator
+jinyinhua	MOL000449	Stigmasterol	Leukotriene A-4 hydrolase
+jinyinhua	MOL000449	Stigmasterol	Amine oxidase [flavin-containing] B
+jinyinhua	MOL000449	Stigmasterol	Amine oxidase [flavin-containing] A
+jinyinhua	MOL000449	Stigmasterol	mRNA of PKA Catalytic Subunit C-alpha
+jinyinhua	MOL000449	Stigmasterol	Chymotrypsinogen B
+jinyinhua	MOL000449	Stigmasterol	Muscarinic acetylcholine receptor M3
+jinyinhua	MOL000449	Stigmasterol	Muscarinic acetylcholine receptor M1
+jinyinhua	MOL000449	Stigmasterol	Beta-1 adrenergic receptor
+jinyinhua	MOL000449	Stigmasterol	Sodium channel protein type 5 subunit alpha
+jinyinhua	MOL000449	Stigmasterol	5-hydroxytryptamine 2A receptor
+jinyinhua	MOL000449	Stigmasterol	Alpha-1A adrenergic receptor
+jinyinhua	MOL000449	Stigmasterol	Gamma-aminobutyric-acid receptor alpha-3 subunit
+jinyinhua	MOL000449	Stigmasterol	Muscarinic acetylcholine receptor M2
+jinyinhua	MOL000449	Stigmasterol	Alpha-1B adrenergic receptor
+jinyinhua	MOL000449	Stigmasterol	Gamma-aminobutyric acid receptor subunit alpha-1
+jinyinhua	MOL000449	Stigmasterol	Neuronal acetylcholine receptor protein, alpha-7 chain
+jinyinhua	MOL000006	luteolin	Prostaglandin G/H synthase 1
+jinyinhua	MOL000006	luteolin	Androgen receptor
+jinyinhua	MOL000006	luteolin	Prostaglandin G/H synthase 2
+jinyinhua	MOL000006	luteolin	Heat shock protein HSP 90
+jinyinhua	MOL000006	luteolin	Trypsin-1
+jinyinhua	MOL000006	luteolin	Nuclear receptor coactivator 2
+jinyinhua	MOL000006	luteolin	mRNA of PKA Catalytic Subunit C-alpha
+jinyinhua	MOL000006	luteolin	Dipeptidyl peptidase IV
+jinyinhua	MOL000006	luteolin	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+jinyinhua	MOL000006	luteolin	Transcription factor p65
+jinyinhua	MOL000006	luteolin	Epidermal growth factor receptor
+jinyinhua	MOL000006	luteolin	RAC-alpha serine/threonine-protein kinase
+jinyinhua	MOL000006	luteolin	Vascular endothelial growth factor A
+jinyinhua	MOL000006	luteolin	G1/S-specific cyclin-D1
+jinyinhua	MOL000006	luteolin	Bcl-2-like protein 1
+jinyinhua	MOL000006	luteolin	Cyclin-dependent kinase inhibitor 1
+jinyinhua	MOL000006	luteolin	Caspase-9
+jinyinhua	MOL000006	luteolin	72 kDa type IV collagenase
+jinyinhua	MOL000006	luteolin	Matrix metalloproteinase-9
+jinyinhua	MOL000006	luteolin	Mitogen-activated protein kinase 1
+jinyinhua	MOL000006	luteolin	Interleukin-10
+jinyinhua	MOL000006	luteolin	Retinoblastoma-associated protein
+jinyinhua	MOL000006	luteolin	Cell division protein kinase 4
+jinyinhua	MOL000006	luteolin	Tumor necrosis factor
+jinyinhua	MOL000006	luteolin	Transcription factor AP-1
+jinyinhua	MOL000006	luteolin	Interleukin-6
+jinyinhua	MOL000006	luteolin	Caspase-3
+jinyinhua	MOL000006	luteolin	Cellular tumor antigen p53
+jinyinhua	MOL000006	luteolin	NF-kappa-B inhibitor alpha
+jinyinhua	MOL000006	luteolin	Xanthine dehydrogenase/oxidase
+jinyinhua	MOL000006	luteolin	DNA topoisomerase 1
+jinyinhua	MOL000006	luteolin	E3 ubiquitin-protein ligase Mdm2
+jinyinhua	MOL000006	luteolin	Amyloid beta A4 protein
+jinyinhua	MOL000006	luteolin	Interstitial collagenase
+jinyinhua	MOL000006	luteolin	Proliferating cell nuclear antigen
+jinyinhua	MOL000006	luteolin	Receptor tyrosine-protein kinase erbB-2
+jinyinhua	MOL000006	luteolin	Peroxisome proliferator-activated receptor gamma
+jinyinhua	MOL000006	luteolin	Heme oxygenase 1
+jinyinhua	MOL000006	luteolin	Caspase-7
+jinyinhua	MOL000006	luteolin	Intercellular adhesion molecule 1
+jinyinhua	MOL000006	luteolin	Induced myeloid leukemia cell differentiation protein Mcl-1
+jinyinhua	MOL000006	luteolin	Baculoviral IAP repeat-containing protein 5
+jinyinhua	MOL000006	luteolin	Interleukin-2
+jinyinhua	MOL000006	luteolin	G2/mitotic-specific cyclin-B1
+jinyinhua	MOL000006	luteolin	Tyrosinase
+jinyinhua	MOL000006	luteolin	Interferon gamma
+jinyinhua	MOL000006	luteolin	Interleukin-4
+jinyinhua	MOL000006	luteolin	DNA topoisomerase 2-alpha
+jinyinhua	MOL000006	luteolin	Glutathione S-transferase P
+jinyinhua	MOL000006	luteolin	Baculoviral IAP repeat-containing protein 4
+jinyinhua	MOL000006	luteolin	Solute carrier family 2, facilitated glucose transporter member 4
+jinyinhua	MOL000006	luteolin	Insulin receptor
+jinyinhua	MOL000006	luteolin	CD40 ligand
+jinyinhua	MOL000006	luteolin	Prostaglandin E synthase
+jinyinhua	MOL000006	luteolin	Kinetochore protein Nuf2
+jinyinhua	MOL000006	luteolin	Adenylate cyclase type 2
+jinyinhua	MOL000006	luteolin	Hepatocyte growth factor receptor
+jinyinhua	MOL000098	quercetin	Prostaglandin G/H synthase 1
+jinyinhua	MOL000098	quercetin	Androgen receptor
+jinyinhua	MOL000098	quercetin	Peroxisome proliferator activated receptor gamma
+jinyinhua	MOL000098	quercetin	Prostaglandin G/H synthase 2
+jinyinhua	MOL000098	quercetin	Heat shock protein HSP 90
+jinyinhua	MOL000098	quercetin	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+jinyinhua	MOL000098	quercetin	Nuclear receptor coactivator 2
+jinyinhua	MOL000098	quercetin	Dipeptidyl peptidase IV
+jinyinhua	MOL000098	quercetin	Aldose reductase
+jinyinhua	MOL000098	quercetin	Trypsin-1
+jinyinhua	MOL000098	quercetin	DNA topoisomerase II
+jinyinhua	MOL000098	quercetin	Thrombin
+jinyinhua	MOL000098	quercetin	Potassium voltage-gated channel subfamily H member 2
+jinyinhua	MOL000098	quercetin	Sodium channel protein type 5 subunit alpha
+jinyinhua	MOL000098	quercetin	Coagulation factor Xa
+jinyinhua	MOL000098	quercetin	Beta-2 adrenergic receptor
+jinyinhua	MOL000098	quercetin	Stromelysin-1
+jinyinhua	MOL000098	quercetin	mRNA of PKA Catalytic Subunit C-alpha
+jinyinhua	MOL000098	quercetin	Coagulation factor VII
+jinyinhua	MOL000098	quercetin	Nitric-oxide synthase, endothelial
+jinyinhua	MOL000098	quercetin	Retinoic acid receptor RXR-alpha
+jinyinhua	MOL000098	quercetin	Acetylcholinesterase
+jinyinhua	MOL000098	quercetin	Gamma-aminobutyric acid receptor subunit alpha-1
+jinyinhua	MOL000098	quercetin	Amine oxidase [flavin-containing] B
+jinyinhua	MOL000098	quercetin	Transcription factor p65
+jinyinhua	MOL000098	quercetin	Epidermal growth factor receptor
+jinyinhua	MOL000098	quercetin	RAC-alpha serine/threonine-protein kinase
+jinyinhua	MOL000098	quercetin	Vascular endothelial growth factor A
+jinyinhua	MOL000098	quercetin	G1/S-specific cyclin-D1
+jinyinhua	MOL000098	quercetin	Apoptosis regulator Bcl-2
+jinyinhua	MOL000098	quercetin	Bcl-2-like protein 1
+jinyinhua	MOL000098	quercetin	Proto-oncogene c-Fos
+jinyinhua	MOL000098	quercetin	Cyclin-dependent kinase inhibitor 1
+jinyinhua	MOL000098	quercetin	Eukaryotic translation initiation factor 6
+jinyinhua	MOL000098	quercetin	Apoptosis regulator BAX
+jinyinhua	MOL000098	quercetin	Caspase-9
+jinyinhua	MOL000098	quercetin	Urokinase-type plasminogen activator
+jinyinhua	MOL000098	quercetin	72 kDa type IV collagenase
+jinyinhua	MOL000098	quercetin	Matrix metalloproteinase-9
+jinyinhua	MOL000098	quercetin	Mitogen-activated protein kinase 1
+jinyinhua	MOL000098	quercetin	Interleukin-10
+jinyinhua	MOL000098	quercetin	Pro-epidermal growth factor
+jinyinhua	MOL000098	quercetin	Retinoblastoma-associated protein
+jinyinhua	MOL000098	quercetin	Tumor necrosis factor
+jinyinhua	MOL000098	quercetin	Transcription factor AP-1
+jinyinhua	MOL000098	quercetin	Interleukin-6
+jinyinhua	MOL000098	quercetin	Cyclin-dependent kinase inhibitor 2A, isoforms 1/2/3
+jinyinhua	MOL000098	quercetin	Activator of 90 kDa heat shock protein ATPase homolog 1
+jinyinhua	MOL000098	quercetin	Caspase-3
+jinyinhua	MOL000098	quercetin	Cellular tumor antigen p53
+jinyinhua	MOL000098	quercetin	ETS domain-containing protein Elk-1
+jinyinhua	MOL000098	quercetin	NF-kappa-B inhibitor alpha
+jinyinhua	MOL000098	quercetin	NADPH--cytochrome P450 reductase
+jinyinhua	MOL000098	quercetin	Ornithine decarboxylase
+jinyinhua	MOL000098	quercetin	Xanthine dehydrogenase/oxidase
+jinyinhua	MOL000098	quercetin	Caspase-8
+jinyinhua	MOL000098	quercetin	DNA topoisomerase 1
+jinyinhua	MOL000098	quercetin	RAF proto-oncogene serine/threonine-protein kinase
+jinyinhua	MOL000098	quercetin	Superoxide dismutase [Cu-Zn]
+jinyinhua	MOL000098	quercetin	Protein kinase C alpha type
+jinyinhua	MOL000098	quercetin	Interstitial collagenase
+jinyinhua	MOL000098	quercetin	Hypoxia-inducible factor 1-alpha
+jinyinhua	MOL000098	quercetin	Signal transducer and activator of transcription 1-alpha/beta
+jinyinhua	MOL000098	quercetin	Protein CBFA2T1
+jinyinhua	MOL000098	quercetin	Probable E3 ubiquitin-protein ligase HERC5
+jinyinhua	MOL000098	quercetin	Cell division control protein 2 homolog
+jinyinhua	MOL000098	quercetin	78 kDa glucose-regulated protein
+jinyinhua	MOL000098	quercetin	Receptor tyrosine-protein kinase erbB-2
+jinyinhua	MOL000098	quercetin	Peroxisome proliferator-activated receptor gamma
+jinyinhua	MOL000098	quercetin	Acetyl-CoA carboxylase 1
+jinyinhua	MOL000098	quercetin	Heme oxygenase 1
+jinyinhua	MOL000098	quercetin	Cytochrome P450 3A4
+jinyinhua	MOL000098	quercetin	Cytochrome P450 1A2
+jinyinhua	MOL000098	quercetin	Caveolin-1
+jinyinhua	MOL000098	quercetin	Myc proto-oncogene protein
+jinyinhua	MOL000098	quercetin	Tissue factor
+jinyinhua	MOL000098	quercetin	Gap junction alpha-1 protein
+jinyinhua	MOL000098	quercetin	Cytochrome P450 1A1
+jinyinhua	MOL000098	quercetin	Intercellular adhesion molecule 1
+jinyinhua	MOL000098	quercetin	Interleukin-1 beta
+jinyinhua	MOL000098	quercetin	C-C motif chemokine 2
+jinyinhua	MOL000098	quercetin	E-selectin
+jinyinhua	MOL000098	quercetin	Vascular cell adhesion protein 1
+jinyinhua	MOL000098	quercetin	Prostaglandin E2 receptor EP3 subtype
+jinyinhua	MOL000098	quercetin	Interleukin-8
+jinyinhua	MOL000098	quercetin	Protein kinase C beta type
+jinyinhua	MOL000098	quercetin	Baculoviral IAP repeat-containing protein 5
+jinyinhua	MOL000098	quercetin	Dual oxidase 2
+jinyinhua	MOL000098	quercetin	Nitric oxide synthase, endothelial
+jinyinhua	MOL000098	quercetin	Heat shock protein beta-1
+jinyinhua	MOL000098	quercetin	Transforming growth factor beta-1
+jinyinhua	MOL000098	quercetin	Estrogen sulfotransferase
+jinyinhua	MOL000098	quercetin	Maltase-glucoamylase, intestinal
+jinyinhua	MOL000098	quercetin	Interleukin-2
+jinyinhua	MOL000098	quercetin	Nuclear receptor subfamily 1 group I member 2
+jinyinhua	MOL000098	quercetin	Cytochrome P450 1B1
+jinyinhua	MOL000098	quercetin	G2/mitotic-specific cyclin-B1
+jinyinhua	MOL000098	quercetin	Tissue-type plasminogen activator
+jinyinhua	MOL000098	quercetin	Thrombomodulin
+jinyinhua	MOL000098	quercetin	Plasminogen activator inhibitor 1
+jinyinhua	MOL000098	quercetin	Collagen alpha-1(I) chain
+jinyinhua	MOL000098	quercetin	Interferon gamma
+jinyinhua	MOL000098	quercetin	Arachidonate 5-lipoxygenase
+jinyinhua	MOL000098	quercetin	Phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN
+jinyinhua	MOL000098	quercetin	Interleukin-1 alpha
+jinyinhua	MOL000098	quercetin	Myeloperoxidase
+jinyinhua	MOL000098	quercetin	DNA topoisomerase 2-alpha
+jinyinhua	MOL000098	quercetin	Neutrophil cytosol factor 1
+jinyinhua	MOL000098	quercetin	ATP-binding cassette sub-family G member 2
+jinyinhua	MOL000098	quercetin	Hyaluronan synthase 2
+jinyinhua	MOL000098	quercetin	Glutathione S-transferase P
+jinyinhua	MOL000098	quercetin	Nuclear factor erythroid 2-related factor 2
+jinyinhua	MOL000098	quercetin	NAD(P)H dehydrogenase [quinone] 1
+jinyinhua	MOL000098	quercetin	Poly [ADP-ribose] polymerase 1
+jinyinhua	MOL000098	quercetin	Aryl hydrocarbon receptor
+jinyinhua	MOL000098	quercetin	26S proteasome non-ATPase regulatory subunit 3
+jinyinhua	MOL000098	quercetin	Solute carrier family 2, facilitated glucose transporter member 4
+jinyinhua	MOL000098	quercetin	Collagen alpha-1(III) chain
+jinyinhua	MOL000098	quercetin	DNA gyrase subunit B
+jinyinhua	MOL000098	quercetin	C-X-C motif chemokine 11
+jinyinhua	MOL000098	quercetin	C-X-C motif chemokine 2
+jinyinhua	MOL000098	quercetin	DDB1- and CUL4-associated factor 5
+jinyinhua	MOL000098	quercetin	Nuclear receptor subfamily 1 group I member 3
+jinyinhua	MOL000098	quercetin	Serine/threonine-protein kinase Chk2
+jinyinhua	MOL000098	quercetin	Insulin receptor
+jinyinhua	MOL000098	quercetin	Claudin-4
+jinyinhua	MOL000098	quercetin	Peroxisome proliferator-activated receptor alpha
+jinyinhua	MOL000098	quercetin	Peroxisome proliferator-activated receptor delta
+jinyinhua	MOL000098	quercetin	Heat shock factor protein 1
+jinyinhua	MOL000098	quercetin	C-reactive protein
+jinyinhua	MOL000098	quercetin	C-X-C motif chemokine 10
+jinyinhua	MOL000098	quercetin	Inhibitor of nuclear factor kappa-B kinase subunit alpha
+jinyinhua	MOL000098	quercetin	Osteopontin
+jinyinhua	MOL000098	quercetin	Runt-related transcription factor 2
+jinyinhua	MOL000098	quercetin	Ras association domain-containing protein 1
+jinyinhua	MOL000098	quercetin	Transcription factor E2F1
+jinyinhua	MOL000098	quercetin	Transcription factor E2F2
+jinyinhua	MOL000098	quercetin	Prostatic acid phosphatase
+jinyinhua	MOL000098	quercetin	Cathepsin D
+jinyinhua	MOL000098	quercetin	Insulin-like growth factor-binding protein 3
+jinyinhua	MOL000098	quercetin	Insulin-like growth factor II
+jinyinhua	MOL000098	quercetin	CD40 ligand
+jinyinhua	MOL000098	quercetin	Interferon regulatory factor 1
+jinyinhua	MOL000098	quercetin	Receptor tyrosine-protein kinase erbB-3
+jinyinhua	MOL000098	quercetin	Serum paraoxonase/arylesterase 1
+jinyinhua	MOL000098	quercetin	Type I iodothyronine deiodinase
+jinyinhua	MOL000098	quercetin	Procollagen C-endopeptidase enhancer 1
+jinyinhua	MOL000098	quercetin	Puromycin-sensitive aminopeptidase
+jinyinhua	MOL000098	quercetin	Hexokinase-2
+jinyinhua	MOL000098	quercetin	Homeobox protein Nkx-3.1
+jinyinhua	MOL000098	quercetin	Ras GTPase-activating protein 1
+jinyinhua	MOL000098	quercetin	Peroxidase C1A
+jinyinhua	MOL000098	quercetin	Glutathione S-transferase Mu 1
+jinyinhua	MOL000098	quercetin	Glutathione S-transferase Mu 2
+xuanshen	MOL002222	sugiol	Muscarinic acetylcholine receptor M3
+xuanshen	MOL002222	sugiol	Muscarinic acetylcholine receptor M1
+xuanshen	MOL002222	sugiol	Sodium channel protein type 5 subunit alpha
+xuanshen	MOL002222	sugiol	Muscarinic acetylcholine receptor M5
+xuanshen	MOL002222	sugiol	Prostaglandin G/H synthase 2
+xuanshen	MOL002222	sugiol	Carbonic anhydrase II
+xuanshen	MOL002222	sugiol	Muscarinic acetylcholine receptor M4
+xuanshen	MOL002222	sugiol	Delta-type opioid receptor
+xuanshen	MOL002222	sugiol	Acetylcholinesterase
+xuanshen	MOL002222	sugiol	Alpha-1A adrenergic receptor
+xuanshen	MOL002222	sugiol	Muscarinic acetylcholine receptor M2
+xuanshen	MOL002222	sugiol	Alpha-1B adrenergic receptor
+xuanshen	MOL002222	sugiol	Beta-2 adrenergic receptor
+xuanshen	MOL002222	sugiol	Alpha-1D adrenergic receptor
+xuanshen	MOL002222	sugiol	D(2) dopamine receptor
+xuanshen	MOL002222	sugiol	Mu-type opioid receptor
+xuanshen	MOL002222	sugiol	Neuronal acetylcholine receptor protein, alpha-7 chain
+xuanshen	MOL000358	beta-sitosterol	Progesterone receptor
+xuanshen	MOL000358	beta-sitosterol	Nuclear receptor coactivator 2
+xuanshen	MOL000358	beta-sitosterol	Prostaglandin G/H synthase 1
+xuanshen	MOL000358	beta-sitosterol	Prostaglandin G/H synthase 2
+xuanshen	MOL000358	beta-sitosterol	Heat shock protein HSP 90
+xuanshen	MOL000358	beta-sitosterol	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+xuanshen	MOL000358	beta-sitosterol	Potassium voltage-gated channel subfamily H member 2
+xuanshen	MOL000358	beta-sitosterol	mRNA of PKA Catalytic Subunit C-alpha
+xuanshen	MOL000358	beta-sitosterol	Dopamine D1 receptor
+xuanshen	MOL000358	beta-sitosterol	Muscarinic acetylcholine receptor M3
+xuanshen	MOL000358	beta-sitosterol	Muscarinic acetylcholine receptor M1
+xuanshen	MOL000358	beta-sitosterol	Sodium channel protein type 5 subunit alpha
+xuanshen	MOL000358	beta-sitosterol	Gamma-aminobutyric-acid receptor alpha-2 subunit
+xuanshen	MOL000358	beta-sitosterol	Muscarinic acetylcholine receptor M4
+xuanshen	MOL000358	beta-sitosterol	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+xuanshen	MOL000358	beta-sitosterol	5-hydroxytryptamine 2A receptor
+xuanshen	MOL000358	beta-sitosterol	Gamma-aminobutyric-acid receptor alpha-5 subunit
+xuanshen	MOL000358	beta-sitosterol	Alpha-1A adrenergic receptor
+xuanshen	MOL000358	beta-sitosterol	Gamma-aminobutyric-acid receptor alpha-3 subunit
+xuanshen	MOL000358	beta-sitosterol	Muscarinic acetylcholine receptor M2
+xuanshen	MOL000358	beta-sitosterol	Alpha-1B adrenergic receptor
+xuanshen	MOL000358	beta-sitosterol	Beta-2 adrenergic receptor
+xuanshen	MOL000358	beta-sitosterol	Neuronal acetylcholine receptor subunit alpha-2
+xuanshen	MOL000358	beta-sitosterol	Sodium-dependent serotonin transporter
+xuanshen	MOL000358	beta-sitosterol	Mu-type opioid receptor
+xuanshen	MOL000358	beta-sitosterol	Gamma-aminobutyric acid receptor subunit alpha-1
+xuanshen	MOL000358	beta-sitosterol	Neuronal acetylcholine receptor protein, alpha-7 chain
+xuanshen	MOL000358	beta-sitosterol	Cytochrome P450-cam
+xuanshen	MOL000358	beta-sitosterol	Apoptosis regulator Bcl-2
+xuanshen	MOL000358	beta-sitosterol	Apoptosis regulator BAX
+xuanshen	MOL000358	beta-sitosterol	Caspase-9
+xuanshen	MOL000358	beta-sitosterol	Transcription factor AP-1
+xuanshen	MOL000358	beta-sitosterol	Caspase-3
+xuanshen	MOL000358	beta-sitosterol	Caspase-8
+xuanshen	MOL000358	beta-sitosterol	Protein kinase C alpha type
+xuanshen	MOL000358	beta-sitosterol	Transforming growth factor beta-1
+xuanshen	MOL000358	beta-sitosterol	Serum paraoxonase/arylesterase 1
+xuanshen	MOL000358	beta-sitosterol	Microtubule-associated protein 2
+xuanshen	MOL000359	sitosterol	Progesterone receptor
+xuanshen	MOL000359	sitosterol	Nuclear receptor coactivator 2
+xuanshen	MOL000359	sitosterol	Mineralocorticoid receptor
+xuanshen	MOL007658	14-deoxy-12(R)-sulfoandrographolide	Mineralocorticoid receptor
+xuanshen	MOL007662	harpagoside_qt	Thrombin
+xuanshen	MOL007662	harpagoside_qt	Estrogen receptor
+xuanshen	MOL007662	harpagoside_qt	Carbonic anhydrase II
+xuanshen	MOL007662	harpagoside_qt	Dipeptidyl peptidase IV
+xuanshen	MOL007662	harpagoside_qt	Glycogen synthase kinase-3 beta
+xuanshen	MOL007662	harpagoside_qt	Cell division protein kinase 2
+xuanshen	MOL007662	harpagoside_qt	Beta-lactamase
+xuanshen	MOL007662	harpagoside_qt	Trypsin-1
+xuanshen	MOL007662	harpagoside_qt	Cyclin-A2

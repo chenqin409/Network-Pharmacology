@@ -1,0 +1,366 @@
+缺失的靶点列表:
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+mRNA of PKA Catalytic Subunit C-alpha
+Gamma-aminobutyric-acid receptor alpha-2 subunit
+CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+5-hydroxytryptamine 2A receptor
+Gamma-aminobutyric-acid receptor alpha-5 subunit
+Gamma-aminobutyric-acid receptor alpha-3 subunit
+Neuronal acetylcholine receptor protein, alpha-7 chain
+Cytochrome P450-cam
+Transcription factor AP-1
+Transforming growth factor beta-1
+mRNA of PKA Catalytic Subunit C-alpha
+5-hydroxytryptamine 2A receptor
+Gamma-aminobutyric-acid receptor alpha-3 subunit
+Neuronal acetylcholine receptor protein, alpha-7 chain
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+mRNA of PKA Catalytic Subunit C-alpha
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+mRNA of PKA Catalytic Subunit C-alpha
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+5-hydroxytryptamine 2A receptor
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+Neuronal acetylcholine receptor protein, alpha-7 chain
+mRNA of PKA Catalytic Subunit C-alpha
+Proto-oncogene serine/threonine-protein kinase Pim-1
+CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+mRNA of Protein-tyrosine phosphatase, non-receptor type 1
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+mRNA of PKA Catalytic Subunit C-alpha
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Nitric-oxide synthase, endothelial
+Cytochrome P450-cam
+Xanthine dehydrogenase/oxidase
+Thrombin
+Coagulation factor Xa
+DNA topoisomerase II
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+Neuronal acetylcholine receptor protein, alpha-7 chain
+mRNA of PKA Catalytic Subunit C-alpha
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Nitric-oxide synthase, endothelial
+CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+mRNA of PKA Catalytic Subunit C-alpha
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Nitric-oxide synthase, endothelial
+Transcription factor AP-1
+NAD-dependent deacetylase sirtuin-1
+ATP synthase subunit beta, mitochondrial
+NADH-ubiquinone oxidoreductase chain 6
+CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+mRNA of PKA Catalytic Subunit C-alpha
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+mRNA of PKA Catalytic Subunit C-alpha
+Thrombin
+Nitric-oxide synthase, endothelial
+Gamma-aminobutyric-acid receptor alpha-2 subunit
+DNA topoisomerase II
+Transcription factor AP-1
+Xanthine dehydrogenase/oxidase
+Peroxidase C1A
+mRNA of PKA Catalytic Subunit C-alpha
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+Coagulation factor Xa
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Coagulation factor Xa
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Coagulation factor Xa
+DNA topoisomerase II
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Coagulation factor Xa
+DNA topoisomerase II
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Coagulation factor Xa
+DNA topoisomerase II
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+mRNA of PKA Catalytic Subunit C-alpha
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Coagulation factor Xa
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Coagulation factor Xa
+DNA topoisomerase II
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Coagulation factor Xa
+DNA topoisomerase II
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Coagulation factor Xa
+DNA topoisomerase II
+Thrombin
+Coagulation factor Xa
+Nitric-oxide synthase, endothelial
+CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+DNA topoisomerase II
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Coagulation factor Xa
+Nitric-oxide synthase, endothelial
+CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+DNA topoisomerase II
+Coagulation factor Xa
+Proto-oncogene serine/threonine-protein kinase Pim-1
+CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+mRNA of PKA Catalytic Subunit C-alpha
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+mRNA of PKA Catalytic Subunit C-alpha
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Coagulation factor Xa
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Coagulation factor Xa
+DNA topoisomerase II
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Coagulation factor Xa
+DNA topoisomerase II
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Coagulation factor Xa
+DNA topoisomerase II
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Coagulation factor Xa
+DNA topoisomerase II
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Coagulation factor Xa
+mRNA of Protein-tyrosine phosphatase, non-receptor type 1
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Coagulation factor Xa
+DNA topoisomerase II
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Coagulation factor Xa
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Coagulation factor Xa
+DNA topoisomerase II
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Coagulation factor Xa
+DNA topoisomerase II
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Coagulation factor Xa
+DNA topoisomerase II
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Coagulation factor Xa
+DNA topoisomerase II
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+Neuronal acetylcholine receptor protein, alpha-7 chain
+mRNA of PKA Catalytic Subunit C-alpha
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Coagulation factor Xa
+Thrombin
+Coagulation factor Xa
+DNA topoisomerase II
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+mRNA of PKA Catalytic Subunit C-alpha
+Proto-oncogene serine/threonine-protein kinase Pim-1
+mRNA of PKA Catalytic Subunit C-alpha
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Coagulation factor Xa
+Nitric-oxide synthase, endothelial
+CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+mRNA of PKA Catalytic Subunit C-alpha
+Coagulation factor Xa
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Coagulation factor Xa
+Proto-oncogene serine/threonine-protein kinase Pim-1
+mRNA of PKA Catalytic Subunit C-alpha
+mRNA of PKA Catalytic Subunit C-alpha
+Thrombin
+Coagulation factor Xa
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Coagulation factor Xa
+CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+mRNA of PKA Catalytic Subunit C-alpha
+Coagulation factor Xa
+CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Coagulation factor Xa
+Proto-oncogene serine/threonine-protein kinase Pim-1
+CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+mRNA of PKA Catalytic Subunit C-alpha
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Coagulation factor Xa
+Nitric-oxide synthase, endothelial
+DNA topoisomerase II
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+Proto-oncogene serine/threonine-protein kinase Pim-1
+mRNA of Protein-tyrosine phosphatase, non-receptor type 1
+Coagulation factor Xa
+DNA topoisomerase II
+mRNA of PKA Catalytic Subunit C-alpha
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Calcium-activated potassium channel subunit alpha 1
+Coagulation factor Xa
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Coagulation factor Xa
+DNA topoisomerase II
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Calcium-activated potassium channel subunit alpha 1
+Coagulation factor Xa
+Nitric-oxide synthase, endothelial
+mRNA of PKA Catalytic Subunit C-alpha
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Calcium-activated potassium channel subunit alpha 1
+Thrombin
+Coagulation factor Xa
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Coagulation factor Xa
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Coagulation factor Xa
+mRNA of PKA Catalytic Subunit C-alpha
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Nitric-oxide synthase, endothelial
+CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+Coagulation factor Xa
+CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+5-hydroxytryptamine 2A receptor
+mRNA of PKA Catalytic Subunit C-alpha
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Coagulation factor Xa
+Nitric-oxide synthase, endothelial
+DNA topoisomerase II
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Coagulation factor Xa
+DNA topoisomerase II
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Coagulation factor Xa
+Nitric-oxide synthase, endothelial
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Coagulation factor Xa
+DNA topoisomerase II
+mRNA of PKA Catalytic Subunit C-alpha
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Calcium-activated potassium channel subunit alpha 1
+Coagulation factor Xa
+DNA topoisomerase II
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+Coagulation factor Xa
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Thrombin
+mRNA of PKA Catalytic Subunit C-alpha
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Coagulation factor Xa
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Coagulation factor Xa
+Proto-oncogene serine/threonine-protein kinase Pim-1
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+DNA topoisomerase II
+Thrombin
+Coagulation factor Xa
+mRNA of PKA Catalytic Subunit C-alpha
+Nitric-oxide synthase, endothelial
+Vascular endothelial growth factor A
+Transcription factor AP-1
+Cyclin-dependent kinase inhibitor 2A, isoforms 1/2/3
+Xanthine dehydrogenase/oxidase
+Probable E3 ubiquitin-protein ligase HERC5
+Transforming growth factor beta-1
+Maltase-glucoamylase, intestinal
+Phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN
+DNA gyrase subunit B
+C-reactive protein
+Homeobox protein Nkx-3.1
+Peroxidase C1A
+mRNA of PKA Catalytic Subunit C-alpha
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+Thrombin
+Vascular endothelial growth factor A
+Transcription factor AP-1
+Cytochrome P450 2B1
+Serum albumin
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+mRNA of PKA Catalytic Subunit C-alpha
+Thrombin
+Coagulation factor Xa
+Nitric-oxide synthase, endothelial
+DNA topoisomerase II
+Calcium-activated potassium channel subunit alpha 1
+Thrombin
+Thrombin
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+mRNA of PKA Catalytic Subunit C-alpha
+Gamma-aminobutyric-acid receptor alpha-2 subunit
+CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+5-hydroxytryptamine 2A receptor
+Gamma-aminobutyric-acid receptor alpha-5 subunit
+Gamma-aminobutyric-acid receptor alpha-3 subunit
+Neuronal acetylcholine receptor protein, alpha-7 chain
+Cytochrome P450-cam
+Transcription factor AP-1
+Transforming growth factor beta-1
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+mRNA of PKA Catalytic Subunit C-alpha
+Thrombin
+Nitric-oxide synthase, endothelial
+Gamma-aminobutyric-acid receptor alpha-2 subunit
+DNA topoisomerase II
+Transcription factor AP-1
+Xanthine dehydrogenase/oxidase
+Peroxidase C1A
+mRNA of PKA Catalytic Subunit C-alpha
+5-hydroxytryptamine 2A receptor
+Gamma-aminobutyric-acid receptor alpha-3 subunit
+Neuronal acetylcholine receptor protein, alpha-7 chain
+mRNA of PKA Catalytic Subunit C-alpha
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+Vascular endothelial growth factor A
+Transcription factor AP-1
+Xanthine dehydrogenase/oxidase
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+DNA topoisomerase II
+Thrombin
+Coagulation factor Xa
+mRNA of PKA Catalytic Subunit C-alpha
+Nitric-oxide synthase, endothelial
+Vascular endothelial growth factor A
+Transcription factor AP-1
+Cyclin-dependent kinase inhibitor 2A, isoforms 1/2/3
+Xanthine dehydrogenase/oxidase
+Probable E3 ubiquitin-protein ligase HERC5
+Transforming growth factor beta-1
+Maltase-glucoamylase, intestinal
+Phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN
+DNA gyrase subunit B
+C-reactive protein
+Homeobox protein Nkx-3.1
+Peroxidase C1A
+Neuronal acetylcholine receptor protein, alpha-7 chain
+Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+mRNA of PKA Catalytic Subunit C-alpha
+Gamma-aminobutyric-acid receptor alpha-2 subunit
+CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+5-hydroxytryptamine 2A receptor
+Gamma-aminobutyric-acid receptor alpha-5 subunit
+Gamma-aminobutyric-acid receptor alpha-3 subunit
+Neuronal acetylcholine receptor protein, alpha-7 chain
+Cytochrome P450-cam
+Transcription factor AP-1
+Transforming growth factor beta-1
+Thrombin

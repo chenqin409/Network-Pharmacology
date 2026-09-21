@@ -1,0 +1,865 @@
+MOL_ID	molecule_name	target_name
+MOL000116	Nonanal	Alcohol dehydrogenase 1B
+MOL000116	Nonanal	Alcohol dehydrogenase 1C
+MOL000116	Nonanal	Gamma-aminobutyric-acid receptor alpha-2 subunit
+MOL000116	Nonanal	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL000116	Nonanal	Cytochrome P450-cam
+MOL000117	Cymol	Sodium-dependent noradrenaline transporter
+MOL000117	Cymol	Lysozyme
+MOL000121	Decanal	Alcohol dehydrogenase 1B
+MOL000121	Decanal	Alcohol dehydrogenase 1C
+MOL001224	Tridecylene	Progesterone receptor
+MOL001224	Tridecylene	Mineralocorticoid receptor
+MOL000125	(-)-alpha-Pinene	Gamma-aminobutyric-acid receptor alpha-2 subunit
+MOL000125	(-)-alpha-Pinene	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL000125	(-)-alpha-Pinene	Cytochrome P450-cam
+MOL001273	80-57-9	Muscarinic acetylcholine receptor M3
+MOL001273	80-57-9	Gamma-aminobutyric-acid receptor alpha-2 subunit
+MOL001273	80-57-9	Cytochrome P450-cam
+MOL001273	80-57-9	Muscarinic acetylcholine receptor M2
+MOL001306	o-Acetyl-p-cresol	Prostaglandin G/H synthase 1
+MOL001306	o-Acetyl-p-cresol	Prostaglandin G/H synthase 2
+MOL001306	o-Acetyl-p-cresol	Amine oxidase [flavin-containing] B
+MOL001306	o-Acetyl-p-cresol	Lysozyme
+MOL001306	o-Acetyl-p-cresol	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MOL001306	o-Acetyl-p-cresol	Progesterone receptor
+MOL001306	o-Acetyl-p-cresol	Glucocorticoid receptor
+MOL001306	o-Acetyl-p-cresol	Nuclear receptor coactivator 2
+MOL001388	(+)-Ledol	Muscarinic acetylcholine receptor M3
+MOL001388	(+)-Ledol	Muscarinic acetylcholine receptor M1
+MOL001388	(+)-Ledol	Muscarinic acetylcholine receptor M2
+MOL001388	(+)-Ledol	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL001388	(+)-Ledol	Alpha-1B adrenergic receptor
+MOL001388	(+)-Ledol	Gamma-aminobutyric-acid receptor alpha-2 subunit
+MOL001388	(+)-Ledol	Gamma-aminobutyric-acid receptor alpha-3 subunit
+MOL001388	(+)-Ledol	Gamma-aminobutyric-acid receptor subunit alpha-6
+MOL001578	Hypnon	Alcohol dehydrogenase 1B
+MOL001578	Hypnon	Alcohol dehydrogenase 1C
+MOL001578	Hypnon	Alcohol dehydrogenase 1A
+MOL001578	Hypnon	Lysozyme
+MOL001578	Hypnon	Bacillolysin
+MOL001578	Hypnon	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MOL001578	Hypnon	Trypsin-3
+MOL000162	beta-Chamigrene	Prostaglandin G/H synthase 2
+MOL000162	beta-Chamigrene	Sodium-dependent noradrenaline transporter
+MOL000162	beta-Chamigrene	Amine oxidase [flavin-containing] B
+MOL000162	beta-Chamigrene	Nuclear receptor coactivator 2
+MOL000162	beta-Chamigrene	Prostaglandin G/H synthase 1
+MOL000162	beta-Chamigrene	Muscarinic acetylcholine receptor M3
+MOL000162	beta-Chamigrene	Muscarinic acetylcholine receptor M1
+MOL000162	beta-Chamigrene	Gamma-aminobutyric-acid receptor alpha-2 subunit
+MOL000162	beta-Chamigrene	Retinoic acid receptor RXR-alpha
+MOL000162	beta-Chamigrene	Gamma-aminobutyric-acid receptor alpha-3 subunit
+MOL000162	beta-Chamigrene	Muscarinic acetylcholine receptor M2
+MOL000162	beta-Chamigrene	Alpha-1B adrenergic receptor
+MOL000162	beta-Chamigrene	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL000162	beta-Chamigrene	Gamma-aminobutyric-acid receptor subunit alpha-6
+MOL000162	beta-Chamigrene	Neuronal acetylcholine receptor subunit alpha-2
+MOL000162	beta-Chamigrene	Neuronal acetylcholine receptor protein, alpha-7 chain
+MOL000162	beta-Chamigrene	Gamma-aminobutyric-acid receptor alpha-5 subunit
+MOL000162	beta-Chamigrene	Alpha-1A adrenergic receptor
+MOL000162	beta-Chamigrene	Gamma-aminobutyric-acid receptor subunit alpha-4
+MOL001640	NON	Phospholipase A2
+MOL001640	NON	Alcohol dehydrogenase 1B
+MOL001640	NON	Alcohol dehydrogenase 1C
+MOL001640	NON	Ig gamma-1 chain C region
+MOL001640	NON	3-oxoacyl-[acyl-carrier-protein] synthase 1
+MOL001640	NON	Bacillolysin
+MOL001788	adenine	Purine nucleoside phosphorylase
+MOL001788	adenine	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MOL001788	adenine	Purine nucleoside phosphorylase deoD-type
+MOL001788	adenine	Putative adenosylhomocysteinase 2
+MOL000197	Myrcene	Alcohol dehydrogenase 1C
+MOL000197	Myrcene	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL000199	Safrol	Prostaglandin G/H synthase 1
+MOL000199	Safrol	Muscarinic acetylcholine receptor M1
+MOL000199	Safrol	Beta-1 adrenergic receptor
+MOL000199	Safrol	Prostaglandin G/H synthase 2
+MOL000199	Safrol	Alpha-2A adrenergic receptor
+MOL000199	Safrol	Alpha-2C adrenergic receptor
+MOL000199	Safrol	Sodium-dependent noradrenaline transporter
+MOL000199	Safrol	Alpha-1A adrenergic receptor
+MOL000199	Safrol	Muscarinic acetylcholine receptor M2
+MOL000199	Safrol	Alpha-1B adrenergic receptor
+MOL000199	Safrol	Sodium-dependent dopamine transporter
+MOL000199	Safrol	Beta-2 adrenergic receptor
+MOL000199	Safrol	Beta-lactamase
+MOL000199	Safrol	Leukotriene A-4 hydrolase
+MOL000199	Safrol	Amine oxidase [flavin-containing] B
+MOL000199	Safrol	Amine oxidase [flavin-containing] A
+MOL000199	Safrol	Alpha-2B adrenergic receptor
+MOL000199	Safrol	Alpha-1D adrenergic receptor
+MOL000199	Safrol	Cell division protein kinase 2
+MOL000199	Safrol	Chymotrypsinogen B
+MOL000199	Safrol	Lysozyme
+MOL000202	Moslene	Prostaglandin G/H synthase 2
+MOL000202	Moslene	Acetylcholinesterase
+MOL000202	Moslene	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL000202	Moslene	Dipeptidyl peptidase IV
+MOL000202	Moslene	Alcohol dehydrogenase 1C
+MOL000202	Moslene	Cytochrome P450-cam
+MOL000202	Moslene	Alcohol dehydrogenase 1A
+MOL000202	Moslene	Alcohol dehydrogenase 1B
+MOL002029	()-Cuparene	Muscarinic acetylcholine receptor M3
+MOL002029	()-Cuparene	Thrombin
+MOL002029	()-Cuparene	Muscarinic acetylcholine receptor M1
+MOL002029	()-Cuparene	Gamma-aminobutyric-acid receptor alpha-2 subunit
+MOL002029	()-Cuparene	Acetylcholinesterase
+MOL002029	()-Cuparene	Gamma-aminobutyric-acid receptor alpha-5 subunit
+MOL002029	()-Cuparene	Gamma-aminobutyric-acid receptor alpha-3 subunit
+MOL002029	()-Cuparene	Muscarinic acetylcholine receptor M2
+MOL002029	()-Cuparene	Alpha-1B adrenergic receptor
+MOL002029	()-Cuparene	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL002029	()-Cuparene	Dipeptidyl peptidase IV
+MOL002029	()-Cuparene	Glutamate receptor 2
+MOL002029	()-Cuparene	Gamma-aminobutyric-acid receptor subunit alpha-6
+MOL002029	()-Cuparene	Prostaglandin G/H synthase 1
+MOL002029	()-Cuparene	Dopamine D1 receptor
+MOL002029	()-Cuparene	Sodium channel protein type 5 subunit alpha
+MOL002029	()-Cuparene	Prostaglandin G/H synthase 2
+MOL002029	()-Cuparene	Retinoic acid receptor RXR-alpha
+MOL002029	()-Cuparene	Sodium-dependent noradrenaline transporter
+MOL002029	()-Cuparene	Alpha-1A adrenergic receptor
+MOL002029	()-Cuparene	Sodium-dependent dopamine transporter
+MOL002029	()-Cuparene	Beta-2 adrenergic receptor
+MOL002029	()-Cuparene	Sodium-dependent serotonin transporter
+MOL002029	()-Cuparene	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+MOL002029	()-Cuparene	Alpha-1D adrenergic receptor
+MOL002029	()-Cuparene	Neuronal acetylcholine receptor subunit alpha-2
+MOL002029	()-Cuparene	Estrogen receptor
+MOL002029	()-Cuparene	Alpha-2A adrenergic receptor
+MOL002033	cis-Thujopsene	Muscarinic acetylcholine receptor M3
+MOL002033	cis-Thujopsene	Muscarinic acetylcholine receptor M2
+MOL000206	isoeugenol	Prostaglandin G/H synthase 1
+MOL000206	isoeugenol	Muscarinic acetylcholine receptor M3
+MOL000206	isoeugenol	Muscarinic acetylcholine receptor M1
+MOL000206	isoeugenol	Beta-1 adrenergic receptor
+MOL000206	isoeugenol	Prostaglandin G/H synthase 2
+MOL000206	isoeugenol	Nitric-oxide synthase, endothelial
+MOL000206	isoeugenol	Alpha-2A adrenergic receptor
+MOL000206	isoeugenol	Alpha-2C adrenergic receptor
+MOL000206	isoeugenol	Sodium-dependent noradrenaline transporter
+MOL000206	isoeugenol	Alpha-1A adrenergic receptor
+MOL000206	isoeugenol	Alpha-1B adrenergic receptor
+MOL000206	isoeugenol	Sodium-dependent dopamine transporter
+MOL000206	isoeugenol	Beta-2 adrenergic receptor
+MOL000206	isoeugenol	Alpha-1D adrenergic receptor
+MOL000206	isoeugenol	Amine oxidase [flavin-containing] B
+MOL000206	isoeugenol	Amine oxidase [flavin-containing] A
+MOL000206	isoeugenol	Lysozyme
+MOL000206	isoeugenol	Muscarinic acetylcholine receptor M2
+MOL000206	isoeugenol	Leukotriene A-4 hydrolase
+MOL000206	isoeugenol	Transcription factor p65
+MOL000206	isoeugenol	Interleukin-2
+MOL000206	isoeugenol	Nuclear factor of activated T-cells, cytoplasmic 3
+MOL002098	3-Butylidene-7-hydroxyphthalide	Prostaglandin G/H synthase 1
+MOL002098	3-Butylidene-7-hydroxyphthalide	Muscarinic acetylcholine receptor M1
+MOL002098	3-Butylidene-7-hydroxyphthalide	Prostaglandin G/H synthase 2
+MOL002098	3-Butylidene-7-hydroxyphthalide	Sodium-dependent noradrenaline transporter
+MOL002098	3-Butylidene-7-hydroxyphthalide	Alpha-2B adrenergic receptor
+MOL002098	3-Butylidene-7-hydroxyphthalide	Beta-2 adrenergic receptor
+MOL002098	3-Butylidene-7-hydroxyphthalide	Sodium-dependent serotonin transporter
+MOL002098	3-Butylidene-7-hydroxyphthalide	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL002098	3-Butylidene-7-hydroxyphthalide	Amine oxidase [flavin-containing] B
+MOL002098	3-Butylidene-7-hydroxyphthalide	mRNA of PKA Catalytic Subunit C-alpha
+MOL002102	Levistolid A	Progesterone receptor
+MOL002102	Levistolid A	Glucocorticoid receptor
+MOL002102	Levistolid A	Nuclear receptor coactivator 2
+MOL002102	Levistolid A	Nuclear receptor coactivator 1
+MOL002111	BdPh	Prostaglandin G/H synthase 1
+MOL002111	BdPh	Muscarinic acetylcholine receptor M3
+MOL002111	BdPh	Muscarinic acetylcholine receptor M1
+MOL002111	BdPh	Beta-1 adrenergic receptor
+MOL002111	BdPh	Sodium channel protein type 5 subunit alpha
+MOL002111	BdPh	Prostaglandin G/H synthase 2
+MOL002111	BdPh	Alpha-2A adrenergic receptor
+MOL002111	BdPh	Alpha-2C adrenergic receptor
+MOL002111	BdPh	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+MOL002111	BdPh	5-hydroxytryptamine 2A receptor
+MOL002111	BdPh	Sodium-dependent noradrenaline transporter
+MOL002111	BdPh	Alpha-1A adrenergic receptor
+MOL002111	BdPh	Muscarinic acetylcholine receptor M2
+MOL002111	BdPh	Alpha-2B adrenergic receptor
+MOL002111	BdPh	Alpha-1B adrenergic receptor
+MOL002111	BdPh	Sodium-dependent dopamine transporter
+MOL002111	BdPh	Beta-2 adrenergic receptor
+MOL002111	BdPh	Sodium-dependent serotonin transporter
+MOL002111	BdPh	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL002111	BdPh	Amine oxidase [flavin-containing] B
+MOL002111	BdPh	Amine oxidase [flavin-containing] A
+MOL002111	BdPh	mRNA of PKA Catalytic Subunit C-alpha
+MOL002111	BdPh	Retinoic acid receptor RXR-alpha
+MOL002111	BdPh	cAMP-dependent protein kinase inhibitor alpha
+MOL002143	senkyunolide-C	Prostaglandin G/H synthase 1
+MOL002143	senkyunolide-C	Muscarinic acetylcholine receptor M1
+MOL002143	senkyunolide-C	Prostaglandin G/H synthase 2
+MOL002143	senkyunolide-C	Muscarinic acetylcholine receptor M2
+MOL002143	senkyunolide-C	Alpha-2B adrenergic receptor
+MOL002143	senkyunolide-C	Beta-2 adrenergic receptor
+MOL002143	senkyunolide-C	Sodium-dependent serotonin transporter
+MOL002143	senkyunolide-C	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL002143	senkyunolide-C	Amine oxidase [flavin-containing] B
+MOL002143	senkyunolide-C	mRNA of PKA Catalytic Subunit C-alpha
+MOL002143	senkyunolide-C	cAMP-dependent protein kinase inhibitor alpha
+MOL002144	senkyunolide-D	Prostaglandin G/H synthase 2
+MOL002144	senkyunolide-D	Nitric-oxide synthase, endothelial
+MOL002144	senkyunolide-D	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL002144	senkyunolide-D	Glutamate receptor 2
+MOL002144	senkyunolide-D	Gamma-aminobutyric-acid receptor subunit alpha-6
+MOL002145	senkyunolide-E	Prostaglandin G/H synthase 1
+MOL002145	senkyunolide-E	Muscarinic acetylcholine receptor M1
+MOL002145	senkyunolide-E	Sodium channel protein type 5 subunit alpha
+MOL002145	senkyunolide-E	Prostaglandin G/H synthase 2
+MOL002145	senkyunolide-E	Sodium-dependent noradrenaline transporter
+MOL002145	senkyunolide-E	Alpha-2B adrenergic receptor
+MOL002145	senkyunolide-E	Beta-2 adrenergic receptor
+MOL002145	senkyunolide-E	Sodium-dependent serotonin transporter
+MOL002145	senkyunolide-E	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL002145	senkyunolide-E	Amine oxidase [flavin-containing] B
+MOL002145	senkyunolide-E	mRNA of PKA Catalytic Subunit C-alpha
+MOL002184	(6R)-6-butylcyclohepta-1,4-diene	Prostaglandin G/H synthase 2
+MOL002184	(6R)-6-butylcyclohepta-1,4-diene	Alcohol dehydrogenase 1C
+MOL002201	cis-ligustilide	Prostaglandin G/H synthase 2
+MOL002201	cis-ligustilide	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL000023	Hemo-sol	Prostaglandin G/H synthase 2
+MOL000023	Hemo-sol	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL000023	Hemo-sol	Alcohol dehydrogenase 1B
+MOL000023	Hemo-sol	Alcohol dehydrogenase 1C
+MOL000023	Hemo-sol	Cytochrome P450-cam
+MOL000023	Hemo-sol	Nuclear receptor coactivator 2
+MOL000023	Hemo-sol	Nuclear receptor coactivator 1
+MOL000023	Hemo-sol	Muscarinic acetylcholine receptor M2
+MOL000023	Hemo-sol	Gamma-aminobutyric-acid receptor alpha-2 subunit
+MOL000023	Hemo-sol	Muscarinic acetylcholine receptor M1
+MOL000023	Hemo-sol	Gamma-aminobutyric-acid receptor alpha-5 subunit
+MOL000023	Hemo-sol	Gamma-aminobutyric-acid receptor alpha-3 subunit
+MOL000023	Hemo-sol	Ig gamma-1 chain C region
+MOL000023	Hemo-sol	Gamma-aminobutyric-acid receptor subunit alpha-6
+MOL000232	()-alpha-Terpineol	Muscarinic acetylcholine receptor M3
+MOL000232	()-alpha-Terpineol	Muscarinic acetylcholine receptor M1
+MOL000232	()-alpha-Terpineol	Gamma-aminobutyric-acid receptor alpha-2 subunit
+MOL000232	()-alpha-Terpineol	Gamma-aminobutyric-acid receptor alpha-5 subunit
+MOL000232	()-alpha-Terpineol	Sodium-dependent noradrenaline transporter
+MOL000232	()-alpha-Terpineol	Alpha-1A adrenergic receptor
+MOL000232	()-alpha-Terpineol	Gamma-aminobutyric-acid receptor alpha-3 subunit
+MOL000232	()-alpha-Terpineol	Muscarinic acetylcholine receptor M2
+MOL000232	()-alpha-Terpineol	Alpha-1B adrenergic receptor
+MOL000232	()-alpha-Terpineol	Sodium-dependent dopamine transporter
+MOL000232	()-alpha-Terpineol	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL000232	()-alpha-Terpineol	Ig gamma-1 chain C region
+MOL000232	()-alpha-Terpineol	Amine oxidase [flavin-containing] B
+MOL000232	()-alpha-Terpineol	Amine oxidase [flavin-containing] A
+MOL000232	()-alpha-Terpineol	Gamma-aminobutyric-acid receptor subunit alpha-6
+MOL000232	()-alpha-Terpineol	Beta-1 adrenergic receptor
+MOL000232	()-alpha-Terpineol	Retinoic acid receptor RXR-alpha
+MOL000232	()-alpha-Terpineol	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+MOL000232	()-alpha-Terpineol	5-hydroxytryptamine 2A receptor
+MOL000232	()-alpha-Terpineol	Beta-2 adrenergic receptor
+MOL000232	()-alpha-Terpineol	Sodium-dependent serotonin transporter
+MOL002480	Methylbutenol	Prostaglandin G/H synthase 1
+MOL002480	Methylbutenol	4-aminobutyrate aminotransferase, mitochondrial
+MOL002480	Methylbutenol	Gamma-aminobutyric-acid receptor alpha-2 subunit
+MOL002480	Methylbutenol	Glycine receptor alpha-1 chain
+MOL002480	Methylbutenol	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL002480	Methylbutenol	Cathepsin D
+MOL002480	Methylbutenol	Neutrophil collagenase
+MOL002480	Methylbutenol	Cholinesterase
+MOL002480	Methylbutenol	Xanthine dehydrogenase/oxidase
+MOL002480	Methylbutenol	Elastase 1
+MOL002480	Methylbutenol	Alcohol dehydrogenase 1B
+MOL002480	Methylbutenol	Alcohol dehydrogenase 1C
+MOL002480	Methylbutenol	Catalase
+MOL002480	Methylbutenol	Sigma factor sigB regulation protein rsbQ
+MOL002480	Methylbutenol	Cytochrome P450-cam
+MOL002480	Methylbutenol	Aspartate aminotransferase
+MOL002480	Methylbutenol	Ferrichrome-iron receptor
+MOL002480	Methylbutenol	Histidinol dehydrogenase
+MOL002480	Methylbutenol	Formate acetyltransferase 1
+MOL002480	Methylbutenol	Alanine racemase
+MOL002480	Methylbutenol	Gag-Pol polyprotein
+MOL002480	Methylbutenol	Monomeric sarcosine oxidase
+MOL002480	Methylbutenol	Bacillolysin
+MOL002480	Methylbutenol	Haloalkane dehalogenase
+MOL002480	Methylbutenol	Gamma-aminobutyraldehyde dehydrogenase
+MOL002480	Methylbutenol	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase
+MOL002480	Methylbutenol	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MOL002480	Methylbutenol	Phosphotriesterase
+MOL002480	Methylbutenol	Coagulation factor XIII A chain
+MOL002480	Methylbutenol	Serine--pyruvate aminotransferase
+MOL002480	Methylbutenol	Alanine aminotransferase 1
+MOL002480	Methylbutenol	Cystathionine gamma-lyase
+MOL002480	Methylbutenol	Glycine N-methyltransferase
+MOL002480	Methylbutenol	Choline dehydrogenase, mitochondrial
+MOL002480	Methylbutenol	Alanine--glyoxylate aminotransferase 2, mitochondrial
+MOL002480	Methylbutenol	Glycine amidinotransferase, mitochondrial
+MOL002480	Methylbutenol	Proton-coupled amino acid transporter 1
+MOL002480	Methylbutenol	Triosephosphate isomerase
+MOL002480	Methylbutenol	NAD-dependent malic enzyme, mitochondrial
+MOL002480	Methylbutenol	Trypsin-3
+MOL002480	Methylbutenol	Gamma-aminobutyric-acid receptor alpha-3 subunit
+MOL002480	Methylbutenol	Beta-galactosidase
+MOL002480	Methylbutenol	Adenylosuccinate synthetase
+MOL002480	Methylbutenol	Beta-lactamase SHV-1 precursor
+MOL002480	Methylbutenol	Beta-lactamase SHV-1
+MOL002480	Methylbutenol	Sensor protein fixL
+MOL002480	Methylbutenol	Dihydroxyacetone kinase
+MOL002480	Methylbutenol	Gephyrin
+MOL002480	Methylbutenol	Cysteine desulfurase, mitochondrial
+MOL000259	o-Thymol	Muscarinic acetylcholine receptor M1
+MOL000259	o-Thymol	Beta-1 adrenergic receptor
+MOL000259	o-Thymol	Alpha-2C adrenergic receptor
+MOL000259	o-Thymol	Sodium-dependent noradrenaline transporter
+MOL000259	o-Thymol	Alpha-1A adrenergic receptor
+MOL000259	o-Thymol	Sodium-dependent dopamine transporter
+MOL000259	o-Thymol	Beta-2 adrenergic receptor
+MOL000259	o-Thymol	Muscarinic acetylcholine receptor M2
+MOL000259	o-Thymol	Alpha-1B adrenergic receptor
+MOL000259	o-Thymol	Alpha-1D adrenergic receptor
+MOL000270	CHEBI:7	Cytochrome P450-cam
+MOL000270	CHEBI:7	Muscarinic acetylcholine receptor M3
+MOL000270	CHEBI:7	Muscarinic acetylcholine receptor M1
+MOL000270	CHEBI:7	Muscarinic acetylcholine receptor M4
+MOL000270	CHEBI:7	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+MOL000270	CHEBI:7	5-hydroxytryptamine 2A receptor
+MOL000270	CHEBI:7	Muscarinic acetylcholine receptor M2
+MOL000270	CHEBI:7	Alpha-1B adrenergic receptor
+MOL000270	CHEBI:7	Beta-2 adrenergic receptor
+MOL000270	CHEBI:7	Sodium-dependent serotonin transporter
+MOL000270	CHEBI:7	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL000270	CHEBI:7	Coagulation factor Xa
+MOL000270	CHEBI:7	Prostaglandin G/H synthase 2
+MOL000270	CHEBI:7	DNA topoisomerase II
+MOL000270	CHEBI:7	Nuclear receptor coactivator 2
+MOL000270	CHEBI:7	Calmodulin
+MOL002830	PCR	Alcohol dehydrogenase 1B
+MOL002830	PCR	Alcohol dehydrogenase 1C
+MOL002830	PCR	Alcohol dehydrogenase 1A
+MOL002830	PCR	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MOL002972	(4S)-1-methyl-4-(6-methylhepta-1,5-dien-2-yl)cyclohexene	Prostaglandin G/H synthase 2
+MOL002972	(4S)-1-methyl-4-(6-methylhepta-1,5-dien-2-yl)cyclohexene	Sodium-dependent noradrenaline transporter
+MOL002972	(4S)-1-methyl-4-(6-methylhepta-1,5-dien-2-yl)cyclohexene	Amine oxidase [flavin-containing] B
+MOL002972	(4S)-1-methyl-4-(6-methylhepta-1,5-dien-2-yl)cyclohexene	Nuclear receptor coactivator 2
+MOL002972	(4S)-1-methyl-4-(6-methylhepta-1,5-dien-2-yl)cyclohexene	Muscarinic acetylcholine receptor M2
+MOL002983	Guasol	Alcohol dehydrogenase 1C
+MOL002983	Guasol	Lysozyme
+MOL002983	Guasol	Bacillolysin
+MOL002983	Guasol	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MOL000346	succinic acid	4-aminobutyrate aminotransferase, mitochondrial
+MOL000346	succinic acid	Aspartate aminotransferase, cytoplasmic
+MOL000346	succinic acid	Branched chain amino acid-dependent aminotransferase
+MOL000346	succinic acid	Aldose reductase
+MOL000346	succinic acid	Proto-oncogene tyrosine-protein kinase SRC
+MOL000346	succinic acid	Cathepsin D
+MOL000346	succinic acid	M-phase inducer phosphatase 2
+MOL000346	succinic acid	Cholinesterase
+MOL000346	succinic acid	Alcohol dehydrogenase 1B
+MOL000346	succinic acid	Alcohol dehydrogenase 1C
+MOL000346	succinic acid	Alcohol dehydrogenase 1A
+MOL000346	succinic acid	Cytochrome P450-cam
+MOL000346	succinic acid	Aspartate aminotransferase
+MOL000346	succinic acid	Ferrichrome-iron receptor
+MOL000346	succinic acid	Monomeric sarcosine oxidase
+MOL000346	succinic acid	Bacillolysin
+MOL000346	succinic acid	Aromatic-amino-acid aminotransferase
+MOL000346	succinic acid	1-aminocyclopropane-1-carboxylate deaminase
+MOL000346	succinic acid	Growth-inhibiting protein 18
+MOL000346	succinic acid	Aspartate aminotransferase, mitochondrial
+MOL000346	succinic acid	S-adenosylmethionine synthetase isoform type-1
+MOL000346	succinic acid	Triosephosphate isomerase
+MOL000346	succinic acid	NAD-dependent malic enzyme, mitochondrial
+MOL000346	succinic acid	NADP-dependent malic enzyme, mitochondrial
+MOL000346	succinic acid	Trypsin-3
+MOL000346	succinic acid	Nitric-oxide synthase, brain
+MOL000346	succinic acid	Succinate semialdehyde dehydrogenase, mitochondrial
+MOL000346	succinic acid	Ornithine aminotransferase, mitochondrial
+MOL000346	succinic acid	Glycine receptor alpha-1 chain
+MOL000346	succinic acid	mRNA of Protein-tyrosine phosphatase, non-receptor type 1
+MOL000346	succinic acid	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL000346	succinic acid	Thioredoxin reductase, cytoplasmic
+MOL000346	succinic acid	mRNA of PKA Catalytic Subunit C-alpha
+MOL000346	succinic acid	Acetyl-CoA acetyltransferase
+MOL000346	succinic acid	Formate acetyltransferase 1
+MOL000346	succinic acid	Adenylosuccinate synthetase
+MOL000346	succinic acid	Glucarate dehydratase
+MOL000346	succinic acid	D-alanyl-D-alanine carboxypeptidase
+MOL000346	succinic acid	Deacetoxycephalosporin C synthetase
+MOL000346	succinic acid	Malate dehydrogenase
+MOL000346	succinic acid	Fumarate reductase flavoprotein subunit
+MOL000346	succinic acid	2-isopropylmalate synthase
+MOL000346	succinic acid	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MOL000346	succinic acid	Malonamidase E2
+MOL000346	succinic acid	Glutamate dehydrogenase 1, mitochondrial
+MOL000346	succinic acid	Ornithine carbamoyltransferase, mitochondrial
+MOL000346	succinic acid	Pyruvate kinase isozymes M1/M2
+MOL000346	succinic acid	Serine--pyruvate aminotransferase
+MOL000346	succinic acid	Oxidoreductase
+MOL000346	succinic acid	Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial
+MOL000346	succinic acid	S-adenosylmethionine synthetase isoform type-2
+MOL000346	succinic acid	Prolyl 3-hydroxylase 1
+MOL000346	succinic acid	Prolyl 3-hydroxylase 3
+MOL000346	succinic acid	Succinyl-CoA:3-ketoacid-coenzyme A transferase 2, mitochondrial
+MOL000346	succinic acid	Mitochondrial dicarboxylate carrier
+MOL000346	succinic acid	Prolyl 4-hydroxylase subunit alpha-2
+MOL000346	succinic acid	Succinyl-CoA ligase [ADP-forming] beta-chain, mitochondrial
+MOL000346	succinic acid	Haloalkane dehalogenase
+MOL000346	succinic acid	Glucose--fructose oxidoreductase
+MOL000346	succinic acid	Caspase-3
+MOL000035	beta-Selinene	Prostaglandin G/H synthase 1
+MOL000035	beta-Selinene	Muscarinic acetylcholine receptor M3
+MOL000035	beta-Selinene	Muscarinic acetylcholine receptor M1
+MOL000035	beta-Selinene	Prostaglandin G/H synthase 2
+MOL000035	beta-Selinene	Gamma-aminobutyric-acid receptor alpha-2 subunit
+MOL000035	beta-Selinene	Retinoic acid receptor RXR-alpha
+MOL000035	beta-Selinene	Sodium-dependent noradrenaline transporter
+MOL000035	beta-Selinene	Gamma-aminobutyric-acid receptor alpha-3 subunit
+MOL000035	beta-Selinene	Muscarinic acetylcholine receptor M2
+MOL000035	beta-Selinene	Alpha-1B adrenergic receptor
+MOL000035	beta-Selinene	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL000035	beta-Selinene	Nuclear receptor coactivator 2
+MOL000035	beta-Selinene	Gamma-aminobutyric-acid receptor subunit alpha-6
+MOL003534	CADINENE	Muscarinic acetylcholine receptor M1
+MOL003534	CADINENE	Prostaglandin G/H synthase 2
+MOL003534	CADINENE	Retinoic acid receptor RXR-alpha
+MOL003534	CADINENE	Sodium-dependent noradrenaline transporter
+MOL003534	CADINENE	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL003534	CADINENE	Nuclear receptor coactivator 2
+MOL000357	Sitogluside	Progesterone receptor
+MOL000357	Sitogluside	Prostaglandin G/H synthase 1
+MOL000357	Sitogluside	Muscarinic acetylcholine receptor M3
+MOL000357	Sitogluside	Potassium voltage-gated channel subfamily H member 2
+MOL000357	Sitogluside	Muscarinic acetylcholine receptor M1
+MOL000357	Sitogluside	Sodium channel protein type 5 subunit alpha
+MOL000357	Sitogluside	Coagulation factor Xa
+MOL000357	Sitogluside	Prostaglandin G/H synthase 2
+MOL000357	Sitogluside	5-hydroxytryptamine receptor 3A
+MOL000357	Sitogluside	Retinoic acid receptor RXR-alpha
+MOL000357	Sitogluside	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+MOL000357	Sitogluside	Alpha-1B adrenergic receptor
+MOL000357	Sitogluside	Beta-2 adrenergic receptor
+MOL000357	Sitogluside	Alpha-1D adrenergic receptor
+MOL000357	Sitogluside	Heat shock protein HSP 90
+MOL000357	Sitogluside	Nuclear receptor coactivator 2
+MOL000357	Sitogluside	Calmodulin
+MOL000358	beta-sitosterol	Progesterone receptor
+MOL000358	beta-sitosterol	Nuclear receptor coactivator 2
+MOL000358	beta-sitosterol	Prostaglandin G/H synthase 1
+MOL000358	beta-sitosterol	Prostaglandin G/H synthase 2
+MOL000358	beta-sitosterol	Heat shock protein HSP 90
+MOL000358	beta-sitosterol	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+MOL000358	beta-sitosterol	Potassium voltage-gated channel subfamily H member 2
+MOL000358	beta-sitosterol	mRNA of PKA Catalytic Subunit C-alpha
+MOL000358	beta-sitosterol	Dopamine D1 receptor
+MOL000358	beta-sitosterol	Muscarinic acetylcholine receptor M3
+MOL000358	beta-sitosterol	Muscarinic acetylcholine receptor M1
+MOL000358	beta-sitosterol	Sodium channel protein type 5 subunit alpha
+MOL000358	beta-sitosterol	Gamma-aminobutyric-acid receptor alpha-2 subunit
+MOL000358	beta-sitosterol	Muscarinic acetylcholine receptor M4
+MOL000358	beta-sitosterol	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+MOL000358	beta-sitosterol	5-hydroxytryptamine 2A receptor
+MOL000358	beta-sitosterol	Gamma-aminobutyric-acid receptor alpha-5 subunit
+MOL000358	beta-sitosterol	Alpha-1A adrenergic receptor
+MOL000358	beta-sitosterol	Gamma-aminobutyric-acid receptor alpha-3 subunit
+MOL000358	beta-sitosterol	Muscarinic acetylcholine receptor M2
+MOL000358	beta-sitosterol	Alpha-1B adrenergic receptor
+MOL000358	beta-sitosterol	Beta-2 adrenergic receptor
+MOL000358	beta-sitosterol	Neuronal acetylcholine receptor subunit alpha-2
+MOL000358	beta-sitosterol	Sodium-dependent serotonin transporter
+MOL000358	beta-sitosterol	Mu-type opioid receptor
+MOL000358	beta-sitosterol	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL000358	beta-sitosterol	Neuronal acetylcholine receptor protein, alpha-7 chain
+MOL000358	beta-sitosterol	Cytochrome P450-cam
+MOL000358	beta-sitosterol	Apoptosis regulator Bcl-2
+MOL000358	beta-sitosterol	Apoptosis regulator BAX
+MOL000358	beta-sitosterol	Caspase-9
+MOL000358	beta-sitosterol	Transcription factor AP-1
+MOL000358	beta-sitosterol	Caspase-3
+MOL000358	beta-sitosterol	Caspase-8
+MOL000358	beta-sitosterol	Protein kinase C alpha type
+MOL000358	beta-sitosterol	Transforming growth factor beta-1
+MOL000358	beta-sitosterol	Serum paraoxonase/arylesterase 1
+MOL000358	beta-sitosterol	Microtubule-associated protein 2
+MOL003587	Acoradiene	Prostaglandin G/H synthase 1
+MOL003587	Acoradiene	Muscarinic acetylcholine receptor M3
+MOL003587	Acoradiene	Muscarinic acetylcholine receptor M1
+MOL003587	Acoradiene	Prostaglandin G/H synthase 2
+MOL003587	Acoradiene	Gamma-aminobutyric-acid receptor alpha-2 subunit
+MOL003587	Acoradiene	Retinoic acid receptor RXR-alpha
+MOL003587	Acoradiene	Sodium-dependent noradrenaline transporter
+MOL003587	Acoradiene	Alpha-1A adrenergic receptor
+MOL003587	Acoradiene	Muscarinic acetylcholine receptor M2
+MOL003587	Acoradiene	Alpha-1B adrenergic receptor
+MOL003587	Acoradiene	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL003587	Acoradiene	Nuclear receptor coactivator 2
+MOL003587	Acoradiene	Gamma-aminobutyric-acid receptor subunit alpha-6
+MOL003587	Acoradiene	Neuronal acetylcholine receptor subunit alpha-2
+MOL003587	Acoradiene	Gamma-aminobutyric-acid receptor alpha-3 subunit
+MOL003587	Acoradiene	Sodium-dependent dopamine transporter
+MOL000360	FER	Prostaglandin G/H synthase 1
+MOL000360	FER	Prostaglandin G/H synthase 2
+MOL000360	FER	Nitric-oxide synthase, endothelial
+MOL000360	FER	Alpha-2A adrenergic receptor
+MOL000360	FER	Sodium-dependent noradrenaline transporter
+MOL000360	FER	Alpha-1A adrenergic receptor
+MOL000360	FER	Sodium-dependent dopamine transporter
+MOL000360	FER	Beta-2 adrenergic receptor
+MOL000360	FER	Leukotriene A-4 hydrolase
+MOL000360	FER	Amine oxidase [flavin-containing] B
+MOL000360	FER	Amine oxidase [flavin-containing] A
+MOL000360	FER	Chymotrypsinogen B
+MOL000360	FER	mRNA of PKA Catalytic Subunit C-alpha
+MOL000360	FER	Alpha-2B adrenergic receptor
+MOL000360	FER	Urokinase-type plasminogen activator
+MOL000360	FER	Heat shock protein HSP 90
+MOL000389	FERULIC ACID (CIS)	Prostaglandin G/H synthase 1
+MOL000389	FERULIC ACID (CIS)	Prostaglandin G/H synthase 2
+MOL000389	FERULIC ACID (CIS)	Nitric-oxide synthase, endothelial
+MOL000389	FERULIC ACID (CIS)	Alpha-2A adrenergic receptor
+MOL000389	FERULIC ACID (CIS)	Sodium-dependent noradrenaline transporter
+MOL000389	FERULIC ACID (CIS)	Alpha-2B adrenergic receptor
+MOL000389	FERULIC ACID (CIS)	Sodium-dependent dopamine transporter
+MOL000389	FERULIC ACID (CIS)	Beta-2 adrenergic receptor
+MOL000389	FERULIC ACID (CIS)	Leukotriene A-4 hydrolase
+MOL000389	FERULIC ACID (CIS)	Amine oxidase [flavin-containing] B
+MOL000389	FERULIC ACID (CIS)	Amine oxidase [flavin-containing] A
+MOL000389	FERULIC ACID (CIS)	mRNA of PKA Catalytic Subunit C-alpha
+MOL000389	FERULIC ACID (CIS)	Chymotrypsinogen B
+MOL000389	FERULIC ACID (CIS)	Muscarinic acetylcholine receptor M2
+MOL000040	Scopoletol	Prostaglandin G/H synthase 1
+MOL000040	Scopoletol	Thrombin
+MOL000040	Scopoletol	NRH dehydrogenase [quinone] 2
+MOL000040	Scopoletol	Prostaglandin G/H synthase 2
+MOL000040	Scopoletol	Carbonic anhydrase I
+MOL000040	Scopoletol	Beta-2 adrenergic receptor
+MOL000040	Scopoletol	Leukotriene A-4 hydrolase
+MOL000040	Scopoletol	Amine oxidase [flavin-containing] B
+MOL000040	Scopoletol	Glutamate receptor 2
+MOL000040	Scopoletol	mRNA of PKA Catalytic Subunit C-alpha
+MOL000040	Scopoletol	Sodium-dependent noradrenaline transporter
+MOL000040	Scopoletol	Queuine tRNA-ribosyltransferase
+MOL000421	nicotinic acid	Prostaglandin G/H synthase 1
+MOL000421	nicotinic acid	Prostaglandin G/H synthase 2
+MOL000421	nicotinic acid	Alcohol dehydrogenase 1B
+MOL000421	nicotinic acid	Alcohol dehydrogenase 1C
+MOL000421	nicotinic acid	Alcohol dehydrogenase 1A
+MOL000421	nicotinic acid	Lysozyme
+MOL000421	nicotinic acid	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MOL000421	nicotinic acid	Trypsin-3
+MOL000421	nicotinic acid	Apolipoprotein B-100
+MOL000421	nicotinic acid	Lipoprotein lipase
+MOL000421	nicotinic acid	Nitric oxide synthase, endothelial
+MOL000421	nicotinic acid	Peroxisome proliferator-activated receptor alpha
+MOL000421	nicotinic acid	ATP synthase subunit beta, mitochondrial
+MOL000421	nicotinic acid	Haptoglobin
+MOL000421	nicotinic acid	Pyruvate dehydrogenase protein X component, mitochondrial
+MOL000421	nicotinic acid	2-acylglycerol O-acyltransferase 2
+MOL000421	nicotinic acid	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha
+MOL004474	Maruzen M	Alcohol dehydrogenase 1B
+MOL004474	Maruzen M	Alcohol dehydrogenase 1C
+MOL004474	Maruzen M	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MOL004479	o-cresol	Alcohol dehydrogenase 1B
+MOL004479	o-cresol	Alcohol dehydrogenase 1C
+MOL004479	o-cresol	Alcohol dehydrogenase 1A
+MOL004479	o-cresol	Lysozyme
+MOL004479	o-cresol	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MOL004479	o-cresol	Prostaglandin G/H synthase 2
+MOL004479	o-cresol	Prostaglandin G/H synthase 1
+MOL004613	6,7,3',8'-diligustilide	Androgen receptor
+MOL004613	6,7,3',8'-diligustilide	Prostaglandin G/H synthase 2
+MOL004613	6,7,3',8'-diligustilide	Mineralocorticoid receptor
+MOL004613	6,7,3',8'-diligustilide	Glucocorticoid receptor
+MOL004613	6,7,3',8'-diligustilide	Nuclear receptor coactivator 2
+MOL004723	beta-Terpinene	Prostaglandin G/H synthase 1
+MOL004723	beta-Terpinene	Muscarinic acetylcholine receptor M3
+MOL004723	beta-Terpinene	Muscarinic acetylcholine receptor M1
+MOL004723	beta-Terpinene	Prostaglandin G/H synthase 2
+MOL004723	beta-Terpinene	Gamma-aminobutyric-acid receptor alpha-2 subunit
+MOL004723	beta-Terpinene	Muscarinic acetylcholine receptor M2
+MOL004723	beta-Terpinene	Alpha-1B adrenergic receptor
+MOL004723	beta-Terpinene	Neuronal acetylcholine receptor subunit alpha-2
+MOL004723	beta-Terpinene	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL004723	beta-Terpinene	Nuclear receptor coactivator 2
+MOL004723	beta-Terpinene	Gamma-aminobutyric-acid receptor subunit alpha-6
+MOL004723	beta-Terpinene	Cytochrome P450-cam
+MOL004723	beta-Terpinene	Alcohol dehydrogenase 1C
+MOL004734	Butal	Haloalkane dehalogenase
+MOL004734	Butal	Group IIE secretory phospholipase A2
+MOL004734	Butal	Trypsin-3
+MOL000478	Eucarvone	Gamma-aminobutyric-acid receptor alpha-2 subunit
+MOL000478	Eucarvone	Gamma-aminobutyric-acid receptor alpha-5 subunit
+MOL000478	Eucarvone	Muscarinic acetylcholine receptor M2
+MOL000478	Eucarvone	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL000478	Eucarvone	Cytochrome P450-cam
+MOL000478	Eucarvone	Glucocorticoid receptor
+MOL000479	Farnesene	Muscarinic acetylcholine receptor M3
+MOL000479	Farnesene	Muscarinic acetylcholine receptor M1
+MOL000479	Farnesene	Muscarinic acetylcholine receptor M2
+MOL000479	Farnesene	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL000479	Farnesene	Prostaglandin G/H synthase 2
+MOL000479	Farnesene	Amine oxidase [flavin-containing] B
+MOL000489	(1S,4aR,8aR)-1-isopropyl-7-methyl-4-methylene-2,3,4a,5,6,8a-hexahydro-1H-naphthalene	Prostaglandin G/H synthase 1
+MOL000489	(1S,4aR,8aR)-1-isopropyl-7-methyl-4-methylene-2,3,4a,5,6,8a-hexahydro-1H-naphthalene	Muscarinic acetylcholine receptor M1
+MOL000489	(1S,4aR,8aR)-1-isopropyl-7-methyl-4-methylene-2,3,4a,5,6,8a-hexahydro-1H-naphthalene	Prostaglandin G/H synthase 2
+MOL000489	(1S,4aR,8aR)-1-isopropyl-7-methyl-4-methylene-2,3,4a,5,6,8a-hexahydro-1H-naphthalene	Retinoic acid receptor RXR-alpha
+MOL000489	(1S,4aR,8aR)-1-isopropyl-7-methyl-4-methylene-2,3,4a,5,6,8a-hexahydro-1H-naphthalene	Sodium-dependent noradrenaline transporter
+MOL000489	(1S,4aR,8aR)-1-isopropyl-7-methyl-4-methylene-2,3,4a,5,6,8a-hexahydro-1H-naphthalene	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL000489	(1S,4aR,8aR)-1-isopropyl-7-methyl-4-methylene-2,3,4a,5,6,8a-hexahydro-1H-naphthalene	Nuclear receptor coactivator 2
+MOL000489	(1S,4aR,8aR)-1-isopropyl-7-methyl-4-methylene-2,3,4a,5,6,8a-hexahydro-1H-naphthalene	Muscarinic acetylcholine receptor M3
+MOL000489	(1S,4aR,8aR)-1-isopropyl-7-methyl-4-methylene-2,3,4a,5,6,8a-hexahydro-1H-naphthalene	Alpha-1B adrenergic receptor
+MOL005125	ANN	Prostaglandin G/H synthase 1
+MOL005125	ANN	Prostaglandin G/H synthase 2
+MOL005125	ANN	Amine oxidase [flavin-containing] B
+MOL005125	ANN	Amine oxidase [flavin-containing] A
+MOL005125	ANN	Lysozyme
+MOL005125	ANN	Group IIE secretory phospholipase A2
+MOL005449	h-Met-h	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL005449	h-Met-h	Bacillolysin
+MOL005449	h-Met-h	Cathepsin D
+MOL005449	h-Met-h	Alcohol dehydrogenase 1C
+MOL005449	h-Met-h	S-adenosylmethionine synthetase isoform type-2
+MOL000449	Stigmasterol	Progesterone receptor
+MOL000449	Stigmasterol	Mineralocorticoid receptor
+MOL000449	Stigmasterol	Nuclear receptor coactivator 2
+MOL000449	Stigmasterol	Alcohol dehydrogenase 1C
+MOL000449	Stigmasterol	Ig gamma-1 chain C region
+MOL000449	Stigmasterol	Retinoic acid receptor RXR-alpha
+MOL000449	Stigmasterol	Nuclear receptor coactivator 1
+MOL000449	Stigmasterol	Prostaglandin G/H synthase 1
+MOL000449	Stigmasterol	Prostaglandin G/H synthase 2
+MOL000449	Stigmasterol	Alpha-2A adrenergic receptor
+MOL000449	Stigmasterol	Sodium-dependent noradrenaline transporter
+MOL000449	Stigmasterol	Sodium-dependent dopamine transporter
+MOL000449	Stigmasterol	Beta-2 adrenergic receptor
+MOL000449	Stigmasterol	Aldose reductase
+MOL000449	Stigmasterol	Urokinase-type plasminogen activator
+MOL000449	Stigmasterol	Leukotriene A-4 hydrolase
+MOL000449	Stigmasterol	Amine oxidase [flavin-containing] B
+MOL000449	Stigmasterol	Amine oxidase [flavin-containing] A
+MOL000449	Stigmasterol	mRNA of PKA Catalytic Subunit C-alpha
+MOL000449	Stigmasterol	Chymotrypsinogen B
+MOL000449	Stigmasterol	Muscarinic acetylcholine receptor M3
+MOL000449	Stigmasterol	Muscarinic acetylcholine receptor M1
+MOL000449	Stigmasterol	Beta-1 adrenergic receptor
+MOL000449	Stigmasterol	Sodium channel protein type 5 subunit alpha
+MOL000449	Stigmasterol	5-hydroxytryptamine 2A receptor
+MOL000449	Stigmasterol	Alpha-1A adrenergic receptor
+MOL000449	Stigmasterol	Gamma-aminobutyric-acid receptor alpha-3 subunit
+MOL000449	Stigmasterol	Muscarinic acetylcholine receptor M2
+MOL000449	Stigmasterol	Alpha-1B adrenergic receptor
+MOL000449	Stigmasterol	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL000449	Stigmasterol	Neuronal acetylcholine receptor protein, alpha-7 chain
+MOL005589	3,4-DIMETHYLBENZALDEHYDE	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MOL005589	3,4-DIMETHYLBENZALDEHYDE	Alcohol dehydrogenase 1C
+MOL005590	ETHYLBENZALDEHYDE	Alcohol dehydrogenase 1C
+MOL005590	ETHYLBENZALDEHYDE	Amine oxidase [flavin-containing] B
+MOL005608	TMHYDROP	Prostaglandin G/H synthase 1
+MOL005608	TMHYDROP	Prostaglandin G/H synthase 2
+MOL005608	TMHYDROP	Sodium-dependent dopamine transporter
+MOL005608	TMHYDROP	Beta-2 adrenergic receptor
+MOL005608	TMHYDROP	Lysozyme
+MOL000635	vanillin	Amine oxidase [flavin-containing] B
+MOL000635	vanillin	Amine oxidase [flavin-containing] A
+MOL000635	vanillin	Lysozyme
+MOL000635	vanillin	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MOL000635	vanillin	Prostaglandin G/H synthase 2
+MOL000635	vanillin	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL000635	vanillin	Alcohol dehydrogenase 1C
+MOL000635	vanillin	Cytochrome P450-cam
+MOL000635	vanillin	Matrix metalloproteinase-9
+MOL000635	vanillin	Mitogen-activated protein kinase 1
+MOL000635	vanillin	Transcription factor AP-1
+MOL006869	WLN: QR CQ DV1	Prostaglandin G/H synthase 1
+MOL006869	WLN: QR CQ DV1	Prostaglandin G/H synthase 2
+MOL006869	WLN: QR CQ DV1	Amine oxidase [flavin-containing] B
+MOL006869	WLN: QR CQ DV1	Amine oxidase [flavin-containing] A
+MOL006869	WLN: QR CQ DV1	Lysozyme
+MOL006869	WLN: QR CQ DV1	Chymotrypsinogen B
+MOL000069	palmitic acid	Cathepsin D
+MOL000069	palmitic acid	Alcohol dehydrogenase 1B
+MOL000069	palmitic acid	Alcohol dehydrogenase 1C
+MOL000069	palmitic acid	Prostaglandin G/H synthase 1
+MOL000069	palmitic acid	Prostaglandin G/H synthase 2
+MOL000069	palmitic acid	Rhodopsin
+MOL000069	palmitic acid	Ig gamma-1 chain C region
+MOL000069	palmitic acid	Ferrichrome-iron receptor
+MOL000069	palmitic acid	Nuclear receptor coactivator 2
+MOL000069	palmitic acid	Apoptosis regulator Bcl-2
+MOL000069	palmitic acid	Interleukin-10
+MOL000069	palmitic acid	Tumor necrosis factor
+MOL000069	palmitic acid	Collagen alpha-1(I) chain
+MOL000069	palmitic acid	Phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN
+MOL000069	palmitic acid	Putative beta-glucuronidase-like protein SMA3
+MOL000069	palmitic acid	Solute carrier family 22 member 5
+MOL000069	palmitic acid	Choline-phosphate cytidylyltransferase A
+MOL007745	WLN: QVR BVQ	Prostaglandin G/H synthase 1
+MOL007745	WLN: QVR BVQ	Nitric-oxide synthase, brain
+MOL007745	WLN: QVR BVQ	Prostaglandin G/H synthase 2
+MOL007745	WLN: QVR BVQ	Amine oxidase [flavin-containing] B
+MOL007745	WLN: QVR BVQ	Lysozyme
+MOL007745	WLN: QVR BVQ	Amine oxidase [flavin-containing] A
+MOL008251	sedanolide	Prostaglandin G/H synthase 2
+MOL008251	sedanolide	Gamma-aminobutyric-acid receptor alpha-2 subunit
+MOL008251	sedanolide	Gamma-aminobutyric-acid receptor alpha-5 subunit
+MOL008251	sedanolide	Sodium-dependent noradrenaline transporter
+MOL008251	sedanolide	Gamma-aminobutyric-acid receptor alpha-3 subunit
+MOL008251	sedanolide	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL008251	sedanolide	Glutamate receptor 2
+MOL008251	sedanolide	Gamma-aminobutyric-acid receptor subunit alpha-6
+MOL008253	sphingomyelin	Phospholipase A2
+MOL008255	α-acoradiene	Prostaglandin G/H synthase 1
+MOL008255	α-acoradiene	Dopamine D1 receptor
+MOL008255	α-acoradiene	Muscarinic acetylcholine receptor M3
+MOL008255	α-acoradiene	Muscarinic acetylcholine receptor M1
+MOL008255	α-acoradiene	Prostaglandin G/H synthase 2
+MOL008255	α-acoradiene	Gamma-aminobutyric-acid receptor alpha-2 subunit
+MOL008255	α-acoradiene	Retinoic acid receptor RXR-alpha
+MOL008255	α-acoradiene	Gamma-aminobutyric-acid receptor alpha-5 subunit
+MOL008255	α-acoradiene	Sodium-dependent noradrenaline transporter
+MOL008255	α-acoradiene	Alpha-1A adrenergic receptor
+MOL008255	α-acoradiene	Gamma-aminobutyric-acid receptor alpha-3 subunit
+MOL008255	α-acoradiene	Muscarinic acetylcholine receptor M2
+MOL008255	α-acoradiene	Alpha-1B adrenergic receptor
+MOL008255	α-acoradiene	Sodium-dependent dopamine transporter
+MOL008255	α-acoradiene	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL008255	α-acoradiene	Nuclear receptor coactivator 2
+MOL008255	α-acoradiene	Gamma-aminobutyric-acid receptor subunit alpha-6
+MOL008256	InChI=1/C15H24/c1-10-7-8-15-9-12(10)14(3,4)13(15)6-5-11(15)2/h7,11-13H,5-6,8-9H2,1-4H	Muscarinic acetylcholine receptor M3
+MOL008256	InChI=1/C15H24/c1-10-7-8-15-9-12(10)14(3,4)13(15)6-5-11(15)2/h7,11-13H,5-6,8-9H2,1-4H	Prostaglandin G/H synthase 2
+MOL008256	InChI=1/C15H24/c1-10-7-8-15-9-12(10)14(3,4)13(15)6-5-11(15)2/h7,11-13H,5-6,8-9H2,1-4H	Retinoic acid receptor RXR-alpha
+MOL008256	InChI=1/C15H24/c1-10-7-8-15-9-12(10)14(3,4)13(15)6-5-11(15)2/h7,11-13H,5-6,8-9H2,1-4H	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL008256	InChI=1/C15H24/c1-10-7-8-15-9-12(10)14(3,4)13(15)6-5-11(15)2/h7,11-13H,5-6,8-9H2,1-4H	Nuclear receptor coactivator 2
+MOL008258	(1R,4R,5S)-4-isopropenyl-1,8-dimethylspiro[4.5]dec-8-ene	Prostaglandin G/H synthase 1
+MOL008258	(1R,4R,5S)-4-isopropenyl-1,8-dimethylspiro[4.5]dec-8-ene	Muscarinic acetylcholine receptor M3
+MOL008258	(1R,4R,5S)-4-isopropenyl-1,8-dimethylspiro[4.5]dec-8-ene	Muscarinic acetylcholine receptor M1
+MOL008258	(1R,4R,5S)-4-isopropenyl-1,8-dimethylspiro[4.5]dec-8-ene	Prostaglandin G/H synthase 2
+MOL008258	(1R,4R,5S)-4-isopropenyl-1,8-dimethylspiro[4.5]dec-8-ene	Gamma-aminobutyric-acid receptor alpha-2 subunit
+MOL008258	(1R,4R,5S)-4-isopropenyl-1,8-dimethylspiro[4.5]dec-8-ene	Retinoic acid receptor RXR-alpha
+MOL008258	(1R,4R,5S)-4-isopropenyl-1,8-dimethylspiro[4.5]dec-8-ene	Sodium-dependent noradrenaline transporter
+MOL008258	(1R,4R,5S)-4-isopropenyl-1,8-dimethylspiro[4.5]dec-8-ene	Alpha-1A adrenergic receptor
+MOL008258	(1R,4R,5S)-4-isopropenyl-1,8-dimethylspiro[4.5]dec-8-ene	Gamma-aminobutyric-acid receptor alpha-3 subunit
+MOL008258	(1R,4R,5S)-4-isopropenyl-1,8-dimethylspiro[4.5]dec-8-ene	Muscarinic acetylcholine receptor M2
+MOL008258	(1R,4R,5S)-4-isopropenyl-1,8-dimethylspiro[4.5]dec-8-ene	Alpha-1B adrenergic receptor
+MOL008258	(1R,4R,5S)-4-isopropenyl-1,8-dimethylspiro[4.5]dec-8-ene	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL008258	(1R,4R,5S)-4-isopropenyl-1,8-dimethylspiro[4.5]dec-8-ene	Cytochrome P450-cam
+MOL008258	(1R,4R,5S)-4-isopropenyl-1,8-dimethylspiro[4.5]dec-8-ene	Nuclear receptor coactivator 2
+MOL008258	(1R,4R,5S)-4-isopropenyl-1,8-dimethylspiro[4.5]dec-8-ene	Gamma-aminobutyric-acid receptor subunit alpha-6
+MOL008259	2,6-di(phenyl)thiopyran-4-thione	Prostaglandin G/H synthase 1
+MOL008259	2,6-di(phenyl)thiopyran-4-thione	Estrogen receptor
+MOL008259	2,6-di(phenyl)thiopyran-4-thione	Prostaglandin G/H synthase 2
+MOL008259	2,6-di(phenyl)thiopyran-4-thione	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+MOL008260	o-Xylenol	Alcohol dehydrogenase 1C
+MOL008260	o-Xylenol	Lysozyme
+MOL008260	o-Xylenol	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MOL008263	Isoxylaldehyde	Alcohol dehydrogenase 1C
+MOL008263	Isoxylaldehyde	Lysozyme
+MOL008263	Isoxylaldehyde	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MOL008265	2-valerylbenzoic acid	Prostaglandin G/H synthase 1
+MOL008265	2-valerylbenzoic acid	Thrombin
+MOL008265	2-valerylbenzoic acid	Muscarinic acetylcholine receptor M1
+MOL008265	2-valerylbenzoic acid	Estrogen receptor
+MOL008265	2-valerylbenzoic acid	Beta-1 adrenergic receptor
+MOL008265	2-valerylbenzoic acid	Prostaglandin G/H synthase 2
+MOL008265	2-valerylbenzoic acid	Nitric-oxide synthase, endothelial
+MOL008265	2-valerylbenzoic acid	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+MOL008265	2-valerylbenzoic acid	Sodium-dependent noradrenaline transporter
+MOL008265	2-valerylbenzoic acid	Alpha-1B adrenergic receptor
+MOL008265	2-valerylbenzoic acid	Sodium-dependent dopamine transporter
+MOL008265	2-valerylbenzoic acid	Beta-2 adrenergic receptor
+MOL008265	2-valerylbenzoic acid	Sodium-dependent serotonin transporter
+MOL008265	2-valerylbenzoic acid	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL008265	2-valerylbenzoic acid	Beta-lactamase
+MOL008265	2-valerylbenzoic acid	Leukotriene A-4 hydrolase
+MOL008265	2-valerylbenzoic acid	Amine oxidase [flavin-containing] B
+MOL008265	2-valerylbenzoic acid	mRNA of PKA Catalytic Subunit C-alpha
+MOL008265	2-valerylbenzoic acid	cAMP-dependent protein kinase inhibitor alpha
+MOL008273	4-Methyl-6-hepten-3-one	Cathepsin D
+MOL008274	6-Ethylresorcinol	Alcohol dehydrogenase 1C
+MOL008274	6-Ethylresorcinol	Lysozyme
+MOL008274	6-Ethylresorcinol	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MOL008275	5-Indolol	Lysozyme
+MOL008275	5-Indolol	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MOL008277	7,10-PENTADECADIYNOIC ACID	Prostaglandin G/H synthase 1
+MOL008277	7,10-PENTADECADIYNOIC ACID	Prostaglandin G/H synthase 2
+MOL008277	7,10-PENTADECADIYNOIC ACID	Retinoic acid receptor RXR-alpha
+MOL008281	(Z)-2-[[(Z)-2-methylbut-2-enoyl]oxymethyl]but-2-enoic acid	Gamma-aminobutyric-acid receptor alpha-2 subunit
+MOL008281	(Z)-2-[[(Z)-2-methylbut-2-enoyl]oxymethyl]but-2-enoic acid	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL008282	Tropone	Cytochrome P450-cam
+MOL008284	BUA	4-aminobutyrate aminotransferase, mitochondrial
+MOL008284	BUA	Cholinesterase
+MOL008284	BUA	Alcohol dehydrogenase 1B
+MOL008284	BUA	Alcohol dehydrogenase 1C
+MOL008284	BUA	Cytochrome P450-cam
+MOL008284	BUA	Ferrichrome-iron receptor
+MOL008284	BUA	Monomeric sarcosine oxidase
+MOL008284	BUA	Haloalkane dehalogenase
+MOL008284	BUA	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase
+MOL008284	BUA	Group IIE secretory phospholipase A2
+MOL008284	BUA	Glycine amidinotransferase, mitochondrial
+MOL008284	BUA	FK506-binding protein 1A
+MOL008284	BUA	Trypsin-3
+MOL008284	BUA	Proto-oncogene tyrosine-protein kinase SRC
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Prostaglandin G/H synthase 1
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Dopamine D1 receptor
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Muscarinic acetylcholine receptor M3
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Muscarinic acetylcholine receptor M1
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Beta-1 adrenergic receptor
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Sodium channel protein type 10 subunit alpha
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Sodium channel protein type 5 subunit alpha
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Prostaglandin G/H synthase 2
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Alpha-2A adrenergic receptor
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Alpha-2C adrenergic receptor
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	5-hydroxytryptamine 2A receptor
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Sodium-dependent noradrenaline transporter
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Alpha-1A adrenergic receptor
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Muscarinic acetylcholine receptor M2
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Alpha-2B adrenergic receptor
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Alpha-1B adrenergic receptor
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Sodium-dependent dopamine transporter
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Beta-2 adrenergic receptor
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Alpha-1D adrenergic receptor
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Sodium-dependent serotonin transporter
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	D(2) dopamine receptor
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Beta-lactamase
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Leukotriene A-4 hydrolase
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Amine oxidase [flavin-containing] B
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	mRNA of PKA Catalytic Subunit C-alpha
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	cAMP-dependent protein kinase inhibitor alpha
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+MOL008285	(3S)-3-butyl-3H-isobenzofuran-1-one	Neuronal acetylcholine receptor subunit alpha-2
+MOL008286	()-Camphoric acid	Gamma-aminobutyric-acid receptor alpha-2 subunit
+MOL008286	()-Camphoric acid	Gamma-aminobutyric-acid receptor alpha-3 subunit
+MOL008286	()-Camphoric acid	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL008286	()-Camphoric acid	Glutamate receptor 2
+MOL008286	()-Camphoric acid	Gamma-aminobutyric-acid receptor subunit alpha-6
+MOL008286	()-Camphoric acid	Gamma-aminobutyric-acid receptor subunit alpha-4
+MOL008287	(3E)-3-butylidene-7-hydroxy-2-benzofuran-1-one	Prostaglandin G/H synthase 1
+MOL008287	(3E)-3-butylidene-7-hydroxy-2-benzofuran-1-one	Muscarinic acetylcholine receptor M1
+MOL008287	(3E)-3-butylidene-7-hydroxy-2-benzofuran-1-one	Prostaglandin G/H synthase 2
+MOL008287	(3E)-3-butylidene-7-hydroxy-2-benzofuran-1-one	Sodium-dependent noradrenaline transporter
+MOL008287	(3E)-3-butylidene-7-hydroxy-2-benzofuran-1-one	Alpha-2B adrenergic receptor
+MOL008287	(3E)-3-butylidene-7-hydroxy-2-benzofuran-1-one	Beta-2 adrenergic receptor
+MOL008287	(3E)-3-butylidene-7-hydroxy-2-benzofuran-1-one	Sodium-dependent serotonin transporter
+MOL008287	(3E)-3-butylidene-7-hydroxy-2-benzofuran-1-one	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL008287	(3E)-3-butylidene-7-hydroxy-2-benzofuran-1-one	Leukotriene A-4 hydrolase
+MOL008287	(3E)-3-butylidene-7-hydroxy-2-benzofuran-1-one	Amine oxidase [flavin-containing] B
+MOL008287	(3E)-3-butylidene-7-hydroxy-2-benzofuran-1-one	mRNA of PKA Catalytic Subunit C-alpha
+MOL008287	(3E)-3-butylidene-7-hydroxy-2-benzofuran-1-one	cAMP-dependent protein kinase inhibitor alpha
+MOL008288	Coniferyl ferulate	Nitric oxide synthase, inducible
+MOL008288	Coniferyl ferulate	Estrogen receptor
+MOL008288	Coniferyl ferulate	Prostaglandin G/H synthase 2
+MOL008288	Coniferyl ferulate	Heat shock protein HSP 90
+MOL008288	Coniferyl ferulate	Calmodulin
+MOL008288	Coniferyl ferulate	Sodium channel protein type 5 subunit alpha
+MOL008288	Coniferyl ferulate	Coagulation factor Xa
+MOL008291	2,4-Xylylaldehyde	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MOL008292	m-Ethylphenol	Alcohol dehydrogenase 1B
+MOL008292	m-Ethylphenol	Alcohol dehydrogenase 1C
+MOL008292	m-Ethylphenol	Lysozyme
+MOL008292	m-Ethylphenol	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MOL008293	1,5,5,6-tetramethyl-1,3-Cyclohexadiene	Gamma-aminobutyric-acid receptor alpha-2 subunit
+MOL008293	1,5,5,6-tetramethyl-1,3-Cyclohexadiene	Acetylcholinesterase
+MOL008293	1,5,5,6-tetramethyl-1,3-Cyclohexadiene	Gamma-aminobutyric acid receptor subunit alpha-1
+MOL008293	1,5,5,6-tetramethyl-1,3-Cyclohexadiene	Cytochrome P450-cam
+MOL000974	cuminal	Amine oxidase [flavin-containing] B
+MOL000974	cuminal	Amine oxidase [flavin-containing] A
+MOL000974	cuminal	Glucocorticoid receptor
