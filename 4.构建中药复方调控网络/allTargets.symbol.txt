@@ -1,0 +1,1991 @@
+Drug	MolId	MolName	Target
+Danggui	MOL000358	beta-sitosterol	PGR
+Danggui	MOL000358	beta-sitosterol	NCOA2
+Danggui	MOL000358	beta-sitosterol	PTGS1
+Danggui	MOL000358	beta-sitosterol	PTGS2
+Danggui	MOL000358	beta-sitosterol	HSP90AA1
+Danggui	MOL000358	beta-sitosterol	KCNH2
+Danggui	MOL000358	beta-sitosterol	DRD1
+Danggui	MOL000358	beta-sitosterol	CHRM3
+Danggui	MOL000358	beta-sitosterol	CHRM1
+Danggui	MOL000358	beta-sitosterol	SCN5A
+Danggui	MOL000358	beta-sitosterol	CHRM4
+Danggui	MOL000358	beta-sitosterol	ADRA1A
+Danggui	MOL000358	beta-sitosterol	CHRM2
+Danggui	MOL000358	beta-sitosterol	ADRA1B
+Danggui	MOL000358	beta-sitosterol	ADRB2
+Danggui	MOL000358	beta-sitosterol	CHRNA2
+Danggui	MOL000358	beta-sitosterol	SLC6A4
+Danggui	MOL000358	beta-sitosterol	OPRM1
+Danggui	MOL000358	beta-sitosterol	GABRA1
+Danggui	MOL000358	beta-sitosterol	BCL2
+Danggui	MOL000358	beta-sitosterol	BAX
+Danggui	MOL000358	beta-sitosterol	CASP9
+Danggui	MOL000358	beta-sitosterol	CASP3
+Danggui	MOL000358	beta-sitosterol	CASP8
+Danggui	MOL000358	beta-sitosterol	PRKCA
+Danggui	MOL000358	beta-sitosterol	PON1
+Danggui	MOL000358	beta-sitosterol	MAP2
+Danggui	MOL000449	Stigmasterol	PGR
+Danggui	MOL000449	Stigmasterol	NR3C2
+Danggui	MOL000449	Stigmasterol	NCOA2
+Danggui	MOL000449	Stigmasterol	ADH1C
+Danggui	MOL000449	Stigmasterol	IGHG1
+Danggui	MOL000449	Stigmasterol	RXRA
+Danggui	MOL000449	Stigmasterol	NCOA1
+Danggui	MOL000449	Stigmasterol	PTGS1
+Danggui	MOL000449	Stigmasterol	PTGS2
+Danggui	MOL000449	Stigmasterol	ADRA2A
+Danggui	MOL000449	Stigmasterol	SLC6A2
+Danggui	MOL000449	Stigmasterol	SLC6A3
+Danggui	MOL000449	Stigmasterol	ADRB2
+Danggui	MOL000449	Stigmasterol	AKR1B1
+Danggui	MOL000449	Stigmasterol	PLAU
+Danggui	MOL000449	Stigmasterol	LTA4H
+Danggui	MOL000449	Stigmasterol	MAOB
+Danggui	MOL000449	Stigmasterol	MAOA
+Danggui	MOL000449	Stigmasterol	CTRB1
+Danggui	MOL000449	Stigmasterol	CHRM3
+Danggui	MOL000449	Stigmasterol	CHRM1
+Danggui	MOL000449	Stigmasterol	ADRB1
+Danggui	MOL000449	Stigmasterol	SCN5A
+Danggui	MOL000449	Stigmasterol	ADRA1A
+Danggui	MOL000449	Stigmasterol	CHRM2
+Danggui	MOL000449	Stigmasterol	ADRA1B
+Danggui	MOL000449	Stigmasterol	GABRA1
+gancao	MOL001484	Inermine	PTGS1
+gancao	MOL001484	Inermine	CHRM3
+gancao	MOL001484	Inermine	SCN5A
+gancao	MOL001484	Inermine	PTGS2
+gancao	MOL001484	Inermine	HTR3A
+gancao	MOL001484	Inermine	RXRA
+gancao	MOL001484	Inermine	ADRA1B
+gancao	MOL001484	Inermine	ADRA1D
+gancao	MOL001484	Inermine	IGHG1
+gancao	MOL001484	Inermine	PRSS1
+gancao	MOL001484	Inermine	CAMTA2
+gancao	MOL001484	Inermine	CHRM1
+gancao	MOL001484	Inermine	ADRB2
+gancao	MOL001484	Inermine	OPRM1
+gancao	MOL001484	Inermine	HSP90AA1
+gancao	MOL001792	DFV	PTGS1
+gancao	MOL001792	DFV	ESR1
+gancao	MOL001792	DFV	PTGS2
+gancao	MOL001792	DFV	RXRA
+gancao	MOL001792	DFV	ADRB2
+gancao	MOL001792	DFV	HSP90AA1
+gancao	MOL001792	DFV	DPEP1
+gancao	MOL001792	DFV	MAOB
+gancao	MOL001792	DFV	SLC6A4
+gancao	MOL001792	DFV	PKIA
+gancao	MOL000211	Mairin	PGR
+gancao	MOL002311	Glycyrol	NOS2
+gancao	MOL002311	Glycyrol	ESR1
+gancao	MOL002311	Glycyrol	PPARG
+gancao	MOL002311	Glycyrol	PTGS2
+gancao	MOL002311	Glycyrol	KDR
+gancao	MOL002311	Glycyrol	MAPK14
+gancao	MOL002311	Glycyrol	GSK3B
+gancao	MOL002311	Glycyrol	CHEK1
+gancao	MOL002311	Glycyrol	CCNA2
+gancao	MOL000239	Jaranol	NOS2
+gancao	MOL000239	Jaranol	PTGS1
+gancao	MOL000239	Jaranol	AR
+gancao	MOL000239	Jaranol	SCN5A
+gancao	MOL000239	Jaranol	PTGS2
+gancao	MOL000239	Jaranol	ESR2
+gancao	MOL000239	Jaranol	DPP4
+gancao	MOL000239	Jaranol	HSP90AA1
+gancao	MOL000239	Jaranol	CDK2
+gancao	MOL000239	Jaranol	CHEK1
+gancao	MOL000239	Jaranol	PRSS1
+gancao	MOL000239	Jaranol	NCOA2
+gancao	MOL000239	Jaranol	CAMTA2
+gancao	MOL002565	Medicarpin	NOS2
+gancao	MOL002565	Medicarpin	PTGS1
+gancao	MOL002565	Medicarpin	DRD1
+gancao	MOL002565	Medicarpin	CHRM3
+gancao	MOL002565	Medicarpin	CHRM1
+gancao	MOL002565	Medicarpin	ESR1
+gancao	MOL002565	Medicarpin	SCN5A
+gancao	MOL002565	Medicarpin	CHRM5
+gancao	MOL002565	Medicarpin	PTGS2
+gancao	MOL002565	Medicarpin	CHRM4
+gancao	MOL002565	Medicarpin	RXRA
+gancao	MOL002565	Medicarpin	ADRA1A
+gancao	MOL002565	Medicarpin	CHRM2
+gancao	MOL002565	Medicarpin	ADRA1B
+gancao	MOL002565	Medicarpin	SLC6A3
+gancao	MOL002565	Medicarpin	ADRB2
+gancao	MOL002565	Medicarpin	SLC6A4
+gancao	MOL002565	Medicarpin	OPRM1
+gancao	MOL002565	Medicarpin	ESR2
+gancao	MOL002565	Medicarpin	DPP4
+gancao	MOL002565	Medicarpin	MAPK10
+gancao	MOL002565	Medicarpin	HSP90AA1
+gancao	MOL002565	Medicarpin	CDK2
+gancao	MOL002565	Medicarpin	PRSS1
+gancao	MOL002565	Medicarpin	CCNA2
+gancao	MOL002565	Medicarpin	CAMTA2
+gancao	MOL002565	Medicarpin	OPRD1
+gancao	MOL002565	Medicarpin	ADRA1D
+gancao	MOL000354	isorhamnetin	NOS2
+gancao	MOL000354	isorhamnetin	PTGS1
+gancao	MOL000354	isorhamnetin	ESR1
+gancao	MOL000354	isorhamnetin	AR
+gancao	MOL000354	isorhamnetin	PPARG
+gancao	MOL000354	isorhamnetin	PTGS2
+gancao	MOL000354	isorhamnetin	ESR2
+gancao	MOL000354	isorhamnetin	DPP4
+gancao	MOL000354	isorhamnetin	MAPK14
+gancao	MOL000354	isorhamnetin	GSK3B
+gancao	MOL000354	isorhamnetin	HSP90AA1
+gancao	MOL000354	isorhamnetin	CDK2
+gancao	MOL000354	isorhamnetin	PRSS1
+gancao	MOL000354	isorhamnetin	CCNA2
+gancao	MOL000354	isorhamnetin	NCOA2
+gancao	MOL000354	isorhamnetin	CAMTA2
+gancao	MOL000354	isorhamnetin	PYGM
+gancao	MOL000354	isorhamnetin	PPARD
+gancao	MOL000354	isorhamnetin	CHEK1
+gancao	MOL000354	isorhamnetin	AKR1B1
+gancao	MOL000354	isorhamnetin	NCOA1
+gancao	MOL000354	isorhamnetin	F7
+gancao	MOL000354	isorhamnetin	ACHE
+gancao	MOL000354	isorhamnetin	GABRA1
+gancao	MOL000354	isorhamnetin	MAOB
+gancao	MOL000354	isorhamnetin	GRIA2
+gancao	MOL000354	isorhamnetin	RELA
+gancao	MOL000354	isorhamnetin	NCF1
+gancao	MOL000354	isorhamnetin	OLR1
+gancao	MOL000359	sitosterol	PGR
+gancao	MOL000359	sitosterol	NCOA2
+gancao	MOL000359	sitosterol	NR3C2
+gancao	MOL003656	Lupiwighteone	NOS2
+gancao	MOL003656	Lupiwighteone	ESR1
+gancao	MOL003656	Lupiwighteone	AR
+gancao	MOL003656	Lupiwighteone	SCN5A
+gancao	MOL003656	Lupiwighteone	PPARG
+gancao	MOL003656	Lupiwighteone	PTGS2
+gancao	MOL003656	Lupiwighteone	ESR2
+gancao	MOL003656	Lupiwighteone	DPP4
+gancao	MOL003656	Lupiwighteone	MAPK14
+gancao	MOL003656	Lupiwighteone	GSK3B
+gancao	MOL003656	Lupiwighteone	HSP90AA1
+gancao	MOL003656	Lupiwighteone	CDK2
+gancao	MOL003656	Lupiwighteone	CHEK1
+gancao	MOL003656	Lupiwighteone	PRSS1
+gancao	MOL003656	Lupiwighteone	CCNA2
+gancao	MOL003656	Lupiwighteone	NCOA2
+gancao	MOL003656	Lupiwighteone	CAMTA2
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	NOS2
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	PTGS1
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	DRD1
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	CHRM3
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	CHRM1
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	ESR1
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	AR
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	ADRB1
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	SCN5A
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	PPARG
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	PTGS2
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	RXRA
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	ACHE
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	ADRA1B
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	SLC6A3
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	ADRB2
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	ADRA1D
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	SLC6A4
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	ESR2
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	GABRA1
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	DPP4
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	MAPK14
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	GSK3B
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	HSP90AA1
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	CDK2
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	LTA4H
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	MAOB
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	CHEK1
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	IGHG1
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	PRSS1
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	CCNA2
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	NCOA1
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	PKIA
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	CAMTA2
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	CHRM5
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	OPRM1
+gancao	MOL003896	7-Methoxy-2-methyl isoflavone	NCOA2
+gancao	MOL000392	formononetin	NOS2
+gancao	MOL000392	formononetin	PTGS1
+gancao	MOL000392	formononetin	CHRM1
+gancao	MOL000392	formononetin	ESR1
+gancao	MOL000392	formononetin	AR
+gancao	MOL000392	formononetin	PPARG
+gancao	MOL000392	formononetin	PTGS2
+gancao	MOL000392	formononetin	RXRA
+gancao	MOL000392	formononetin	ADRA1A
+gancao	MOL000392	formononetin	SLC6A3
+gancao	MOL000392	formononetin	ADRB2
+gancao	MOL000392	formononetin	SLC6A4
+gancao	MOL000392	formononetin	ESR2
+gancao	MOL000392	formononetin	DPP4
+gancao	MOL000392	formononetin	MAPK14
+gancao	MOL000392	formononetin	GSK3B
+gancao	MOL000392	formononetin	HSP90AA1
+gancao	MOL000392	formononetin	CDK2
+gancao	MOL000392	formononetin	MAOB
+gancao	MOL000392	formononetin	CHEK1
+gancao	MOL000392	formononetin	PRSS1
+gancao	MOL000392	formononetin	CCNA2
+gancao	MOL000392	formononetin	CAMTA2
+gancao	MOL000392	formononetin	PKIA
+gancao	MOL000392	formononetin	ACHE
+gancao	MOL000392	formononetin	DPEP1
+gancao	MOL000392	formononetin	PPARG
+gancao	MOL000392	formononetin	IL4
+gancao	MOL000392	formononetin	HSD3B2
+gancao	MOL000392	formononetin	HSD3B1
+gancao	MOL000417	Calycosin	NOS2
+gancao	MOL000417	Calycosin	PTGS1
+gancao	MOL000417	Calycosin	ESR1
+gancao	MOL000417	Calycosin	AR
+gancao	MOL000417	Calycosin	PPARG
+gancao	MOL000417	Calycosin	PTGS2
+gancao	MOL000417	Calycosin	RXRA
+gancao	MOL000417	Calycosin	ESR2
+gancao	MOL000417	Calycosin	DPP4
+gancao	MOL000417	Calycosin	MAPK14
+gancao	MOL000417	Calycosin	GSK3B
+gancao	MOL000417	Calycosin	HSP90AA1
+gancao	MOL000417	Calycosin	CDK2
+gancao	MOL000417	Calycosin	CHEK1
+gancao	MOL000417	Calycosin	PRSS1
+gancao	MOL000417	Calycosin	CCNA2
+gancao	MOL000417	Calycosin	NCOA2
+gancao	MOL000417	Calycosin	CAMTA2
+gancao	MOL000417	Calycosin	ADRB2
+gancao	MOL000422	kaempferol	NOS2
+gancao	MOL000422	kaempferol	PTGS1
+gancao	MOL000422	kaempferol	AR
+gancao	MOL000422	kaempferol	PPARG
+gancao	MOL000422	kaempferol	PTGS2
+gancao	MOL000422	kaempferol	HSP90AA1
+gancao	MOL000422	kaempferol	NCOA2
+gancao	MOL000422	kaempferol	DPP4
+gancao	MOL000422	kaempferol	PRSS1
+gancao	MOL000422	kaempferol	PGR
+gancao	MOL000422	kaempferol	CHRM1
+gancao	MOL000422	kaempferol	ACHE
+gancao	MOL000422	kaempferol	SLC6A2
+gancao	MOL000422	kaempferol	CHRM2
+gancao	MOL000422	kaempferol	ADRA1B
+gancao	MOL000422	kaempferol	GABRA1
+gancao	MOL000422	kaempferol	F7
+gancao	MOL000422	kaempferol	CAMTA2
+gancao	MOL000422	kaempferol	RELA
+gancao	MOL000422	kaempferol	IKBKB
+gancao	MOL000422	kaempferol	AKT1
+gancao	MOL000422	kaempferol	BCL2
+gancao	MOL000422	kaempferol	BAX
+gancao	MOL000422	kaempferol	TNF
+gancao	MOL000422	kaempferol	AHSA1
+gancao	MOL000422	kaempferol	CASP3
+gancao	MOL000422	kaempferol	MAPK8
+gancao	MOL000422	kaempferol	MMP1
+gancao	MOL000422	kaempferol	STAT1
+gancao	MOL000422	kaempferol	CDK1
+gancao	MOL000422	kaempferol	PPARG
+gancao	MOL000422	kaempferol	HMOX1
+gancao	MOL000422	kaempferol	CYP3A4
+gancao	MOL000422	kaempferol	CYP1A2
+gancao	MOL000422	kaempferol	CYP1A1
+gancao	MOL000422	kaempferol	ICAM1
+gancao	MOL000422	kaempferol	SELE
+gancao	MOL000422	kaempferol	VCAM1
+gancao	MOL000422	kaempferol	NR1I2
+gancao	MOL000422	kaempferol	CYP1B1
+gancao	MOL000422	kaempferol	ALOX5
+gancao	MOL000422	kaempferol	HAS2
+gancao	MOL000422	kaempferol	GSTP1
+gancao	MOL000422	kaempferol	AHR
+gancao	MOL000422	kaempferol	PSMD3
+gancao	MOL000422	kaempferol	SLC2A4
+gancao	MOL000422	kaempferol	NR1I3
+gancao	MOL000422	kaempferol	INSR
+gancao	MOL000422	kaempferol	DIO1
+gancao	MOL000422	kaempferol	PPP3CA
+gancao	MOL000422	kaempferol	GSTM1
+gancao	MOL000422	kaempferol	GSTM2
+gancao	MOL000422	kaempferol	AKR1C3
+gancao	MOL000422	kaempferol	SLPI
+gancao	MOL004328	naringenin	PTGS1
+gancao	MOL004328	naringenin	ESR1
+gancao	MOL004328	naringenin	PTGS2
+gancao	MOL004328	naringenin	HSP90AA1
+gancao	MOL004328	naringenin	DPEP1
+gancao	MOL004328	naringenin	RELA
+gancao	MOL004328	naringenin	AKT1
+gancao	MOL004328	naringenin	BCL2
+gancao	MOL004328	naringenin	MAPK3
+gancao	MOL004328	naringenin	MAPK1
+gancao	MOL004328	naringenin	CASP3
+gancao	MOL004328	naringenin	FASN
+gancao	MOL004328	naringenin	LDLR
+gancao	MOL004328	naringenin	BAD
+gancao	MOL004328	naringenin	SOD1
+gancao	MOL004328	naringenin	CAT
+gancao	MOL004328	naringenin	PPARG
+gancao	MOL004328	naringenin	MTTP
+gancao	MOL004328	naringenin	APOB
+gancao	MOL004328	naringenin	PLB1
+gancao	MOL004328	naringenin	HMGCR
+gancao	MOL004328	naringenin	CYP19A1
+gancao	MOL004328	naringenin	GSTP1
+gancao	MOL004328	naringenin	UGT1A1
+gancao	MOL004328	naringenin	PPARA
+gancao	MOL004328	naringenin	SREBF1
+gancao	MOL004328	naringenin	GSR
+gancao	MOL004328	naringenin	ABCC1
+gancao	MOL004328	naringenin	ADIPOQ
+gancao	MOL004328	naringenin	SOAT2
+gancao	MOL004328	naringenin	AKR1C1
+gancao	MOL004328	naringenin	GOT1
+gancao	MOL004328	naringenin	ABAT
+gancao	MOL004328	naringenin	CES1
+gancao	MOL004328	naringenin	SOAT1
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	NOS2
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	KCNH2
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	ESR1
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	AR
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	PPARG
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	PTGS2
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	ESR2
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	MAPK14
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	GSK3B
+gancao	MOL004805	(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	CAMTA2
+gancao	MOL004806	euchrenone	NOS2
+gancao	MOL004806	euchrenone	KCNH2
+gancao	MOL004806	euchrenone	ESR1
+gancao	MOL004806	euchrenone	SCN5A
+gancao	MOL004806	euchrenone	PTGS2
+gancao	MOL004806	euchrenone	ESR2
+gancao	MOL004806	euchrenone	BACE1
+gancao	MOL004806	euchrenone	CAMTA2
+gancao	MOL004808	glyasperin B	NOS2
+gancao	MOL004808	glyasperin B	ESR1
+gancao	MOL004808	glyasperin B	AR
+gancao	MOL004808	glyasperin B	PPARG
+gancao	MOL004808	glyasperin B	PTGS2
+gancao	MOL004808	glyasperin B	F7
+gancao	MOL004808	glyasperin B	KDR
+gancao	MOL004808	glyasperin B	ACHE
+gancao	MOL004808	glyasperin B	ESR2
+gancao	MOL004808	glyasperin B	DPP4
+gancao	MOL004808	glyasperin B	GSK3B
+gancao	MOL004808	glyasperin B	HSP90AA1
+gancao	MOL004808	glyasperin B	CDK2
+gancao	MOL004808	glyasperin B	PRSS1
+gancao	MOL004808	glyasperin B	CCNA2
+gancao	MOL004808	glyasperin B	NCOA2
+gancao	MOL004808	glyasperin B	CAMTA2
+gancao	MOL004810	glyasperin F	NOS2
+gancao	MOL004810	glyasperin F	PTGS1
+gancao	MOL004810	glyasperin F	ESR1
+gancao	MOL004810	glyasperin F	AR
+gancao	MOL004810	glyasperin F	SCN5A
+gancao	MOL004810	glyasperin F	PPARG
+gancao	MOL004810	glyasperin F	PTGS2
+gancao	MOL004810	glyasperin F	ESR2
+gancao	MOL004810	glyasperin F	MAPK14
+gancao	MOL004810	glyasperin F	GSK3B
+gancao	MOL004810	glyasperin F	HSP90AA1
+gancao	MOL004810	glyasperin F	CDK2
+gancao	MOL004810	glyasperin F	PRSS1
+gancao	MOL004810	glyasperin F	CCNA2
+gancao	MOL004810	glyasperin F	CAMTA2
+gancao	MOL004811	Glyasperin C	NOS2
+gancao	MOL004811	Glyasperin C	KCNH2
+gancao	MOL004811	Glyasperin C	ESR1
+gancao	MOL004811	Glyasperin C	AR
+gancao	MOL004811	Glyasperin C	SCN5A
+gancao	MOL004811	Glyasperin C	PPARG
+gancao	MOL004811	Glyasperin C	PTGS2
+gancao	MOL004811	Glyasperin C	RXRA
+gancao	MOL004811	Glyasperin C	ACHE
+gancao	MOL004811	Glyasperin C	ESR2
+gancao	MOL004811	Glyasperin C	DPP4
+gancao	MOL004811	Glyasperin C	MAPK14
+gancao	MOL004811	Glyasperin C	GSK3B
+gancao	MOL004811	Glyasperin C	HSP90AA1
+gancao	MOL004811	Glyasperin C	CDK2
+gancao	MOL004811	Glyasperin C	CHEK1
+gancao	MOL004811	Glyasperin C	PRSS1
+gancao	MOL004811	Glyasperin C	CCNA2
+gancao	MOL004811	Glyasperin C	NCOA2
+gancao	MOL004811	Glyasperin C	CAMTA2
+gancao	MOL004814	Isotrifoliol	NOS2
+gancao	MOL004814	Isotrifoliol	ESR1
+gancao	MOL004814	Isotrifoliol	AR
+gancao	MOL004814	Isotrifoliol	PTGS2
+gancao	MOL004814	Isotrifoliol	ESR2
+gancao	MOL004814	Isotrifoliol	MAPK14
+gancao	MOL004814	Isotrifoliol	GSK3B
+gancao	MOL004814	Isotrifoliol	HSP90AA1
+gancao	MOL004814	Isotrifoliol	CDK2
+gancao	MOL004814	Isotrifoliol	CHEK1
+gancao	MOL004814	Isotrifoliol	CCNA2
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	NOS2
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	PTGS1
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	ESR1
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	AR
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	SCN5A
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	PPARG
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	PTGS2
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	CA2
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	RXRA
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	ADRA1B
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	ESR2
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	MAPK14
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	GSK3B
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	CDK2
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	CHEK1
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	CCNA2
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	NCOA2
+gancao	MOL004815	(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one	CAMTA2
+gancao	MOL004820	kanzonols W	NOS2
+gancao	MOL004820	kanzonols W	PTGS1
+gancao	MOL004820	kanzonols W	ESR1
+gancao	MOL004820	kanzonols W	AR
+gancao	MOL004820	kanzonols W	SCN5A
+gancao	MOL004820	kanzonols W	PPARG
+gancao	MOL004820	kanzonols W	PTGS2
+gancao	MOL004820	kanzonols W	RXRA
+gancao	MOL004820	kanzonols W	ESR2
+gancao	MOL004820	kanzonols W	MAPK14
+gancao	MOL004820	kanzonols W	GSK3B
+gancao	MOL004820	kanzonols W	CDK2
+gancao	MOL004820	kanzonols W	CHEK1
+gancao	MOL004820	kanzonols W	PRSS1
+gancao	MOL004820	kanzonols W	CCNA2
+gancao	MOL004820	kanzonols W	NCOA2
+gancao	MOL004820	kanzonols W	NCOA1
+gancao	MOL004820	kanzonols W	CAMTA2
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	NOS2
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	ESR1
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	AR
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	PPARG
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	PTGS2
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	F7
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	KDR
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	ACHE
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	ESR2
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	DPP4
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	MAPK14
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	GSK3B
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	CDK2
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	CHEK1
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	PRSS1
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	CCNA2
+gancao	MOL004824	(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one	CAMTA2
+gancao	MOL004827	Semilicoisoflavone B	NOS2
+gancao	MOL004827	Semilicoisoflavone B	ESR1
+gancao	MOL004827	Semilicoisoflavone B	AR
+gancao	MOL004827	Semilicoisoflavone B	SCN5A
+gancao	MOL004827	Semilicoisoflavone B	PPARG
+gancao	MOL004827	Semilicoisoflavone B	PTGS2
+gancao	MOL004827	Semilicoisoflavone B	F7
+gancao	MOL004827	Semilicoisoflavone B	ACHE
+gancao	MOL004827	Semilicoisoflavone B	GSK3B
+gancao	MOL004827	Semilicoisoflavone B	HSP90AA1
+gancao	MOL004827	Semilicoisoflavone B	CDK2
+gancao	MOL004827	Semilicoisoflavone B	CHEK1
+gancao	MOL004827	Semilicoisoflavone B	PRSS1
+gancao	MOL004827	Semilicoisoflavone B	CAMTA2
+gancao	MOL004828	Glepidotin A	NOS2
+gancao	MOL004828	Glepidotin A	PTGS1
+gancao	MOL004828	Glepidotin A	ESR1
+gancao	MOL004828	Glepidotin A	AR
+gancao	MOL004828	Glepidotin A	SCN5A
+gancao	MOL004828	Glepidotin A	PPARG
+gancao	MOL004828	Glepidotin A	PTGS2
+gancao	MOL004828	Glepidotin A	F7
+gancao	MOL004828	Glepidotin A	KDR
+gancao	MOL004828	Glepidotin A	RXRA
+gancao	MOL004828	Glepidotin A	DPP4
+gancao	MOL004828	Glepidotin A	MAPK14
+gancao	MOL004828	Glepidotin A	GSK3B
+gancao	MOL004828	Glepidotin A	HSP90AA1
+gancao	MOL004828	Glepidotin A	CDK2
+gancao	MOL004828	Glepidotin A	CHEK1
+gancao	MOL004828	Glepidotin A	IGHG1
+gancao	MOL004828	Glepidotin A	PRSS1
+gancao	MOL004828	Glepidotin A	CCNA2
+gancao	MOL004828	Glepidotin A	CAMTA2
+gancao	MOL004829	Glepidotin B	PTGS1
+gancao	MOL004829	Glepidotin B	ESR1
+gancao	MOL004829	Glepidotin B	SCN5A
+gancao	MOL004829	Glepidotin B	PTGS2
+gancao	MOL004829	Glepidotin B	F7
+gancao	MOL004829	Glepidotin B	RXRA
+gancao	MOL004829	Glepidotin B	ADRA1B
+gancao	MOL004829	Glepidotin B	HSP90AA1
+gancao	MOL004829	Glepidotin B	IGHG1
+gancao	MOL004829	Glepidotin B	NCOA1
+gancao	MOL004829	Glepidotin B	CAMTA2
+gancao	MOL004833	Phaseolinisoflavan	NOS2
+gancao	MOL004833	Phaseolinisoflavan	CHRM1
+gancao	MOL004833	Phaseolinisoflavan	ESR1
+gancao	MOL004833	Phaseolinisoflavan	AR
+gancao	MOL004833	Phaseolinisoflavan	SCN5A
+gancao	MOL004833	Phaseolinisoflavan	PPARG
+gancao	MOL004833	Phaseolinisoflavan	PTGS2
+gancao	MOL004833	Phaseolinisoflavan	RXRA
+gancao	MOL004833	Phaseolinisoflavan	ACHE
+gancao	MOL004833	Phaseolinisoflavan	ADRA1B
+gancao	MOL004833	Phaseolinisoflavan	ADRB2
+gancao	MOL004833	Phaseolinisoflavan	ESR2
+gancao	MOL004833	Phaseolinisoflavan	MAPK14
+gancao	MOL004833	Phaseolinisoflavan	GSK3B
+gancao	MOL004833	Phaseolinisoflavan	CDK2
+gancao	MOL004833	Phaseolinisoflavan	CHEK1
+gancao	MOL004833	Phaseolinisoflavan	PRSS1
+gancao	MOL004833	Phaseolinisoflavan	CCNA2
+gancao	MOL004833	Phaseolinisoflavan	NCOA1
+gancao	MOL004833	Phaseolinisoflavan	CAMTA2
+gancao	MOL004835	Glypallichalcone	NOS2
+gancao	MOL004835	Glypallichalcone	PTGS1
+gancao	MOL004835	Glypallichalcone	CHRM1
+gancao	MOL004835	Glypallichalcone	ESR1
+gancao	MOL004835	Glypallichalcone	AR
+gancao	MOL004835	Glypallichalcone	SCN5A
+gancao	MOL004835	Glypallichalcone	PPARG
+gancao	MOL004835	Glypallichalcone	PTGS2
+gancao	MOL004835	Glypallichalcone	CA2
+gancao	MOL004835	Glypallichalcone	ADRA1B
+gancao	MOL004835	Glypallichalcone	SLC6A3
+gancao	MOL004835	Glypallichalcone	ADRB2
+gancao	MOL004835	Glypallichalcone	SLC6A4
+gancao	MOL004835	Glypallichalcone	ESR2
+gancao	MOL004835	Glypallichalcone	MAPK14
+gancao	MOL004835	Glypallichalcone	GSK3B
+gancao	MOL004835	Glypallichalcone	HSP90AA1
+gancao	MOL004835	Glypallichalcone	CDK2
+gancao	MOL004835	Glypallichalcone	LTA4H
+gancao	MOL004835	Glypallichalcone	MAOB
+gancao	MOL004835	Glypallichalcone	CHEK1
+gancao	MOL004835	Glypallichalcone	CCNA2
+gancao	MOL004835	Glypallichalcone	NCOA1
+gancao	MOL004835	Glypallichalcone	PKIA
+gancao	MOL004835	Glypallichalcone	CAMTA2
+gancao	MOL004838	8-(6-hydroxy-2-benzofuranyl)-2,2-dimethyl-5-chromenol	NOS2
+gancao	MOL004838	8-(6-hydroxy-2-benzofuranyl)-2,2-dimethyl-5-chromenol	ESR1
+gancao	MOL004838	8-(6-hydroxy-2-benzofuranyl)-2,2-dimethyl-5-chromenol	PTGS2
+gancao	MOL004838	8-(6-hydroxy-2-benzofuranyl)-2,2-dimethyl-5-chromenol	RXRA
+gancao	MOL004838	8-(6-hydroxy-2-benzofuranyl)-2,2-dimethyl-5-chromenol	HSP90AA1
+gancao	MOL004841	Licochalcone B	NOS2
+gancao	MOL004841	Licochalcone B	PTGS1
+gancao	MOL004841	Licochalcone B	ESR1
+gancao	MOL004841	Licochalcone B	AR
+gancao	MOL004841	Licochalcone B	PPARG
+gancao	MOL004841	Licochalcone B	PTGS2
+gancao	MOL004841	Licochalcone B	CA2
+gancao	MOL004841	Licochalcone B	ADRB2
+gancao	MOL004841	Licochalcone B	ESR2
+gancao	MOL004841	Licochalcone B	MAPK14
+gancao	MOL004841	Licochalcone B	GSK3B
+gancao	MOL004841	Licochalcone B	HSP90AA1
+gancao	MOL004841	Licochalcone B	CDK2
+gancao	MOL004841	Licochalcone B	CHEK1
+gancao	MOL004841	Licochalcone B	CCNA2
+gancao	MOL004841	Licochalcone B	CAMTA2
+gancao	MOL004848	licochalcone G	NOS2
+gancao	MOL004848	licochalcone G	ESR1
+gancao	MOL004848	licochalcone G	AR
+gancao	MOL004848	licochalcone G	PPARG
+gancao	MOL004848	licochalcone G	PTGS2
+gancao	MOL004848	licochalcone G	KDR
+gancao	MOL004848	licochalcone G	ESR2
+gancao	MOL004848	licochalcone G	MAPK14
+gancao	MOL004848	licochalcone G	GSK3B
+gancao	MOL004848	licochalcone G	HSP90AA1
+gancao	MOL004848	licochalcone G	CDK2
+gancao	MOL004848	licochalcone G	IGHG1
+gancao	MOL004848	licochalcone G	CCNA2
+gancao	MOL004848	licochalcone G	NCOA2
+gancao	MOL004848	licochalcone G	CAMTA2
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	NOS2
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	KCNH2
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	ESR1
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	AR
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	PPARG
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	PTGS2
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	F7
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	KDR
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	ESR2
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	DPP4
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	MAPK14
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	GSK3B
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	HSP90AA1
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	CDK2
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	CHEK1
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	PRSS1
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	NCOA2
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	NCOA1
+gancao	MOL004849	3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin	CAMTA2
+gancao	MOL004855	Licoricone	NOS2
+gancao	MOL004855	Licoricone	KCNH2
+gancao	MOL004855	Licoricone	ESR1
+gancao	MOL004855	Licoricone	AR
+gancao	MOL004855	Licoricone	PPARG
+gancao	MOL004855	Licoricone	PTGS2
+gancao	MOL004855	Licoricone	KDR
+gancao	MOL004855	Licoricone	CHEK1
+gancao	MOL004855	Licoricone	PRSS1
+gancao	MOL004855	Licoricone	NCOA2
+gancao	MOL004855	Licoricone	CAMTA2
+gancao	MOL004856	Gancaonin A	NOS2
+gancao	MOL004856	Gancaonin A	ESR1
+gancao	MOL004856	Gancaonin A	AR
+gancao	MOL004856	Gancaonin A	SCN5A
+gancao	MOL004856	Gancaonin A	PPARG
+gancao	MOL004856	Gancaonin A	PTGS2
+gancao	MOL004856	Gancaonin A	ACHE
+gancao	MOL004856	Gancaonin A	ESR2
+gancao	MOL004856	Gancaonin A	DPP4
+gancao	MOL004856	Gancaonin A	GSK3B
+gancao	MOL004856	Gancaonin A	HSP90AA1
+gancao	MOL004856	Gancaonin A	CHEK1
+gancao	MOL004856	Gancaonin A	PRSS1
+gancao	MOL004856	Gancaonin A	CCNA2
+gancao	MOL004856	Gancaonin A	NCOA2
+gancao	MOL004856	Gancaonin A	CAMTA2
+gancao	MOL004857	Gancaonin B	NOS2
+gancao	MOL004857	Gancaonin B	ESR1
+gancao	MOL004857	Gancaonin B	AR
+gancao	MOL004857	Gancaonin B	PPARG
+gancao	MOL004857	Gancaonin B	PTGS2
+gancao	MOL004857	Gancaonin B	F7
+gancao	MOL004857	Gancaonin B	KDR
+gancao	MOL004857	Gancaonin B	ADRA1B
+gancao	MOL004857	Gancaonin B	ADRB2
+gancao	MOL004857	Gancaonin B	ESR2
+gancao	MOL004857	Gancaonin B	DPP4
+gancao	MOL004857	Gancaonin B	GSK3B
+gancao	MOL004857	Gancaonin B	HSP90AA1
+gancao	MOL004857	Gancaonin B	CHEK1
+gancao	MOL004857	Gancaonin B	PRSS1
+gancao	MOL004857	Gancaonin B	CCNA2
+gancao	MOL004857	Gancaonin B	NCOA2
+gancao	MOL004857	Gancaonin B	CAMTA2
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	NOS2
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	ESR1
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	AR
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	PPARG
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	PTGS2
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	MAPK14
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	GSK3B
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	HSP90AA1
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	CDK2
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	CHEK1
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	PRSS1
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	CCNA2
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	NCOA2
+gancao	MOL004863	3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone	CAMTA2
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	NOS2
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	KCNH2
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	ESR1
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	AR
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	PPARG
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	PTGS2
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	ESR2
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	DPP4
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	MAPK14
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	GSK3B
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	HSP90AA1
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	CDK2
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	CHEK1
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	PRSS1
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	CCNA2
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	NCOA2
+gancao	MOL004864	5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	CAMTA2
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	AR
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	SCN5A
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	PPARG
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	PTGS2
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	F7
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	ADRB2
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	DPP4
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	HSP90AA1
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	CDK2
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	CHEK1
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	PRSS1
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	CCNA2
+gancao	MOL004866	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone	CAMTA2
+gancao	MOL004879	Glycyrin	NOS2
+gancao	MOL004879	Glycyrin	KCNH2
+gancao	MOL004879	Glycyrin	ESR1
+gancao	MOL004879	Glycyrin	AR
+gancao	MOL004879	Glycyrin	PPARG
+gancao	MOL004879	Glycyrin	PTGS2
+gancao	MOL004879	Glycyrin	KDR
+gancao	MOL004879	Glycyrin	ESR2
+gancao	MOL004879	Glycyrin	DPP4
+gancao	MOL004879	Glycyrin	CHEK1
+gancao	MOL004879	Glycyrin	PRSS1
+gancao	MOL004879	Glycyrin	NCOA2
+gancao	MOL004879	Glycyrin	CAMTA2
+gancao	MOL004882	Licocoumarone	ESR1
+gancao	MOL004882	Licocoumarone	AR
+gancao	MOL004882	Licocoumarone	ESR2
+gancao	MOL004882	Licocoumarone	GSK3B
+gancao	MOL004882	Licocoumarone	HSP90AA1
+gancao	MOL004882	Licocoumarone	CDK2
+gancao	MOL004882	Licocoumarone	CCNA2
+gancao	MOL004883	Licoisoflavone	NOS2
+gancao	MOL004883	Licoisoflavone	ESR1
+gancao	MOL004883	Licoisoflavone	AR
+gancao	MOL004883	Licoisoflavone	PPARG
+gancao	MOL004883	Licoisoflavone	PTGS2
+gancao	MOL004883	Licoisoflavone	KDR
+gancao	MOL004883	Licoisoflavone	DPP4
+gancao	MOL004883	Licoisoflavone	MAPK14
+gancao	MOL004883	Licoisoflavone	HSP90AA1
+gancao	MOL004883	Licoisoflavone	CDK2
+gancao	MOL004883	Licoisoflavone	CHEK1
+gancao	MOL004883	Licoisoflavone	PRSS1
+gancao	MOL004883	Licoisoflavone	CCNA2
+gancao	MOL004883	Licoisoflavone	NCOA2
+gancao	MOL004883	Licoisoflavone	CAMTA2
+gancao	MOL004884	Licoisoflavone B	NOS2
+gancao	MOL004884	Licoisoflavone B	ESR1
+gancao	MOL004884	Licoisoflavone B	AR
+gancao	MOL004884	Licoisoflavone B	PPARG
+gancao	MOL004884	Licoisoflavone B	PTGS2
+gancao	MOL004884	Licoisoflavone B	ACHE
+gancao	MOL004884	Licoisoflavone B	ESR2
+gancao	MOL004884	Licoisoflavone B	GSK3B
+gancao	MOL004884	Licoisoflavone B	CDK2
+gancao	MOL004884	Licoisoflavone B	CHEK1
+gancao	MOL004884	Licoisoflavone B	PRSS1
+gancao	MOL004884	Licoisoflavone B	CCNA2
+gancao	MOL004884	Licoisoflavone B	CAMTA2
+gancao	MOL004885	licoisoflavanone	NOS2
+gancao	MOL004885	licoisoflavanone	PTGS1
+gancao	MOL004885	licoisoflavanone	ESR1
+gancao	MOL004885	licoisoflavanone	AR
+gancao	MOL004885	licoisoflavanone	SCN5A
+gancao	MOL004885	licoisoflavanone	PPARG
+gancao	MOL004885	licoisoflavanone	PTGS2
+gancao	MOL004885	licoisoflavanone	F7
+gancao	MOL004885	licoisoflavanone	ACHE
+gancao	MOL004885	licoisoflavanone	ESR2
+gancao	MOL004885	licoisoflavanone	GSK3B
+gancao	MOL004885	licoisoflavanone	HSP90AA1
+gancao	MOL004885	licoisoflavanone	CDK2
+gancao	MOL004885	licoisoflavanone	PRSS1
+gancao	MOL004885	licoisoflavanone	CCNA2
+gancao	MOL004885	licoisoflavanone	NCOA1
+gancao	MOL004885	licoisoflavanone	CAMTA2
+gancao	MOL004891	shinpterocarpin	NOS2
+gancao	MOL004891	shinpterocarpin	PTGS1
+gancao	MOL004891	shinpterocarpin	CHRM3
+gancao	MOL004891	shinpterocarpin	KCNH2
+gancao	MOL004891	shinpterocarpin	CHRM1
+gancao	MOL004891	shinpterocarpin	ESR1
+gancao	MOL004891	shinpterocarpin	AR
+gancao	MOL004891	shinpterocarpin	SCN5A
+gancao	MOL004891	shinpterocarpin	PPARG
+gancao	MOL004891	shinpterocarpin	PTGS2
+gancao	MOL004891	shinpterocarpin	HTR3A
+gancao	MOL004891	shinpterocarpin	RXRA
+gancao	MOL004891	shinpterocarpin	OPRD1
+gancao	MOL004891	shinpterocarpin	ADRA1B
+gancao	MOL004891	shinpterocarpin	ADRB2
+gancao	MOL004891	shinpterocarpin	ADRA1D
+gancao	MOL004891	shinpterocarpin	OPRM1
+gancao	MOL004891	shinpterocarpin	ESR2
+gancao	MOL004891	shinpterocarpin	MAPK14
+gancao	MOL004891	shinpterocarpin	GSK3B
+gancao	MOL004891	shinpterocarpin	CDK2
+gancao	MOL004891	shinpterocarpin	RXRB
+gancao	MOL004891	shinpterocarpin	PRSS1
+gancao	MOL004891	shinpterocarpin	CCNA2
+gancao	MOL004891	shinpterocarpin	NCOA1
+gancao	MOL004891	shinpterocarpin	CAMTA2
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	ESR1
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	AR
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	PPARG
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	PTGS2
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	MAPK14
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	GSK3B
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	HSP90AA1
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	CDK2
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	CCNA2
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	NCOA2
+gancao	MOL004898	(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one	CAMTA2
+gancao	MOL004903	liquiritin	F7
+gancao	MOL004903	liquiritin	CAMTA2
+gancao	MOL004903	liquiritin	PTGS2
+gancao	MOL004903	liquiritin	KDR
+gancao	MOL004903	liquiritin	SOD1
+gancao	MOL004904	licopyranocoumarin	NOS2
+gancao	MOL004904	licopyranocoumarin	ESR1
+gancao	MOL004904	licopyranocoumarin	AR
+gancao	MOL004904	licopyranocoumarin	PPARG
+gancao	MOL004904	licopyranocoumarin	PTGS2
+gancao	MOL004904	licopyranocoumarin	F7
+gancao	MOL004904	licopyranocoumarin	KDR
+gancao	MOL004904	licopyranocoumarin	ACHE
+gancao	MOL004904	licopyranocoumarin	CDK2
+gancao	MOL004904	licopyranocoumarin	PRSS1
+gancao	MOL004904	licopyranocoumarin	CCNA2
+gancao	MOL004904	licopyranocoumarin	CAMTA2
+gancao	MOL004907	Glyzaglabrin	NOS2
+gancao	MOL004907	Glyzaglabrin	PTGS1
+gancao	MOL004907	Glyzaglabrin	ESR1
+gancao	MOL004907	Glyzaglabrin	AR
+gancao	MOL004907	Glyzaglabrin	PPARG
+gancao	MOL004907	Glyzaglabrin	PTGS2
+gancao	MOL004907	Glyzaglabrin	ESR2
+gancao	MOL004907	Glyzaglabrin	DPP4
+gancao	MOL004907	Glyzaglabrin	MAPK14
+gancao	MOL004907	Glyzaglabrin	GSK3B
+gancao	MOL004907	Glyzaglabrin	HSP90AA1
+gancao	MOL004907	Glyzaglabrin	CDK2
+gancao	MOL004907	Glyzaglabrin	CHEK1
+gancao	MOL004907	Glyzaglabrin	PRSS1
+gancao	MOL004907	Glyzaglabrin	CCNA2
+gancao	MOL004908	Glabridin	NOS2
+gancao	MOL004908	Glabridin	CHRM1
+gancao	MOL004908	Glabridin	ESR1
+gancao	MOL004908	Glabridin	AR
+gancao	MOL004908	Glabridin	SCN5A
+gancao	MOL004908	Glabridin	PPARG
+gancao	MOL004908	Glabridin	PTGS2
+gancao	MOL004908	Glabridin	RXRA
+gancao	MOL004908	Glabridin	ACHE
+gancao	MOL004908	Glabridin	ADRA1B
+gancao	MOL004908	Glabridin	ADRB2
+gancao	MOL004908	Glabridin	ESR2
+gancao	MOL004908	Glabridin	MAPK14
+gancao	MOL004908	Glabridin	GSK3B
+gancao	MOL004908	Glabridin	CDK2
+gancao	MOL004908	Glabridin	CHEK1
+gancao	MOL004908	Glabridin	RXRB
+gancao	MOL004908	Glabridin	IGHG1
+gancao	MOL004908	Glabridin	PRSS1
+gancao	MOL004908	Glabridin	CCNA2
+gancao	MOL004908	Glabridin	NCOA2
+gancao	MOL004908	Glabridin	NCOA1
+gancao	MOL004908	Glabridin	CAMTA2
+gancao	MOL004910	Glabranin	NOS2
+gancao	MOL004910	Glabranin	PTGS1
+gancao	MOL004910	Glabranin	ESR1
+gancao	MOL004910	Glabranin	SCN5A
+gancao	MOL004910	Glabranin	PTGS2
+gancao	MOL004910	Glabranin	HSP90AA1
+gancao	MOL004910	Glabranin	CAMTA2
+gancao	MOL004911	Glabrene	NOS2
+gancao	MOL004911	Glabrene	PTGS1
+gancao	MOL004911	Glabrene	ESR1
+gancao	MOL004911	Glabrene	AR
+gancao	MOL004911	Glabrene	SCN5A
+gancao	MOL004911	Glabrene	PPARG
+gancao	MOL004911	Glabrene	PTGS2
+gancao	MOL004911	Glabrene	RXRA
+gancao	MOL004911	Glabrene	ADRB2
+gancao	MOL004911	Glabrene	ESR2
+gancao	MOL004911	Glabrene	MAPK14
+gancao	MOL004911	Glabrene	GSK3B
+gancao	MOL004911	Glabrene	HSP90AA1
+gancao	MOL004911	Glabrene	CDK2
+gancao	MOL004911	Glabrene	PRSS1
+gancao	MOL004911	Glabrene	NCOA2
+gancao	MOL004911	Glabrene	CAMTA2
+gancao	MOL004912	Glabrone	NOS2
+gancao	MOL004912	Glabrone	PTGS1
+gancao	MOL004912	Glabrone	ESR1
+gancao	MOL004912	Glabrone	AR
+gancao	MOL004912	Glabrone	SCN5A
+gancao	MOL004912	Glabrone	PPARG
+gancao	MOL004912	Glabrone	PTGS2
+gancao	MOL004912	Glabrone	RXRA
+gancao	MOL004912	Glabrone	ACHE
+gancao	MOL004912	Glabrone	ESR2
+gancao	MOL004912	Glabrone	DPP4
+gancao	MOL004912	Glabrone	MAPK14
+gancao	MOL004912	Glabrone	GSK3B
+gancao	MOL004912	Glabrone	CDK2
+gancao	MOL004912	Glabrone	CHEK1
+gancao	MOL004912	Glabrone	PRSS1
+gancao	MOL004912	Glabrone	CCNA2
+gancao	MOL004912	Glabrone	CAMTA2
+gancao	MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	ESR1
+gancao	MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	PPARG
+gancao	MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	ESR2
+gancao	MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	MAPK14
+gancao	MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	GSK3B
+gancao	MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	HSP90AA1
+gancao	MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	CDK2
+gancao	MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	CHEK1
+gancao	MOL004913	1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone	CCNA2
+gancao	MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	ESR1
+gancao	MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	AR
+gancao	MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	PPARG
+gancao	MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	MAPK14
+gancao	MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	GSK3B
+gancao	MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	HSP90AA1
+gancao	MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	CDK2
+gancao	MOL004914	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone	CHEK1
+gancao	MOL004915	Eurycarpin A	NOS2
+gancao	MOL004915	Eurycarpin A	ESR1
+gancao	MOL004915	Eurycarpin A	AR
+gancao	MOL004915	Eurycarpin A	SCN5A
+gancao	MOL004915	Eurycarpin A	PPARG
+gancao	MOL004915	Eurycarpin A	PTGS2
+gancao	MOL004915	Eurycarpin A	ESR2
+gancao	MOL004915	Eurycarpin A	DPP4
+gancao	MOL004915	Eurycarpin A	MAPK14
+gancao	MOL004915	Eurycarpin A	GSK3B
+gancao	MOL004915	Eurycarpin A	HSP90AA1
+gancao	MOL004915	Eurycarpin A	CDK2
+gancao	MOL004915	Eurycarpin A	CHEK1
+gancao	MOL004915	Eurycarpin A	PRSS1
+gancao	MOL004915	Eurycarpin A	CCNA2
+gancao	MOL004915	Eurycarpin A	CAMTA2
+gancao	MOL004924	(-)-Medicocarpin	PTGS2
+gancao	MOL004924	(-)-Medicocarpin	ACHE
+gancao	MOL004935	Sigmoidin-B	ESR1
+gancao	MOL004935	Sigmoidin-B	PTGS2
+gancao	MOL004935	Sigmoidin-B	KDR
+gancao	MOL004935	Sigmoidin-B	HSP90AA1
+gancao	MOL004935	Sigmoidin-B	CAMTA2
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	PTGS1
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	ESR1
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	PTGS2
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	RXRA
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	ADRB2
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	HSP90AA1
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	DPEP1
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	MAOB
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	PKIA
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	CAMTA2
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	GABRA1
+gancao	MOL004941	(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one	SLC6A4
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	NOS2
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	PTGS1
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	ESR1
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	SCN5A
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	PTGS2
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	ADRA1B
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	ADRB2
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	ESR2
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	HSP90AA1
+gancao	MOL004945	(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one	CAMTA2
+gancao	MOL004948	Isoglycyrol	NOS2
+gancao	MOL004948	Isoglycyrol	ESR1
+gancao	MOL004948	Isoglycyrol	AR
+gancao	MOL004948	Isoglycyrol	PTGS2
+gancao	MOL004948	Isoglycyrol	DPP4
+gancao	MOL004948	Isoglycyrol	GSK3B
+gancao	MOL004949	Isolicoflavonol	NOS2
+gancao	MOL004949	Isolicoflavonol	ESR1
+gancao	MOL004949	Isolicoflavonol	AR
+gancao	MOL004949	Isolicoflavonol	PPARG
+gancao	MOL004949	Isolicoflavonol	PTGS2
+gancao	MOL004949	Isolicoflavonol	GSK3B
+gancao	MOL004949	Isolicoflavonol	HSP90AA1
+gancao	MOL004949	Isolicoflavonol	CDK2
+gancao	MOL004949	Isolicoflavonol	PRSS1
+gancao	MOL004949	Isolicoflavonol	CCNA2
+gancao	MOL004949	Isolicoflavonol	NCOA2
+gancao	MOL004949	Isolicoflavonol	CAMTA2
+gancao	MOL004957	HMO	NOS2
+gancao	MOL004957	HMO	PTGS1
+gancao	MOL004957	HMO	CHRM1
+gancao	MOL004957	HMO	ESR1
+gancao	MOL004957	HMO	AR
+gancao	MOL004957	HMO	SCN5A
+gancao	MOL004957	HMO	PPARG
+gancao	MOL004957	HMO	PTGS2
+gancao	MOL004957	HMO	RXRA
+gancao	MOL004957	HMO	SLC6A3
+gancao	MOL004957	HMO	ADRB2
+gancao	MOL004957	HMO	SLC6A4
+gancao	MOL004957	HMO	ESR2
+gancao	MOL004957	HMO	DPP4
+gancao	MOL004957	HMO	MAPK14
+gancao	MOL004957	HMO	GSK3B
+gancao	MOL004957	HMO	CDK2
+gancao	MOL004957	HMO	MAOB
+gancao	MOL004957	HMO	CHEK1
+gancao	MOL004957	HMO	IGHG1
+gancao	MOL004957	HMO	PRSS1
+gancao	MOL004957	HMO	CCNA2
+gancao	MOL004957	HMO	PKIA
+gancao	MOL004957	HMO	CAMTA2
+gancao	MOL004959	1-Methoxyphaseollidin	NOS2
+gancao	MOL004959	1-Methoxyphaseollidin	PTGS1
+gancao	MOL004959	1-Methoxyphaseollidin	KCNH2
+gancao	MOL004959	1-Methoxyphaseollidin	ESR1
+gancao	MOL004959	1-Methoxyphaseollidin	AR
+gancao	MOL004959	1-Methoxyphaseollidin	SCN5A
+gancao	MOL004959	1-Methoxyphaseollidin	PPARG
+gancao	MOL004959	1-Methoxyphaseollidin	PTGS2
+gancao	MOL004959	1-Methoxyphaseollidin	KDR
+gancao	MOL004959	1-Methoxyphaseollidin	RXRA
+gancao	MOL004959	1-Methoxyphaseollidin	ADRA1B
+gancao	MOL004959	1-Methoxyphaseollidin	ADRB2
+gancao	MOL004959	1-Methoxyphaseollidin	ADRA1D
+gancao	MOL004959	1-Methoxyphaseollidin	ESR2
+gancao	MOL004959	1-Methoxyphaseollidin	MAPK14
+gancao	MOL004959	1-Methoxyphaseollidin	GSK3B
+gancao	MOL004959	1-Methoxyphaseollidin	HSP90AA1
+gancao	MOL004959	1-Methoxyphaseollidin	CDK2
+gancao	MOL004959	1-Methoxyphaseollidin	PRSS1
+gancao	MOL004959	1-Methoxyphaseollidin	CCNA2
+gancao	MOL004959	1-Methoxyphaseollidin	NCOA2
+gancao	MOL004959	1-Methoxyphaseollidin	NCOA1
+gancao	MOL004959	1-Methoxyphaseollidin	CAMTA2
+gancao	MOL004961	Quercetin der.	NOS2
+gancao	MOL004961	Quercetin der.	PTGS1
+gancao	MOL004961	Quercetin der.	ESR1
+gancao	MOL004961	Quercetin der.	AR
+gancao	MOL004961	Quercetin der.	SCN5A
+gancao	MOL004961	Quercetin der.	PPARG
+gancao	MOL004961	Quercetin der.	PTGS2
+gancao	MOL004961	Quercetin der.	ESR2
+gancao	MOL004961	Quercetin der.	DPP4
+gancao	MOL004961	Quercetin der.	MAPK14
+gancao	MOL004961	Quercetin der.	GSK3B
+gancao	MOL004961	Quercetin der.	HSP90AA1
+gancao	MOL004961	Quercetin der.	CDK2
+gancao	MOL004961	Quercetin der.	PRSS1
+gancao	MOL004961	Quercetin der.	NCOA2
+gancao	MOL004961	Quercetin der.	CAMTA2
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	NOS2
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	PTGS1
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	KCNH2
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	ESR1
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	AR
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	SCN5A
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	PPARG
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	PTGS2
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	F7
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	KDR
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	ADRA1B
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	ADRB2
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	ESR2
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	MAPK14
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	GSK3B
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	HSP90AA1
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	CDK2
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	CHEK1
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	PRSS1
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	CCNA2
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	NCOA2
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	NCOA1
+gancao	MOL004966	3'-Hydroxy-4'-O-Methylglabridin	CAMTA2
+gancao	MOL000497	licochalcone a	NOS2
+gancao	MOL000497	licochalcone a	PTGS1
+gancao	MOL000497	licochalcone a	CHRM1
+gancao	MOL000497	licochalcone a	ESR1
+gancao	MOL000497	licochalcone a	AR
+gancao	MOL000497	licochalcone a	SCN5A
+gancao	MOL000497	licochalcone a	PPARG
+gancao	MOL000497	licochalcone a	PTGS2
+gancao	MOL000497	licochalcone a	CA2
+gancao	MOL000497	licochalcone a	ADRA1B
+gancao	MOL000497	licochalcone a	SLC6A3
+gancao	MOL000497	licochalcone a	ESR2
+gancao	MOL000497	licochalcone a	MAPK14
+gancao	MOL000497	licochalcone a	GSK3B
+gancao	MOL000497	licochalcone a	HSP90AA1
+gancao	MOL000497	licochalcone a	CDK2
+gancao	MOL000497	licochalcone a	CHEK1
+gancao	MOL000497	licochalcone a	CCNA2
+gancao	MOL000497	licochalcone a	CAMTA2
+gancao	MOL000497	licochalcone a	ADRB2
+gancao	MOL000497	licochalcone a	NCOA2
+gancao	MOL000497	licochalcone a	RELA
+gancao	MOL000497	licochalcone a	STAT3
+gancao	MOL000497	licochalcone a	CCND1
+gancao	MOL000497	licochalcone a	BCL2
+gancao	MOL000497	licochalcone a	EIF6
+gancao	MOL000497	licochalcone a	MAPK1
+gancao	MOL000497	licochalcone a	RB1
+gancao	MOL000497	licochalcone a	CDK4
+gancao	MOL000497	licochalcone a	FOSL2
+gancao	MOL004974	3'-Methoxyglabridin	NOS2
+gancao	MOL004974	3'-Methoxyglabridin	PTGS1
+gancao	MOL004974	3'-Methoxyglabridin	KCNH2
+gancao	MOL004974	3'-Methoxyglabridin	ESR1
+gancao	MOL004974	3'-Methoxyglabridin	AR
+gancao	MOL004974	3'-Methoxyglabridin	SCN5A
+gancao	MOL004974	3'-Methoxyglabridin	PPARG
+gancao	MOL004974	3'-Methoxyglabridin	PTGS2
+gancao	MOL004974	3'-Methoxyglabridin	F7
+gancao	MOL004974	3'-Methoxyglabridin	RXRA
+gancao	MOL004974	3'-Methoxyglabridin	ACHE
+gancao	MOL004974	3'-Methoxyglabridin	ADRA1B
+gancao	MOL004974	3'-Methoxyglabridin	ADRB2
+gancao	MOL004974	3'-Methoxyglabridin	ESR2
+gancao	MOL004974	3'-Methoxyglabridin	MAPK14
+gancao	MOL004974	3'-Methoxyglabridin	GSK3B
+gancao	MOL004974	3'-Methoxyglabridin	HSP90AA1
+gancao	MOL004974	3'-Methoxyglabridin	CDK2
+gancao	MOL004974	3'-Methoxyglabridin	CHEK1
+gancao	MOL004974	3'-Methoxyglabridin	PRSS1
+gancao	MOL004974	3'-Methoxyglabridin	CCNA2
+gancao	MOL004974	3'-Methoxyglabridin	NCOA2
+gancao	MOL004974	3'-Methoxyglabridin	NCOA1
+gancao	MOL004974	3'-Methoxyglabridin	CAMTA2
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	NOS2
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	PTGS1
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	CHRM3
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	KCNH2
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	CHRM1
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	ESR1
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	AR
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	SCN5A
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	PPARG
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	PTGS2
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	RXRA
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	ACHE
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	ADRA1B
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	SLC6A3
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	ADRB2
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	ESR2
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	MAPK14
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	GSK3B
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	CDK2
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	CHEK1
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	RXRB
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	PRSS1
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	CCNA2
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	NCOA2
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	NCOA1
+gancao	MOL004978	2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	CAMTA2
+gancao	MOL004980	Inflacoumarin A	ESR1
+gancao	MOL004980	Inflacoumarin A	AR
+gancao	MOL004980	Inflacoumarin A	PPARG
+gancao	MOL004980	Inflacoumarin A	PTGS2
+gancao	MOL004980	Inflacoumarin A	ADRB2
+gancao	MOL004980	Inflacoumarin A	DPP4
+gancao	MOL004980	Inflacoumarin A	HSP90AA1
+gancao	MOL004980	Inflacoumarin A	PRSS1
+gancao	MOL004980	Inflacoumarin A	NCOA2
+gancao	MOL004980	Inflacoumarin A	CAMTA2
+gancao	MOL004980	Inflacoumarin A	PTGS1
+gancao	MOL004980	Inflacoumarin A	SCN5A
+gancao	MOL004985	icos-5-enoic acid	NCOA2
+gancao	MOL004988	Kanzonol F	ESR1
+gancao	MOL004988	Kanzonol F	AR
+gancao	MOL004988	Kanzonol F	PTGS2
+gancao	MOL004988	Kanzonol F	ESR2
+gancao	MOL004988	Kanzonol F	NCOA2
+gancao	MOL004988	Kanzonol F	CAMTA2
+gancao	MOL004989	6-prenylated eriodictyol	NOS2
+gancao	MOL004989	6-prenylated eriodictyol	ESR1
+gancao	MOL004989	6-prenylated eriodictyol	SCN5A
+gancao	MOL004989	6-prenylated eriodictyol	PTGS2
+gancao	MOL004989	6-prenylated eriodictyol	F7
+gancao	MOL004989	6-prenylated eriodictyol	HSP90AA1
+gancao	MOL004989	6-prenylated eriodictyol	CAMTA2
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	NOS2
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	PTGS1
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	ESR1
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	AR
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	PPARG
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	PTGS2
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	ESR2
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	DPP4
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	MAPK14
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	GSK3B
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	HSP90AA1
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	CDK2
+gancao	MOL004990	7,2',4'-trihydroxy－5-methoxy-3－arylcoumarin	CHEK1
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	NOS2
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	PTGS1
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	ESR1
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	AR
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	SCN5A
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	PPARG
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	PTGS2
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	RXRA
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	ACHE
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	ADRA1B
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	ADRB2
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	ADRA1D
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	GABRA1
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	DPP4
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	MAPK14
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	GSK3B
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	HSP90AA1
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	CDK2
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	CHEK1
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	PRSS1
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	NCOA2
+gancao	MOL004991	7-Acetoxy-2-methylisoflavone	CAMTA2
+gancao	MOL004993	8-prenylated eriodictyol	ESR1
+gancao	MOL004993	8-prenylated eriodictyol	SCN5A
+gancao	MOL004993	8-prenylated eriodictyol	PTGS2
+gancao	MOL004993	8-prenylated eriodictyol	F7
+gancao	MOL004993	8-prenylated eriodictyol	HSP90AA1
+gancao	MOL004993	8-prenylated eriodictyol	NCOA1
+gancao	MOL004993	8-prenylated eriodictyol	CAMTA2
+gancao	MOL004996	gadelaidic acid	NCOA2
+gancao	MOL000500	Vestitol	NOS2
+gancao	MOL000500	Vestitol	PTGS1
+gancao	MOL000500	Vestitol	CHRM1
+gancao	MOL000500	Vestitol	ESR1
+gancao	MOL000500	Vestitol	AR
+gancao	MOL000500	Vestitol	SCN5A
+gancao	MOL000500	Vestitol	PPARG
+gancao	MOL000500	Vestitol	PTGS2
+gancao	MOL000500	Vestitol	CHRM4
+gancao	MOL000500	Vestitol	RXRA
+gancao	MOL000500	Vestitol	ADRA1A
+gancao	MOL000500	Vestitol	ADRA1B
+gancao	MOL000500	Vestitol	SLC6A3
+gancao	MOL000500	Vestitol	ADRB2
+gancao	MOL000500	Vestitol	SLC6A4
+gancao	MOL000500	Vestitol	ESR2
+gancao	MOL000500	Vestitol	DPP4
+gancao	MOL000500	Vestitol	MAPK14
+gancao	MOL000500	Vestitol	GSK3B
+gancao	MOL000500	Vestitol	HSP90AA1
+gancao	MOL000500	Vestitol	CDK2
+gancao	MOL000500	Vestitol	CHEK1
+gancao	MOL000500	Vestitol	PRSS1
+gancao	MOL000500	Vestitol	CCNA2
+gancao	MOL000500	Vestitol	PKIA
+gancao	MOL000500	Vestitol	CAMTA2
+gancao	MOL005000	Gancaonin G	NOS2
+gancao	MOL005000	Gancaonin G	ESR1
+gancao	MOL005000	Gancaonin G	AR
+gancao	MOL005000	Gancaonin G	PPARG
+gancao	MOL005000	Gancaonin G	PTGS2
+gancao	MOL005000	Gancaonin G	ESR2
+gancao	MOL005000	Gancaonin G	DPP4
+gancao	MOL005000	Gancaonin G	MAPK14
+gancao	MOL005000	Gancaonin G	GSK3B
+gancao	MOL005000	Gancaonin G	HSP90AA1
+gancao	MOL005000	Gancaonin G	CHEK1
+gancao	MOL005000	Gancaonin G	PRSS1
+gancao	MOL005000	Gancaonin G	CCNA2
+gancao	MOL005000	Gancaonin G	NCOA2
+gancao	MOL005000	Gancaonin G	CAMTA2
+gancao	MOL005001	Gancaonin H	ESR1
+gancao	MOL005001	Gancaonin H	AR
+gancao	MOL005001	Gancaonin H	PTGS2
+gancao	MOL005001	Gancaonin H	KDR
+gancao	MOL005001	Gancaonin H	HSP90AA1
+gancao	MOL005001	Gancaonin H	PRSS1
+gancao	MOL005001	Gancaonin H	CCNA2
+gancao	MOL005001	Gancaonin H	NCOA2
+gancao	MOL005001	Gancaonin H	CAMTA2
+gancao	MOL005003	Licoagrocarpin	NOS2
+gancao	MOL005003	Licoagrocarpin	PTGS1
+gancao	MOL005003	Licoagrocarpin	CHRM3
+gancao	MOL005003	Licoagrocarpin	KCNH2
+gancao	MOL005003	Licoagrocarpin	CHRM1
+gancao	MOL005003	Licoagrocarpin	ESR1
+gancao	MOL005003	Licoagrocarpin	AR
+gancao	MOL005003	Licoagrocarpin	SCN5A
+gancao	MOL005003	Licoagrocarpin	PPARG
+gancao	MOL005003	Licoagrocarpin	CHRM5
+gancao	MOL005003	Licoagrocarpin	PTGS2
+gancao	MOL005003	Licoagrocarpin	RXRA
+gancao	MOL005003	Licoagrocarpin	ACHE
+gancao	MOL005003	Licoagrocarpin	ADRA1B
+gancao	MOL005003	Licoagrocarpin	ADRB2
+gancao	MOL005003	Licoagrocarpin	ESR2
+gancao	MOL005003	Licoagrocarpin	MAPK14
+gancao	MOL005003	Licoagrocarpin	GSK3B
+gancao	MOL005003	Licoagrocarpin	HSP90AA1
+gancao	MOL005003	Licoagrocarpin	CDK2
+gancao	MOL005003	Licoagrocarpin	RXRB
+gancao	MOL005003	Licoagrocarpin	PRSS1
+gancao	MOL005003	Licoagrocarpin	CCNA2
+gancao	MOL005003	Licoagrocarpin	NCOA2
+gancao	MOL005003	Licoagrocarpin	CAMTA2
+gancao	MOL005007	Glyasperins M	NOS2
+gancao	MOL005007	Glyasperins M	PTGS1
+gancao	MOL005007	Glyasperins M	KCNH2
+gancao	MOL005007	Glyasperins M	ESR1
+gancao	MOL005007	Glyasperins M	AR
+gancao	MOL005007	Glyasperins M	SCN5A
+gancao	MOL005007	Glyasperins M	PPARG
+gancao	MOL005007	Glyasperins M	PTGS2
+gancao	MOL005007	Glyasperins M	F7
+gancao	MOL005007	Glyasperins M	KDR
+gancao	MOL005007	Glyasperins M	ACHE
+gancao	MOL005007	Glyasperins M	ESR2
+gancao	MOL005007	Glyasperins M	PPARD
+gancao	MOL005007	Glyasperins M	GSK3B
+gancao	MOL005007	Glyasperins M	HSP90AA1
+gancao	MOL005007	Glyasperins M	CDK2
+gancao	MOL005007	Glyasperins M	PRSS1
+gancao	MOL005007	Glyasperins M	CCNA2
+gancao	MOL005007	Glyasperins M	NCOA2
+gancao	MOL005007	Glyasperins M	NCOA1
+gancao	MOL005007	Glyasperins M	CAMTA2
+gancao	MOL005008	Glycyrrhiza flavonol A	NOS2
+gancao	MOL005008	Glycyrrhiza flavonol A	ESR1
+gancao	MOL005008	Glycyrrhiza flavonol A	AR
+gancao	MOL005008	Glycyrrhiza flavonol A	PTGS2
+gancao	MOL005008	Glycyrrhiza flavonol A	F7
+gancao	MOL005008	Glycyrrhiza flavonol A	ACHE
+gancao	MOL005008	Glycyrrhiza flavonol A	ESR2
+gancao	MOL005008	Glycyrrhiza flavonol A	DPP4
+gancao	MOL005008	Glycyrrhiza flavonol A	GSK3B
+gancao	MOL005008	Glycyrrhiza flavonol A	HSP90AA1
+gancao	MOL005008	Glycyrrhiza flavonol A	CDK2
+gancao	MOL005008	Glycyrrhiza flavonol A	PRSS1
+gancao	MOL005008	Glycyrrhiza flavonol A	CCNA2
+gancao	MOL005008	Glycyrrhiza flavonol A	CAMTA2
+gancao	MOL005012	Licoagroisoflavone	NOS2
+gancao	MOL005012	Licoagroisoflavone	ESR1
+gancao	MOL005012	Licoagroisoflavone	AR
+gancao	MOL005012	Licoagroisoflavone	SCN5A
+gancao	MOL005012	Licoagroisoflavone	PPARG
+gancao	MOL005012	Licoagroisoflavone	PTGS2
+gancao	MOL005012	Licoagroisoflavone	ESR2
+gancao	MOL005012	Licoagroisoflavone	DPP4
+gancao	MOL005012	Licoagroisoflavone	MAPK14
+gancao	MOL005012	Licoagroisoflavone	GSK3B
+gancao	MOL005012	Licoagroisoflavone	CDK2
+gancao	MOL005012	Licoagroisoflavone	CHEK1
+gancao	MOL005012	Licoagroisoflavone	PRSS1
+gancao	MOL005012	Licoagroisoflavone	CCNA2
+gancao	MOL005012	Licoagroisoflavone	CAMTA2
+gancao	MOL005016	Odoratin	NOS2
+gancao	MOL005016	Odoratin	PTGS1
+gancao	MOL005016	Odoratin	ESR1
+gancao	MOL005016	Odoratin	AR
+gancao	MOL005016	Odoratin	SCN5A
+gancao	MOL005016	Odoratin	PPARG
+gancao	MOL005016	Odoratin	PTGS2
+gancao	MOL005016	Odoratin	RXRA
+gancao	MOL005016	Odoratin	ESR2
+gancao	MOL005016	Odoratin	DPP4
+gancao	MOL005016	Odoratin	MAPK14
+gancao	MOL005016	Odoratin	GSK3B
+gancao	MOL005016	Odoratin	HSP90AA1
+gancao	MOL005016	Odoratin	CDK2
+gancao	MOL005016	Odoratin	CHEK1
+gancao	MOL005016	Odoratin	PRSS1
+gancao	MOL005016	Odoratin	CCNA2
+gancao	MOL005016	Odoratin	NCOA2
+gancao	MOL005016	Odoratin	CAMTA2
+gancao	MOL005017	Phaseol	ESR1
+gancao	MOL005017	Phaseol	AR
+gancao	MOL005017	Phaseol	PPARG
+gancao	MOL005017	Phaseol	PTGS2
+gancao	MOL005017	Phaseol	KDR
+gancao	MOL005017	Phaseol	MAPK14
+gancao	MOL005017	Phaseol	GSK3B
+gancao	MOL005017	Phaseol	HSP90AA1
+gancao	MOL005017	Phaseol	CDK2
+gancao	MOL005017	Phaseol	CHEK1
+gancao	MOL005017	Phaseol	CCNA2
+gancao	MOL005018	Xambioona	NOS2
+gancao	MOL005018	Xambioona	ESR1
+gancao	MOL005018	Xambioona	PTGS2
+gancao	MOL005018	Xambioona	ESR2
+gancao	MOL005018	Xambioona	NCOA2
+gancao	MOL005018	Xambioona	CAMTA2
+gancao	MOL005020	dehydroglyasperins C	NOS2
+gancao	MOL005020	dehydroglyasperins C	ESR1
+gancao	MOL005020	dehydroglyasperins C	AR
+gancao	MOL005020	dehydroglyasperins C	SCN5A
+gancao	MOL005020	dehydroglyasperins C	PPARG
+gancao	MOL005020	dehydroglyasperins C	PTGS2
+gancao	MOL005020	dehydroglyasperins C	ADRB2
+gancao	MOL005020	dehydroglyasperins C	ESR2
+gancao	MOL005020	dehydroglyasperins C	MAPK14
+gancao	MOL005020	dehydroglyasperins C	HSP90AA1
+gancao	MOL005020	dehydroglyasperins C	CDK2
+gancao	MOL005020	dehydroglyasperins C	CHEK1
+gancao	MOL005020	dehydroglyasperins C	PRSS1
+gancao	MOL005020	dehydroglyasperins C	CCNA2
+gancao	MOL005020	dehydroglyasperins C	NCOA2
+gancao	MOL005020	dehydroglyasperins C	CAMTA2
+gancao	MOL000098	quercetin	PTGS1
+gancao	MOL000098	quercetin	AR
+gancao	MOL000098	quercetin	PPARG
+gancao	MOL000098	quercetin	PTGS2
+gancao	MOL000098	quercetin	HSP90AA1
+gancao	MOL000098	quercetin	NCOA2
+gancao	MOL000098	quercetin	DPP4
+gancao	MOL000098	quercetin	AKR1B1
+gancao	MOL000098	quercetin	PRSS1
+gancao	MOL000098	quercetin	KCNH2
+gancao	MOL000098	quercetin	SCN5A
+gancao	MOL000098	quercetin	ADRB2
+gancao	MOL000098	quercetin	MMP3
+gancao	MOL000098	quercetin	F7
+gancao	MOL000098	quercetin	RXRA
+gancao	MOL000098	quercetin	ACHE
+gancao	MOL000098	quercetin	GABRA1
+gancao	MOL000098	quercetin	MAOB
+gancao	MOL000098	quercetin	RELA
+gancao	MOL000098	quercetin	EGFR
+gancao	MOL000098	quercetin	AKT1
+gancao	MOL000098	quercetin	CCND1
+gancao	MOL000098	quercetin	BCL2
+gancao	MOL000098	quercetin	BCL2L1
+gancao	MOL000098	quercetin	FOS
+gancao	MOL000098	quercetin	CDKN1A
+gancao	MOL000098	quercetin	EIF6
+gancao	MOL000098	quercetin	BAX
+gancao	MOL000098	quercetin	CASP9
+gancao	MOL000098	quercetin	PLAU
+gancao	MOL000098	quercetin	MMP2
+gancao	MOL000098	quercetin	MMP9
+gancao	MOL000098	quercetin	MAPK1
+gancao	MOL000098	quercetin	IL10
+gancao	MOL000098	quercetin	EGF
+gancao	MOL000098	quercetin	RB1
+gancao	MOL000098	quercetin	TNF
+gancao	MOL000098	quercetin	IL6
+gancao	MOL000098	quercetin	AHSA1
+gancao	MOL000098	quercetin	CASP3
+gancao	MOL000098	quercetin	TP53
+gancao	MOL000098	quercetin	ELK1
+gancao	MOL000098	quercetin	NFKBIA
+gancao	MOL000098	quercetin	POR
+gancao	MOL000098	quercetin	ODC1
+gancao	MOL000098	quercetin	CASP8
+gancao	MOL000098	quercetin	TOP1
+gancao	MOL000098	quercetin	RAF1
+gancao	MOL000098	quercetin	SOD1
+gancao	MOL000098	quercetin	PRKCA
+gancao	MOL000098	quercetin	MMP1
+gancao	MOL000098	quercetin	HIF1A
+gancao	MOL000098	quercetin	STAT1
+gancao	MOL000098	quercetin	RUNX1T1
+gancao	MOL000098	quercetin	CDK1
+gancao	MOL000098	quercetin	HSPA5
+gancao	MOL000098	quercetin	ERBB2
+gancao	MOL000098	quercetin	PPARG
+gancao	MOL000098	quercetin	ACACA
+gancao	MOL000098	quercetin	HMOX1
+gancao	MOL000098	quercetin	CYP3A4
+gancao	MOL000098	quercetin	CYP1A2
+gancao	MOL000098	quercetin	CAV1
+gancao	MOL000098	quercetin	MYC
+gancao	MOL000098	quercetin	F3
+gancao	MOL000098	quercetin	GJA1
+gancao	MOL000098	quercetin	CYP1A1
+gancao	MOL000098	quercetin	ICAM1
+gancao	MOL000098	quercetin	IL1B
+gancao	MOL000098	quercetin	CCL2
+gancao	MOL000098	quercetin	SELE
+gancao	MOL000098	quercetin	VCAM1
+gancao	MOL000098	quercetin	PTGER3
+gancao	MOL000098	quercetin	CXCL8
+gancao	MOL000098	quercetin	PRKCB
+gancao	MOL000098	quercetin	BIRC5
+gancao	MOL000098	quercetin	DUOX2
+gancao	MOL000098	quercetin	NOS3
+gancao	MOL000098	quercetin	HSPB1
+gancao	MOL000098	quercetin	SULT1E1
+gancao	MOL000098	quercetin	IL2RA
+gancao	MOL000098	quercetin	NR1I2
+gancao	MOL000098	quercetin	CYP1B1
+gancao	MOL000098	quercetin	CCNB1
+gancao	MOL000098	quercetin	PLAT
+gancao	MOL000098	quercetin	THBD
+gancao	MOL000098	quercetin	SERPINE1
+gancao	MOL000098	quercetin	COL1A1
+gancao	MOL000098	quercetin	IFNG
+gancao	MOL000098	quercetin	ALOX5
+gancao	MOL000098	quercetin	IL1A
+gancao	MOL000098	quercetin	MPO
+gancao	MOL000098	quercetin	TOP2A
+gancao	MOL000098	quercetin	NCF1
+gancao	MOL000098	quercetin	ABCG2
+gancao	MOL000098	quercetin	HAS2
+gancao	MOL000098	quercetin	GSTP1
+gancao	MOL000098	quercetin	NFE2L2
+gancao	MOL000098	quercetin	NQO1
+gancao	MOL000098	quercetin	PARP1
+gancao	MOL000098	quercetin	AHR
+gancao	MOL000098	quercetin	PSMD3
+gancao	MOL000098	quercetin	SLC2A4
+gancao	MOL000098	quercetin	COL3A1
+gancao	MOL000098	quercetin	CXCL11
+gancao	MOL000098	quercetin	CXCL2
+gancao	MOL000098	quercetin	DCAF5
+gancao	MOL000098	quercetin	NR1I3
+gancao	MOL000098	quercetin	CHEK2
+gancao	MOL000098	quercetin	INSR
+gancao	MOL000098	quercetin	CLDN4
+gancao	MOL000098	quercetin	PPARA
+gancao	MOL000098	quercetin	PPARD
+gancao	MOL000098	quercetin	HSF1
+gancao	MOL000098	quercetin	CXCL10
+gancao	MOL000098	quercetin	CHUK
+gancao	MOL000098	quercetin	SPP1
+gancao	MOL000098	quercetin	RUNX2
+gancao	MOL000098	quercetin	RASSF1
+gancao	MOL000098	quercetin	E2F1
+gancao	MOL000098	quercetin	E2F2
+gancao	MOL000098	quercetin	ACP3
+gancao	MOL000098	quercetin	CTSD
+gancao	MOL000098	quercetin	IGFBP3
+gancao	MOL000098	quercetin	IGF2
+gancao	MOL000098	quercetin	CD40LG
+gancao	MOL000098	quercetin	IRF1
+gancao	MOL000098	quercetin	ERBB3
+gancao	MOL000098	quercetin	PON1
+gancao	MOL000098	quercetin	DIO1
+gancao	MOL000098	quercetin	PCOLCE
+gancao	MOL000098	quercetin	NPEPPS
+gancao	MOL000098	quercetin	HK2
+gancao	MOL000098	quercetin	RASA1
+gancao	MOL000098	quercetin	GSTM1
+gancao	MOL000098	quercetin	GSTM2
+jinyinhua	MOL001494	Mandenol	PTGS1
+jinyinhua	MOL001494	Mandenol	PTGS2
+jinyinhua	MOL001494	Mandenol	NCOA2
+jinyinhua	MOL001495	Ethyl linolenate	PTGS1
+jinyinhua	MOL001495	Ethyl linolenate	NCOA2
+jinyinhua	MOL002914	Eriodyctiol (flavanone)	PTGS1
+jinyinhua	MOL002914	Eriodyctiol (flavanone)	PTGS2
+jinyinhua	MOL002914	Eriodyctiol (flavanone)	HSP90AA1
+jinyinhua	MOL002914	Eriodyctiol (flavanone)	NCOA2
+jinyinhua	MOL002914	Eriodyctiol (flavanone)	PYGM
+jinyinhua	MOL002914	Eriodyctiol (flavanone)	CAMTA2
+jinyinhua	MOL003006	(-)-(3R,8S,9R,9aS,10aS)-9-ethenyl-8-(beta-D-glucopyranosyloxy)-2,3,9,9a,10,10a-hexahydro-5-oxo-5H,8H-pyrano[4,3-d]oxazolo[3,2-a]pyridine-3-carboxylic acid_qt	PTGS2
+jinyinhua	MOL003006	(-)-(3R,8S,9R,9aS,10aS)-9-ethenyl-8-(beta-D-glucopyranosyloxy)-2,3,9,9a,10,10a-hexahydro-5-oxo-5H,8H-pyrano[4,3-d]oxazolo[3,2-a]pyridine-3-carboxylic acid_qt	CA2
+jinyinhua	MOL003006	(-)-(3R,8S,9R,9aS,10aS)-9-ethenyl-8-(beta-D-glucopyranosyloxy)-2,3,9,9a,10,10a-hexahydro-5-oxo-5H,8H-pyrano[4,3-d]oxazolo[3,2-a]pyridine-3-carboxylic acid_qt	GABRA1
+jinyinhua	MOL003006	(-)-(3R,8S,9R,9aS,10aS)-9-ethenyl-8-(beta-D-glucopyranosyloxy)-2,3,9,9a,10,10a-hexahydro-5-oxo-5H,8H-pyrano[4,3-d]oxazolo[3,2-a]pyridine-3-carboxylic acid_qt	DPP4
+jinyinhua	MOL003014	secologanic dibutylacetal_qt	ESR1
+jinyinhua	MOL003014	secologanic dibutylacetal_qt	PTGS2
+jinyinhua	MOL002773	beta-carotene	AKT1
+jinyinhua	MOL002773	beta-carotene	BCL2
+jinyinhua	MOL002773	beta-carotene	CASP9
+jinyinhua	MOL002773	beta-carotene	MMP2
+jinyinhua	MOL002773	beta-carotene	CASP3
+jinyinhua	MOL002773	beta-carotene	PTGS2
+jinyinhua	MOL002773	beta-carotene	CASP8
+jinyinhua	MOL002773	beta-carotene	MMP1
+jinyinhua	MOL002773	beta-carotene	HMOX1
+jinyinhua	MOL002773	beta-carotene	CYP3A4
+jinyinhua	MOL002773	beta-carotene	CYP1A2
+jinyinhua	MOL002773	beta-carotene	CAV1
+jinyinhua	MOL002773	beta-carotene	CTNNB1
+jinyinhua	MOL002773	beta-carotene	MYC
+jinyinhua	MOL002773	beta-carotene	CASP7
+jinyinhua	MOL002773	beta-carotene	F3
+jinyinhua	MOL002773	beta-carotene	GJA1
+jinyinhua	MOL002773	beta-carotene	MMP10
+jinyinhua	MOL003036	ZINC03978781	PGR
+jinyinhua	MOL003036	ZINC03978781	NCOA2
+jinyinhua	MOL003036	ZINC03978781	NR3C2
+jinyinhua	MOL003044	Chryseriol	NOS2
+jinyinhua	MOL003044	Chryseriol	PTGS1
+jinyinhua	MOL003044	Chryseriol	ESR1
+jinyinhua	MOL003044	Chryseriol	AR
+jinyinhua	MOL003044	Chryseriol	PPARG
+jinyinhua	MOL003044	Chryseriol	PTGS2
+jinyinhua	MOL003044	Chryseriol	DPP4
+jinyinhua	MOL003044	Chryseriol	MAPK14
+jinyinhua	MOL003044	Chryseriol	GSK3B
+jinyinhua	MOL003044	Chryseriol	HSP90AA1
+jinyinhua	MOL003044	Chryseriol	CDK2
+jinyinhua	MOL003044	Chryseriol	CHEK1
+jinyinhua	MOL003044	Chryseriol	PRSS1
+jinyinhua	MOL003044	Chryseriol	NCOA2
+jinyinhua	MOL003044	Chryseriol	NCOA1
+jinyinhua	MOL003044	Chryseriol	CAMTA2
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	NOS2
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	PTGS1
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	KCNH2
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	ESR1
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	AR
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	SCN5A
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	PPARG
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	PTGS2
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	CACNA2D1
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	ESR2
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	DPP4
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	MAPK14
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	GSK3B
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	HSP90AA1
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	CHEK1
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	PRSS1
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	NCOA2
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	NCOA1
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	CAMTA2
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	ADRB2
+jinyinhua	MOL003095	5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	BACE1
+jinyinhua	MOL003111	Centauroside_qt	ESR1
+jinyinhua	MOL003111	Centauroside_qt	AR
+jinyinhua	MOL003111	Centauroside_qt	CA2
+jinyinhua	MOL003111	Centauroside_qt	DPP4
+jinyinhua	MOL003111	Centauroside_qt	HSP90AA1
+jinyinhua	MOL003111	Centauroside_qt	PRSS1
+jinyinhua	MOL003111	Centauroside_qt	NCOA2
+jinyinhua	MOL003111	Centauroside_qt	NCOA1
+jinyinhua	MOL003117	Ioniceracetalides B_qt	NOS2
+jinyinhua	MOL003117	Ioniceracetalides B_qt	PTGS2
+jinyinhua	MOL003117	Ioniceracetalides B_qt	GABRA1
+jinyinhua	MOL003117	Ioniceracetalides B_qt	DPP4
+jinyinhua	MOL003117	Ioniceracetalides B_qt	DPEP1
+jinyinhua	MOL003128	dinethylsecologanoside	AR
+jinyinhua	MOL003128	dinethylsecologanoside	CA2
+jinyinhua	MOL000358	beta-sitosterol	PGR
+jinyinhua	MOL000358	beta-sitosterol	NCOA2
+jinyinhua	MOL000358	beta-sitosterol	PTGS1
+jinyinhua	MOL000358	beta-sitosterol	PTGS2
+jinyinhua	MOL000358	beta-sitosterol	HSP90AA1
+jinyinhua	MOL000358	beta-sitosterol	KCNH2
+jinyinhua	MOL000358	beta-sitosterol	DRD1
+jinyinhua	MOL000358	beta-sitosterol	CHRM3
+jinyinhua	MOL000358	beta-sitosterol	CHRM1
+jinyinhua	MOL000358	beta-sitosterol	SCN5A
+jinyinhua	MOL000358	beta-sitosterol	CHRM4
+jinyinhua	MOL000358	beta-sitosterol	ADRA1A
+jinyinhua	MOL000358	beta-sitosterol	CHRM2
+jinyinhua	MOL000358	beta-sitosterol	ADRA1B
+jinyinhua	MOL000358	beta-sitosterol	ADRB2
+jinyinhua	MOL000358	beta-sitosterol	CHRNA2
+jinyinhua	MOL000358	beta-sitosterol	SLC6A4
+jinyinhua	MOL000358	beta-sitosterol	OPRM1
+jinyinhua	MOL000358	beta-sitosterol	GABRA1
+jinyinhua	MOL000358	beta-sitosterol	BCL2
+jinyinhua	MOL000358	beta-sitosterol	BAX
+jinyinhua	MOL000358	beta-sitosterol	CASP9
+jinyinhua	MOL000358	beta-sitosterol	CASP3
+jinyinhua	MOL000358	beta-sitosterol	CASP8
+jinyinhua	MOL000358	beta-sitosterol	PRKCA
+jinyinhua	MOL000358	beta-sitosterol	PON1
+jinyinhua	MOL000358	beta-sitosterol	MAP2
+jinyinhua	MOL000422	kaempferol	NOS2
+jinyinhua	MOL000422	kaempferol	PTGS1
+jinyinhua	MOL000422	kaempferol	AR
+jinyinhua	MOL000422	kaempferol	PPARG
+jinyinhua	MOL000422	kaempferol	PTGS2
+jinyinhua	MOL000422	kaempferol	HSP90AA1
+jinyinhua	MOL000422	kaempferol	NCOA2
+jinyinhua	MOL000422	kaempferol	DPP4
+jinyinhua	MOL000422	kaempferol	PRSS1
+jinyinhua	MOL000422	kaempferol	PGR
+jinyinhua	MOL000422	kaempferol	CHRM1
+jinyinhua	MOL000422	kaempferol	ACHE
+jinyinhua	MOL000422	kaempferol	SLC6A2
+jinyinhua	MOL000422	kaempferol	CHRM2
+jinyinhua	MOL000422	kaempferol	ADRA1B
+jinyinhua	MOL000422	kaempferol	GABRA1
+jinyinhua	MOL000422	kaempferol	F7
+jinyinhua	MOL000422	kaempferol	CAMTA2
+jinyinhua	MOL000422	kaempferol	RELA
+jinyinhua	MOL000422	kaempferol	IKBKB
+jinyinhua	MOL000422	kaempferol	AKT1
+jinyinhua	MOL000422	kaempferol	BCL2
+jinyinhua	MOL000422	kaempferol	BAX
+jinyinhua	MOL000422	kaempferol	TNF
+jinyinhua	MOL000422	kaempferol	AHSA1
+jinyinhua	MOL000422	kaempferol	CASP3
+jinyinhua	MOL000422	kaempferol	MAPK8
+jinyinhua	MOL000422	kaempferol	MMP1
+jinyinhua	MOL000422	kaempferol	STAT1
+jinyinhua	MOL000422	kaempferol	CDK1
+jinyinhua	MOL000422	kaempferol	PPARG
+jinyinhua	MOL000422	kaempferol	HMOX1
+jinyinhua	MOL000422	kaempferol	CYP3A4
+jinyinhua	MOL000422	kaempferol	CYP1A2
+jinyinhua	MOL000422	kaempferol	CYP1A1
+jinyinhua	MOL000422	kaempferol	ICAM1
+jinyinhua	MOL000422	kaempferol	SELE
+jinyinhua	MOL000422	kaempferol	VCAM1
+jinyinhua	MOL000422	kaempferol	NR1I2
+jinyinhua	MOL000422	kaempferol	CYP1B1
+jinyinhua	MOL000422	kaempferol	ALOX5
+jinyinhua	MOL000422	kaempferol	HAS2
+jinyinhua	MOL000422	kaempferol	GSTP1
+jinyinhua	MOL000422	kaempferol	AHR
+jinyinhua	MOL000422	kaempferol	PSMD3
+jinyinhua	MOL000422	kaempferol	SLC2A4
+jinyinhua	MOL000422	kaempferol	NR1I3
+jinyinhua	MOL000422	kaempferol	INSR
+jinyinhua	MOL000422	kaempferol	DIO1
+jinyinhua	MOL000422	kaempferol	PPP3CA
+jinyinhua	MOL000422	kaempferol	GSTM1
+jinyinhua	MOL000422	kaempferol	GSTM2
+jinyinhua	MOL000422	kaempferol	AKR1C3
+jinyinhua	MOL000422	kaempferol	SLPI
+jinyinhua	MOL000449	Stigmasterol	PGR
+jinyinhua	MOL000449	Stigmasterol	NR3C2
+jinyinhua	MOL000449	Stigmasterol	NCOA2
+jinyinhua	MOL000449	Stigmasterol	ADH1C
+jinyinhua	MOL000449	Stigmasterol	IGHG1
+jinyinhua	MOL000449	Stigmasterol	RXRA
+jinyinhua	MOL000449	Stigmasterol	NCOA1
+jinyinhua	MOL000449	Stigmasterol	PTGS1
+jinyinhua	MOL000449	Stigmasterol	PTGS2
+jinyinhua	MOL000449	Stigmasterol	ADRA2A
+jinyinhua	MOL000449	Stigmasterol	SLC6A2
+jinyinhua	MOL000449	Stigmasterol	SLC6A3
+jinyinhua	MOL000449	Stigmasterol	ADRB2
+jinyinhua	MOL000449	Stigmasterol	AKR1B1
+jinyinhua	MOL000449	Stigmasterol	PLAU
+jinyinhua	MOL000449	Stigmasterol	LTA4H
+jinyinhua	MOL000449	Stigmasterol	MAOB
+jinyinhua	MOL000449	Stigmasterol	MAOA
+jinyinhua	MOL000449	Stigmasterol	CTRB1
+jinyinhua	MOL000449	Stigmasterol	CHRM3
+jinyinhua	MOL000449	Stigmasterol	CHRM1
+jinyinhua	MOL000449	Stigmasterol	ADRB1
+jinyinhua	MOL000449	Stigmasterol	SCN5A
+jinyinhua	MOL000449	Stigmasterol	ADRA1A
+jinyinhua	MOL000449	Stigmasterol	CHRM2
+jinyinhua	MOL000449	Stigmasterol	ADRA1B
+jinyinhua	MOL000449	Stigmasterol	GABRA1
+jinyinhua	MOL000006	luteolin	PTGS1
+jinyinhua	MOL000006	luteolin	AR
+jinyinhua	MOL000006	luteolin	PTGS2
+jinyinhua	MOL000006	luteolin	HSP90AA1
+jinyinhua	MOL000006	luteolin	PRSS1
+jinyinhua	MOL000006	luteolin	NCOA2
+jinyinhua	MOL000006	luteolin	DPP4
+jinyinhua	MOL000006	luteolin	RELA
+jinyinhua	MOL000006	luteolin	EGFR
+jinyinhua	MOL000006	luteolin	AKT1
+jinyinhua	MOL000006	luteolin	CCND1
+jinyinhua	MOL000006	luteolin	BCL2L1
+jinyinhua	MOL000006	luteolin	CDKN1A
+jinyinhua	MOL000006	luteolin	CASP9
+jinyinhua	MOL000006	luteolin	MMP2
+jinyinhua	MOL000006	luteolin	MMP9
+jinyinhua	MOL000006	luteolin	MAPK1
+jinyinhua	MOL000006	luteolin	IL10
+jinyinhua	MOL000006	luteolin	RB1
+jinyinhua	MOL000006	luteolin	CDK4
+jinyinhua	MOL000006	luteolin	TNF
+jinyinhua	MOL000006	luteolin	IL6
+jinyinhua	MOL000006	luteolin	CASP3
+jinyinhua	MOL000006	luteolin	TP53
+jinyinhua	MOL000006	luteolin	NFKBIA
+jinyinhua	MOL000006	luteolin	TOP1
+jinyinhua	MOL000006	luteolin	MDM2
+jinyinhua	MOL000006	luteolin	APP
+jinyinhua	MOL000006	luteolin	MMP1
+jinyinhua	MOL000006	luteolin	PCNA
+jinyinhua	MOL000006	luteolin	ERBB2
+jinyinhua	MOL000006	luteolin	PPARG
+jinyinhua	MOL000006	luteolin	HMOX1
+jinyinhua	MOL000006	luteolin	CASP7
+jinyinhua	MOL000006	luteolin	ICAM1
+jinyinhua	MOL000006	luteolin	MCL1
+jinyinhua	MOL000006	luteolin	BIRC5
+jinyinhua	MOL000006	luteolin	IL2RA
+jinyinhua	MOL000006	luteolin	CCNB1
+jinyinhua	MOL000006	luteolin	TYR
+jinyinhua	MOL000006	luteolin	IFNG
+jinyinhua	MOL000006	luteolin	IL4
+jinyinhua	MOL000006	luteolin	TOP2A
+jinyinhua	MOL000006	luteolin	GSTP1
+jinyinhua	MOL000006	luteolin	XIAP
+jinyinhua	MOL000006	luteolin	SLC2A4
+jinyinhua	MOL000006	luteolin	INSR
+jinyinhua	MOL000006	luteolin	CD40LG
+jinyinhua	MOL000006	luteolin	PTGES
+jinyinhua	MOL000006	luteolin	NUF2
+jinyinhua	MOL000006	luteolin	ADCY2
+jinyinhua	MOL000006	luteolin	MET
+jinyinhua	MOL000098	quercetin	PTGS1
+jinyinhua	MOL000098	quercetin	AR
+jinyinhua	MOL000098	quercetin	PPARG
+jinyinhua	MOL000098	quercetin	PTGS2
+jinyinhua	MOL000098	quercetin	HSP90AA1
+jinyinhua	MOL000098	quercetin	NCOA2
+jinyinhua	MOL000098	quercetin	DPP4
+jinyinhua	MOL000098	quercetin	AKR1B1
+jinyinhua	MOL000098	quercetin	PRSS1
+jinyinhua	MOL000098	quercetin	KCNH2
+jinyinhua	MOL000098	quercetin	SCN5A
+jinyinhua	MOL000098	quercetin	ADRB2
+jinyinhua	MOL000098	quercetin	MMP3
+jinyinhua	MOL000098	quercetin	F7
+jinyinhua	MOL000098	quercetin	RXRA
+jinyinhua	MOL000098	quercetin	ACHE
+jinyinhua	MOL000098	quercetin	GABRA1
+jinyinhua	MOL000098	quercetin	MAOB
+jinyinhua	MOL000098	quercetin	RELA
+jinyinhua	MOL000098	quercetin	EGFR
+jinyinhua	MOL000098	quercetin	AKT1
+jinyinhua	MOL000098	quercetin	CCND1
+jinyinhua	MOL000098	quercetin	BCL2
+jinyinhua	MOL000098	quercetin	BCL2L1
+jinyinhua	MOL000098	quercetin	FOS
+jinyinhua	MOL000098	quercetin	CDKN1A
+jinyinhua	MOL000098	quercetin	EIF6
+jinyinhua	MOL000098	quercetin	BAX
+jinyinhua	MOL000098	quercetin	CASP9
+jinyinhua	MOL000098	quercetin	PLAU
+jinyinhua	MOL000098	quercetin	MMP2
+jinyinhua	MOL000098	quercetin	MMP9
+jinyinhua	MOL000098	quercetin	MAPK1
+jinyinhua	MOL000098	quercetin	IL10
+jinyinhua	MOL000098	quercetin	EGF
+jinyinhua	MOL000098	quercetin	RB1
+jinyinhua	MOL000098	quercetin	TNF
+jinyinhua	MOL000098	quercetin	IL6
+jinyinhua	MOL000098	quercetin	AHSA1
+jinyinhua	MOL000098	quercetin	CASP3
+jinyinhua	MOL000098	quercetin	TP53
+jinyinhua	MOL000098	quercetin	ELK1
+jinyinhua	MOL000098	quercetin	NFKBIA
+jinyinhua	MOL000098	quercetin	POR
+jinyinhua	MOL000098	quercetin	ODC1
+jinyinhua	MOL000098	quercetin	CASP8
+jinyinhua	MOL000098	quercetin	TOP1
+jinyinhua	MOL000098	quercetin	RAF1
+jinyinhua	MOL000098	quercetin	SOD1
+jinyinhua	MOL000098	quercetin	PRKCA
+jinyinhua	MOL000098	quercetin	MMP1
+jinyinhua	MOL000098	quercetin	HIF1A
+jinyinhua	MOL000098	quercetin	STAT1
+jinyinhua	MOL000098	quercetin	RUNX1T1
+jinyinhua	MOL000098	quercetin	CDK1
+jinyinhua	MOL000098	quercetin	HSPA5
+jinyinhua	MOL000098	quercetin	ERBB2
+jinyinhua	MOL000098	quercetin	PPARG
+jinyinhua	MOL000098	quercetin	ACACA
+jinyinhua	MOL000098	quercetin	HMOX1
+jinyinhua	MOL000098	quercetin	CYP3A4
+jinyinhua	MOL000098	quercetin	CYP1A2
+jinyinhua	MOL000098	quercetin	CAV1
+jinyinhua	MOL000098	quercetin	MYC
+jinyinhua	MOL000098	quercetin	F3
+jinyinhua	MOL000098	quercetin	GJA1
+jinyinhua	MOL000098	quercetin	CYP1A1
+jinyinhua	MOL000098	quercetin	ICAM1
+jinyinhua	MOL000098	quercetin	IL1B
+jinyinhua	MOL000098	quercetin	CCL2
+jinyinhua	MOL000098	quercetin	SELE
+jinyinhua	MOL000098	quercetin	VCAM1
+jinyinhua	MOL000098	quercetin	PTGER3
+jinyinhua	MOL000098	quercetin	CXCL8
+jinyinhua	MOL000098	quercetin	PRKCB
+jinyinhua	MOL000098	quercetin	BIRC5
+jinyinhua	MOL000098	quercetin	DUOX2
+jinyinhua	MOL000098	quercetin	NOS3
+jinyinhua	MOL000098	quercetin	HSPB1
+jinyinhua	MOL000098	quercetin	SULT1E1
+jinyinhua	MOL000098	quercetin	IL2RA
+jinyinhua	MOL000098	quercetin	NR1I2
+jinyinhua	MOL000098	quercetin	CYP1B1
+jinyinhua	MOL000098	quercetin	CCNB1
+jinyinhua	MOL000098	quercetin	PLAT
+jinyinhua	MOL000098	quercetin	THBD
+jinyinhua	MOL000098	quercetin	SERPINE1
+jinyinhua	MOL000098	quercetin	COL1A1
+jinyinhua	MOL000098	quercetin	IFNG
+jinyinhua	MOL000098	quercetin	ALOX5
+jinyinhua	MOL000098	quercetin	IL1A
+jinyinhua	MOL000098	quercetin	MPO
+jinyinhua	MOL000098	quercetin	TOP2A
+jinyinhua	MOL000098	quercetin	NCF1
+jinyinhua	MOL000098	quercetin	ABCG2
+jinyinhua	MOL000098	quercetin	HAS2
+jinyinhua	MOL000098	quercetin	GSTP1
+jinyinhua	MOL000098	quercetin	NFE2L2
+jinyinhua	MOL000098	quercetin	NQO1
+jinyinhua	MOL000098	quercetin	PARP1
+jinyinhua	MOL000098	quercetin	AHR
+jinyinhua	MOL000098	quercetin	PSMD3
+jinyinhua	MOL000098	quercetin	SLC2A4
+jinyinhua	MOL000098	quercetin	COL3A1
+jinyinhua	MOL000098	quercetin	CXCL11
+jinyinhua	MOL000098	quercetin	CXCL2
+jinyinhua	MOL000098	quercetin	DCAF5
+jinyinhua	MOL000098	quercetin	NR1I3
+jinyinhua	MOL000098	quercetin	CHEK2
+jinyinhua	MOL000098	quercetin	INSR
+jinyinhua	MOL000098	quercetin	CLDN4
+jinyinhua	MOL000098	quercetin	PPARA
+jinyinhua	MOL000098	quercetin	PPARD
+jinyinhua	MOL000098	quercetin	HSF1
+jinyinhua	MOL000098	quercetin	CXCL10
+jinyinhua	MOL000098	quercetin	CHUK
+jinyinhua	MOL000098	quercetin	SPP1
+jinyinhua	MOL000098	quercetin	RUNX2
+jinyinhua	MOL000098	quercetin	RASSF1
+jinyinhua	MOL000098	quercetin	E2F1
+jinyinhua	MOL000098	quercetin	E2F2
+jinyinhua	MOL000098	quercetin	ACP3
+jinyinhua	MOL000098	quercetin	CTSD
+jinyinhua	MOL000098	quercetin	IGFBP3
+jinyinhua	MOL000098	quercetin	IGF2
+jinyinhua	MOL000098	quercetin	CD40LG
+jinyinhua	MOL000098	quercetin	IRF1
+jinyinhua	MOL000098	quercetin	ERBB3
+jinyinhua	MOL000098	quercetin	PON1
+jinyinhua	MOL000098	quercetin	DIO1
+jinyinhua	MOL000098	quercetin	PCOLCE
+jinyinhua	MOL000098	quercetin	NPEPPS
+jinyinhua	MOL000098	quercetin	HK2
+jinyinhua	MOL000098	quercetin	RASA1
+jinyinhua	MOL000098	quercetin	GSTM1
+jinyinhua	MOL000098	quercetin	GSTM2
+xuanshen	MOL002222	sugiol	CHRM3
+xuanshen	MOL002222	sugiol	CHRM1
+xuanshen	MOL002222	sugiol	SCN5A
+xuanshen	MOL002222	sugiol	CHRM5
+xuanshen	MOL002222	sugiol	PTGS2
+xuanshen	MOL002222	sugiol	CA2
+xuanshen	MOL002222	sugiol	CHRM4
+xuanshen	MOL002222	sugiol	OPRD1
+xuanshen	MOL002222	sugiol	ACHE
+xuanshen	MOL002222	sugiol	ADRA1A
+xuanshen	MOL002222	sugiol	CHRM2
+xuanshen	MOL002222	sugiol	ADRA1B
+xuanshen	MOL002222	sugiol	ADRB2
+xuanshen	MOL002222	sugiol	ADRA1D
+xuanshen	MOL002222	sugiol	DRD2
+xuanshen	MOL002222	sugiol	OPRM1
+xuanshen	MOL000358	beta-sitosterol	PGR
+xuanshen	MOL000358	beta-sitosterol	NCOA2
+xuanshen	MOL000358	beta-sitosterol	PTGS1
+xuanshen	MOL000358	beta-sitosterol	PTGS2
+xuanshen	MOL000358	beta-sitosterol	HSP90AA1
+xuanshen	MOL000358	beta-sitosterol	KCNH2
+xuanshen	MOL000358	beta-sitosterol	DRD1
+xuanshen	MOL000358	beta-sitosterol	CHRM3
+xuanshen	MOL000358	beta-sitosterol	CHRM1
+xuanshen	MOL000358	beta-sitosterol	SCN5A
+xuanshen	MOL000358	beta-sitosterol	CHRM4
+xuanshen	MOL000358	beta-sitosterol	ADRA1A
+xuanshen	MOL000358	beta-sitosterol	CHRM2
+xuanshen	MOL000358	beta-sitosterol	ADRA1B
+xuanshen	MOL000358	beta-sitosterol	ADRB2
+xuanshen	MOL000358	beta-sitosterol	CHRNA2
+xuanshen	MOL000358	beta-sitosterol	SLC6A4
+xuanshen	MOL000358	beta-sitosterol	OPRM1
+xuanshen	MOL000358	beta-sitosterol	GABRA1
+xuanshen	MOL000358	beta-sitosterol	BCL2
+xuanshen	MOL000358	beta-sitosterol	BAX
+xuanshen	MOL000358	beta-sitosterol	CASP9
+xuanshen	MOL000358	beta-sitosterol	CASP3
+xuanshen	MOL000358	beta-sitosterol	CASP8
+xuanshen	MOL000358	beta-sitosterol	PRKCA
+xuanshen	MOL000358	beta-sitosterol	PON1
+xuanshen	MOL000358	beta-sitosterol	MAP2
+xuanshen	MOL000359	sitosterol	PGR
+xuanshen	MOL000359	sitosterol	NCOA2
+xuanshen	MOL000359	sitosterol	NR3C2
+xuanshen	MOL007658	14-deoxy-12(R)-sulfoandrographolide	NR3C2
+xuanshen	MOL007662	harpagoside_qt	ESR1
+xuanshen	MOL007662	harpagoside_qt	CA2
+xuanshen	MOL007662	harpagoside_qt	DPP4
+xuanshen	MOL007662	harpagoside_qt	GSK3B
+xuanshen	MOL007662	harpagoside_qt	CDK2
+xuanshen	MOL007662	harpagoside_qt	DPEP1
+xuanshen	MOL007662	harpagoside_qt	PRSS1
+xuanshen	MOL007662	harpagoside_qt	CCNA2
