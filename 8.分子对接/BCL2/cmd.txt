@@ -1,0 +1,1 @@
+vina.exe --config config.txt --log log.txt --out output.pdbqt
